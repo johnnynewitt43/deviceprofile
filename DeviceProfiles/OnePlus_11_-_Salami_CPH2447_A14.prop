@@ -1,0 +1,36 @@
+# Device Profile: OnePlus 11 - Salami CPH2447 A14
+# Model: OnePlus 11 - Salami CPH2447 A14
+# Source URL: https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile
+# Properties count: 30
+
+device_model_name=OnePlus 11 - Salami CPH2447 A14
+ro.boot.hardware.sku=SM8550
+ro.build.date=Tue May 7 06:54:35 UTC 2024
+ro.build.date.utc=1715064875
+ro.build.description=qssi-user 14 UP1A.231005.007 1715064875798 release-keys
+ro.build.display.id=TP1A.220905.001
+ro.build.expect.baseband=MPSS.HI.5.0.c4-00099-KALAMA_GEN_PACK-1.437285.1
+ro.build.expect.bootloader=13.2.8.8.CPH2447
+ro.build.fingerprint=OnePlus/CPH2447/OP594DL1:14/TP1A.220905.001/T.R4T3.17f4d91-3efd-65edb:user/release-keys
+ro.build.flavor=qssi-user
+ro.build.host=dg02-pool06-kvm26
+ro.build.id=TP1A.220905.001
+ro.build.tags=release-keys
+ro.build.type=user
+ro.build.user=android-build
+ro.build.version.incremental=T.R4T3.17f4d91-3efd-65edb
+ro.build.version.release=14
+ro.build.version.sdk=34
+ro.build.version.security_patch=2024-04-05
+ro.kernel=5.15.123-android14-kalama
+ro.product.hardware=OnePlus 11
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 14; CPH2447) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+ro.product.vendor.board=kalama
+ro.product.vendor.brand=oplus
+ro.product.vendor.device=OP594DL1
+ro.product.vendor.manufacturer=OnePlus
+ro.product.vendor.model=CPH2447
+ro.product.vendor.name=CPH2447
+
+ro.profile.name=OnePlus 11 - Salami CPH2447 A14
+ro.profile.source.url=https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile

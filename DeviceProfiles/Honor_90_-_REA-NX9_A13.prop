@@ -1,0 +1,32 @@
+# Device Profile: Honor 90 REA-NX9 A13
+# Model: Honor 90 REA-NX9 A13
+# Source URL: https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile
+# Properties count: 26
+
+device_model_name=Honor 90 REA-NX9 A13
+ro.boot.hardware.sku=REA-NX9
+ro.build.date=Mon Nov 20 10:10:10 UTC 2023
+ro.build.date.utc=1700475010
+ro.build.description=REA-NX9-user 13 HONORREA-NX9 7.1.0.180C185E5R2P1 release-keys
+ro.build.display.id=REA-NX9 7.1.0.180(C185E5R2P1)
+ro.build.expect.baseband=7.1.0.180C185E5R2P1
+ro.build.expect.bootloader=7.1.0.180C185E5R2P1
+ro.build.fingerprint=HONOR/REA-NX9/HNREA:13/HONORREA-NX9/7.1.0.180C185E5R2P1:user/release-keys
+ro.build.flavor=REA-NX9-user
+ro.build.host=magicos-build
+ro.build.id=HONORREA-NX9
+ro.build.tags=release-keys
+ro.build.type=user
+ro.build.user=android-build
+ro.build.version.incremental=7.1.0.180C185E5R2P1
+ro.build.version.release=13
+ro.build.version.sdk=33
+ro.build.version.security_patch=2023-11-01
+ro.kernel=5.15.41-android13-8-gab7a3c7f
+ro.product.hardware=HNREA
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 13; REA-NX9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Mobile Safari/537.36
+ro.product.vendor.board=HONOR
+ro.product.vendor.brand=HONOR
+
+ro.profile.name=Honor 90 REA-NX9 A13
+ro.profile.source.url=https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile

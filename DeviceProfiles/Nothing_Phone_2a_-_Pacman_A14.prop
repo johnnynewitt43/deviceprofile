@@ -1,0 +1,31 @@
+# Device Profile: Nothing Phone 2a Pacman A14
+# Model: Nothing Phone 2a Pacman A14
+# Source URL: https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile
+# Properties count: 25
+
+device_model_name=Nothing Phone 2a Pacman A14
+ro.boot.hardware.sku=Pacman
+ro.build.date=Mon Jul  1 23:08:14 HKT 2024
+ro.build.date.utc=1719846494
+ro.build.description=sys_mssi_64_ww_armv82-user 14 UP1A.231005.007 2407012308 release-keys
+ro.build.display.id=U2.6-240701-2308
+ro.build.expect.baseband=2407012308
+ro.build.expect.bootloader=2407012308
+ro.build.fingerprint=Nothing/Pacman/Pacman:14/UP1A.231005.007/2407012308:user/release-keys
+ro.build.flavor=sys_mssi_64_ww_armv82-user
+ro.build.host=NTSV-J900D1VX
+ro.build.id=UP1A.231005.007
+ro.build.tags=release-keys
+ro.build.type=user
+ro.build.user=android-build
+ro.build.version.incremental=2407012308
+ro.build.version.release=14
+ro.build.version.sdk=34
+ro.build.version.security_patch=2024-07-01
+ro.kernel=mt6886
+ro.product.hardware=Pacman
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 14; Nothing Phone (2a)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+ro.product.vendor.board=mt6886
+
+ro.profile.name=Nothing Phone 2a Pacman A14
+ro.profile.source.url=https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile

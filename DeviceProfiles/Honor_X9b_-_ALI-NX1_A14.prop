@@ -1,0 +1,32 @@
+# Device Profile: Honor X9b ALI-NX1 A14
+# Model: Honor X9b ALI-NX1 A14
+# Source URL: https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile
+# Properties count: 26
+
+device_model_name=Honor X9b ALI-NX1 A14
+ro.boot.hardware.sku=ALI-NX1
+ro.build.date=Wed Sep 18 03:22:55 UTC 2024
+ro.build.date.utc=1726629775
+ro.build.description=ALI-NX1-user 14 HONORALI-NX1 8.0.0.227C185E3R3P2 release-keys
+ro.build.display.id=ALI-NX1 8.0.0.227(C185E3R3P2)
+ro.build.expect.baseband=8.0.0.227C185E3R3P2
+ro.build.expect.bootloader=8.0.0.227C185E3R3P2
+ro.build.fingerprint=HONOR/ALI-NX1/HNALI:14/HONORALI-NX1/8.0.0.227C185E3R3P2:user/release-keys
+ro.build.flavor=ALI-NX1-user
+ro.build.host=magicos-build
+ro.build.id=HONORALI-NX1
+ro.build.tags=release-keys
+ro.build.type=user
+ro.build.user=android-build
+ro.build.version.incremental=8.0.0.227C185E3R3P2
+ro.build.version.release=14
+ro.build.version.sdk=34
+ro.build.version.security_patch=2024-09-01
+ro.kernel=5.15.94-android14-11-gab7a3c7f
+ro.product.hardware=HNALI
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 14; ALI-NX1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36
+ro.product.vendor.board=HONOR
+ro.product.vendor.brand=HONOR
+
+ro.profile.name=Honor X9b ALI-NX1 A14
+ro.profile.source.url=https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile

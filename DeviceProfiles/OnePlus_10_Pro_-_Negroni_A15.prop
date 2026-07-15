@@ -1,0 +1,36 @@
+# Device Profile: OnePlus 10 Pro - Negroni A15
+# Model: OnePlus 10 Pro - Negroni A15
+# Source URL: https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile
+# Properties count: 30
+
+device_model_name=OnePlus 10 Pro - Negroni A15
+ro.boot.hardware.sku=SM8450
+ro.build.date=Mon Jan 6 15:54:54 UTC 2025
+ro.build.date.utc=1736178894
+ro.build.description=qssi-user 15 AP3A.240617.008 1736178894243 release-keys
+ro.build.display.id=AP3A.240617.008
+ro.build.expect.baseband=MPSS.HI.4.0.c1-00420-WAIPIO_GEN_PACK-1.454290.1
+ro.build.expect.bootloader=13.2.8.8.NE2211
+ro.build.fingerprint=OnePlus/NE2211/OP516FL1:15/AP3A.240617.008/S.1be1d7a-1-2:user/release-keys
+ro.build.flavor=qssi-user
+ro.build.host=dg02-pool07-kvm193
+ro.build.id=AP3A.240617.008
+ro.build.tags=release-keys
+ro.build.type=user
+ro.build.user=android-build
+ro.build.version.incremental=S.1be1d7a-1-2
+ro.build.version.release=15
+ro.build.version.sdk=35
+ro.build.version.security_patch=2025-01-01
+ro.kernel=5.10.210-android15-waipio
+ro.product.hardware=OnePlus 10 Pro
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 15; NE2211) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+ro.product.vendor.board=waipio
+ro.product.vendor.brand=oplus
+ro.product.vendor.device=OP516FL1
+ro.product.vendor.manufacturer=OnePlus
+ro.product.vendor.model=NE2211
+ro.product.vendor.name=NE2211
+
+ro.profile.name=OnePlus 10 Pro - Negroni A15
+ro.profile.source.url=https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile

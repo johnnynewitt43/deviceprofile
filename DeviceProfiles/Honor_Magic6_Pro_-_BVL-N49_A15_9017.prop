@@ -1,0 +1,32 @@
+# Device Profile: Honor Magic6 Pro BVL-N49 A15 9.0.0.175
+# Model: Honor Magic6 Pro BVL-N49 A15 9.0.0.175
+# Source URL: https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile
+# Properties count: 26
+
+device_model_name=Honor Magic6 Pro BVL-N49 A15 9.0.0.175
+ro.boot.hardware.sku=BVL-N49
+ro.build.date=Tue May 20 07:55:03 UTC 2025
+ro.build.date.utc=1747727703
+ro.build.description=BVL-N49-user 15 HONORBVL-N49 9.0.0.175C185E14R2P2 release-keys
+ro.build.display.id=BVL-N49 9.0.0.175(C185E14R2P2)
+ro.build.expect.baseband=9.0.0.175C185E14R2P2
+ro.build.expect.bootloader=9.0.0.175C185E14R2P2
+ro.build.fingerprint=HONOR/BVL-N49/HNBVL:15/HONORBVL-N49/9.0.0.175C185E14R2P2:user/release-keys
+ro.build.flavor=BVL-N49-user
+ro.build.host=magicos-build
+ro.build.id=HONORBVL-N49
+ro.build.tags=release-keys
+ro.build.type=user
+ro.build.user=android-build
+ro.build.version.incremental=9.0.0.175C185E14R2P2
+ro.build.version.release=15
+ro.build.version.sdk=35
+ro.build.version.security_patch=2025-05-01
+ro.kernel=6.1.128-android14-11-g58deda01e47b-ab14263620
+ro.product.hardware=HNBVL
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 15; BVL-N49) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
+ro.product.vendor.board=HONOR
+ro.product.vendor.brand=HONOR
+
+ro.profile.name=Honor Magic6 Pro BVL-N49 A15 9.0.0.175
+ro.profile.source.url=https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile

@@ -1,0 +1,32 @@
+# Device Profile: Nokia G60 5G A14 (00WW_3_23A)
+# Model: Nokia G60 5G A14 (00WW_3_23A)
+# Source URL: https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile
+# Properties count: 26
+
+device_model_name=Nokia G60 5G A14 (00WW_3_23A)
+ro.boot.hardware.sku=Nokia G60 5G
+ro.build.date=Tue Dec 10 00:00:00 UTC 2024
+ro.build.date.utc=1733788800
+ro.build.description=APO_sprout-user 14 UKQ1.231003.002 00WW_3_23A release-keys
+ro.build.display.id=UKQ1.231003.002
+ro.build.expect.baseband=00WW_3_23A
+ro.build.expect.bootloader=00WW_3_23A
+ro.build.fingerprint=Nokia/Apollo_00WW/APO_sprout:14/UKQ1.231003.002/00WW_3_23A:user/release-keys
+ro.build.flavor=APO_sprout-user
+ro.build.host=BD-SW-BUILD
+ro.build.id=UKQ1.231003.002
+ro.build.tags=release-keys
+ro.build.type=user
+ro.build.user=android-build
+ro.build.version.incremental=00WW_3_23A
+ro.build.version.release=14
+ro.build.version.sdk=34
+ro.build.version.security_patch=2024-12-05
+ro.kernel=5.4.242
+ro.product.hardware=Apollo
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 14; Nokia G60 5G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+ro.product.vendor.board=Apollo
+ro.product.vendor.manufacturer=HMD Global
+
+ro.profile.name=Nokia G60 5G A14 (00WW_3_23A)
+ro.profile.source.url=https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile

@@ -1,0 +1,36 @@
+# Device Profile: Oppo Find X6 Pro PGEM10 A15
+# Model: Oppo Find X6 Pro PGEM10 A15
+# Source URL: https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile
+# Properties count: 30
+
+device_model_name=Oppo Find X6 Pro PGEM10 A15
+ro.boot.hardware.sku=kalama
+ro.build.date=Tue Mar 18 23:46:56 CST 2025
+ro.build.date.utc=1742312816
+ro.build.description=qssi-user 15 AP3A.240617.008 1742312816557 release-keys
+ro.build.display.id=AP3A.240617.008
+ro.build.expect.baseband=M.7f7c74
+ro.build.expect.bootloader=kalama
+ro.build.fingerprint=oplus/ossi/ossi:15/AP3A.240617.008/1742312816557:user/release-keys
+ro.build.flavor=qssi-user
+ro.build.host=ubuntu
+ro.build.id=AP3A.240617.008
+ro.build.tags=release-keys
+ro.build.type=user
+ro.build.user=android-build
+ro.build.version.incremental=1742312816557
+ro.build.version.release=15
+ro.build.version.sdk=35
+ro.build.version.security_patch=2025-03-01
+ro.kernel=5.15
+ro.product.hardware=kalama
+ro.product.system.brand=oplus
+ro.product.system.device=ossi
+ro.product.system.model=ossi
+ro.product.system.name=ossi
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 15; PGEM10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
+ro.product.vendor.board=kalama
+ro.product.vendor.brand=oplus
+
+ro.profile.name=Oppo Find X6 Pro PGEM10 A15
+ro.profile.source.url=https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile

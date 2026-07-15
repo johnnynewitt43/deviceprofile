@@ -1,0 +1,33 @@
+# Device Profile: Motorola Moto G84 5G A15
+# Model: Motorola Moto G84 5G A15
+# Source URL: https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile
+# Properties count: 27
+
+device_model_name=Motorola Moto G84 5G A15
+ro.board.platform=mt6855
+ro.boot.hardware.sku=XT2347-1
+ro.build.date=Fri Jul 25 09:41:08 UTC 2025
+ro.build.date.utc=1753436468
+ro.build.description=bangkk_g-user 15 V1TC35H.88-16 c3b1cd-0e8d4 release-keys
+ro.build.display.id=V1TC35H.88-16
+ro.build.expect.baseband=MOLY.NR16.R3.TC8.PR2.SP.V4.P12
+ro.build.expect.bootloader=MBM-3.0-bangkk_g-c3b1cd-250725
+ro.build.fingerprint=motorola/bangkk_g/bangkk:15/V1TC35H.88-16/c3b1cd-0e8d4:user/release-keys
+ro.build.flavor=bangkk_g-user
+ro.build.host=ilclbld77
+ro.build.id=V1TC35H.88-16
+ro.build.tags=release-keys
+ro.build.type=user
+ro.build.user=hudsoncm
+ro.build.version.incremental=c3b1cd-0e8d4
+ro.build.version.release=15
+ro.build.version.sdk=35
+ro.build.version.security_patch=2025-07-01
+ro.kernel=5.15.149
+ro.mot.build.guid=c3b1cd-0e8d4
+ro.product.hardware=bangkk
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 15; moto g84 5G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Mobile Safari/537.36
+ro.product.vendor.board=bangkk
+
+ro.profile.name=Motorola Moto G84 5G A15
+ro.profile.source.url=https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile

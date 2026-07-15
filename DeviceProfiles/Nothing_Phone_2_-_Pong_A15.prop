@@ -1,0 +1,31 @@
+# Device Profile: Nothing Phone 2 Pong A15
+# Model: Nothing Phone 2 Pong A15
+# Source URL: https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile
+# Properties count: 25
+
+device_model_name=Nothing Phone 2 Pong A15
+ro.boot.hardware.sku=Pong
+ro.build.date=Tue Mar  4 17:17:53 CST 2025
+ro.build.date.utc=1741079873
+ro.build.description=qssi-user 15 AQ3A.240929.001 2503041717 release-keys
+ro.build.display.id=V3.0-250304-1717
+ro.build.expect.baseband=2503041717
+ro.build.expect.bootloader=2503041717
+ro.build.fingerprint=Nothing/Pong/Pong:15/AQ3A.240929.001/2503041717:user/release-keys
+ro.build.flavor=qssi-user
+ro.build.host=NTSV-J900D1VX
+ro.build.id=AQ3A.240929.001
+ro.build.tags=release-keys
+ro.build.type=user
+ro.build.user=android-build
+ro.build.version.incremental=2503041717
+ro.build.version.release=15
+ro.build.version.sdk=35
+ro.build.version.security_patch=2025-03-01
+ro.kernel=taro
+ro.product.hardware=Pong
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 15; Nothing Phone (2)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
+ro.product.vendor.board=taro
+
+ro.profile.name=Nothing Phone 2 Pong A15
+ro.profile.source.url=https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile

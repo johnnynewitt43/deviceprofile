@@ -1,0 +1,36 @@
+# Device Profile: OnePlus Nord 3 - CPH2493 A14
+# Model: OnePlus Nord 3 - CPH2493 A14
+# Source URL: https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile
+# Properties count: 30
+
+device_model_name=OnePlus Nord 3 - CPH2493 A14
+ro.boot.hardware.sku=MT6983
+ro.build.date=Mon Nov 27 15:10:44 UTC 2023
+ro.build.date.utc=1701097844
+ro.build.description=sys_mssi_64_cn_armv82-user 14 UKQ1.230924.001 1701097844653 release-keys
+ro.build.display.id=UKQ1.230924.001
+ro.build.expect.baseband=MOLY.LR13.R1.TC8.PR2.SP-V7.P75
+ro.build.expect.bootloader=unknown
+ro.build.fingerprint=OnePlus/CPH2493/OP556FL1:14/UKQ1.230924.001/T.R4T3.14d8e84-1-13d:user/release-keys
+ro.build.flavor=sys_mssi_64_cn_armv82-user
+ro.build.host=dg02-pool06-kvm2
+ro.build.id=UKQ1.230924.001
+ro.build.tags=release-keys
+ro.build.type=user
+ro.build.user=android-build
+ro.build.version.incremental=T.R4T3.14d8e84-1-13d
+ro.build.version.release=14
+ro.build.version.sdk=34
+ro.build.version.security_patch=2023-11-05
+ro.kernel=5.10.198-android14-mt6983
+ro.product.hardware=OnePlus Nord 3
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 14; CPH2493) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+ro.product.vendor.board=k6983v1_64
+ro.product.vendor.brand=oplus
+ro.product.vendor.device=OP556FL1
+ro.product.vendor.manufacturer=OnePlus
+ro.product.vendor.model=CPH2493
+ro.product.vendor.name=CPH2493
+
+ro.profile.name=OnePlus Nord 3 - CPH2493 A14
+ro.profile.source.url=https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile

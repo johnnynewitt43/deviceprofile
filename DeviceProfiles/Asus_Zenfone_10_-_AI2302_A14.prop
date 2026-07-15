@@ -1,0 +1,31 @@
+# Device Profile: Asus Zenfone 10 AI2302 A14
+# Model: Asus Zenfone 10 AI2302 A14
+# Source URL: https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile
+# Properties count: 25
+
+device_model_name=Asus Zenfone 10 AI2302 A14
+ro.boot.hardware.sku=ASUS_AI2302
+ro.build.date=Thu Dec 21 01:11:22 CST 2023
+ro.build.date.utc=1703092282
+ro.build.description=qssi-user 14 UKQ1.230917.001 34.1004.0204.65 release-keys
+ro.build.display.id=UKQ1.230917.001.WW_Phone-34.1004.0204.65 release-keys
+ro.build.expect.baseband=34.1004.0204.65
+ro.build.expect.bootloader=34.1004.0204.65
+ro.build.fingerprint=asus/WW_AI2302/ASUS_AI2302:14/UKQ1.230917.001/34.1004.0204.65:user/release-keys
+ro.build.flavor=qssi-user
+ro.build.host=mcrd1-16
+ro.build.id=UKQ1.230917.001
+ro.build.tags=release-keys
+ro.build.type=user
+ro.build.user=android-build
+ro.build.version.incremental=34.1004.0204.65
+ro.build.version.release=14
+ro.build.version.sdk=34
+ro.build.version.security_patch=2023-12-05
+ro.kernel=kalama
+ro.product.hardware=ASUS_AI2302
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 14; ASUS_AI2302) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+ro.product.vendor.board=kalama
+
+ro.profile.name=Asus Zenfone 10 AI2302 A14
+ro.profile.source.url=https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile

@@ -1,0 +1,33 @@
+# Device Profile: Motorola Moto G54 5G A13
+# Model: Motorola Moto G54 5G A13
+# Source URL: https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile
+# Properties count: 27
+
+device_model_name=Motorola Moto G54 5G A13
+ro.board.platform=mt6855
+ro.boot.hardware.sku=XT2343-1
+ro.build.date=Tue Sep 05 04:00:00 UTC 2023
+ro.build.date.utc=1693886400
+ro.build.description=cancunf_g_sys-user 13 T3TD33.16-13-5 1449d9-6cef3 release-keys
+ro.build.display.id=T3TD33.16-13-5
+ro.build.expect.baseband=MOLY.NR16.R3.TC8.PR7.SP.V10.P36
+ro.build.expect.bootloader=MBM-3.1-cancunf_g_vext-1449d9-230828
+ro.build.fingerprint=motorola/cancunf_g_sys/cancunf:13/T3TD33.16-13-5/1449d9-6cef3:user/release-keys
+ro.build.flavor=cancunf_g_sys-user
+ro.build.host=ilclbld54
+ro.build.id=T3TD33.16-13-5
+ro.build.tags=release-keys
+ro.build.type=user
+ro.build.user=hudsoncm
+ro.build.version.incremental=1449d9-6cef3
+ro.build.version.release=13
+ro.build.version.sdk=33
+ro.build.version.security_patch=2023-08-01
+ro.kernel=5.15.78
+ro.mot.build.guid=1449d9-6cef3
+ro.product.hardware=cancunf
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 13; moto g54 5G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Mobile Safari/537.36
+ro.product.vendor.board=cancunf
+
+ro.profile.name=Motorola Moto G54 5G A13
+ro.profile.source.url=https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile

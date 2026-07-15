@@ -1,0 +1,36 @@
+# Device Profile: OnePlus 12 - Waffle A14
+# Model: OnePlus 12 - Waffle A14
+# Source URL: https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile
+# Properties count: 30
+
+device_model_name=OnePlus 12 - Waffle A14
+ro.boot.hardware.sku=SM8650
+ro.build.date=Thu Jan 25 13:03:44 UTC 2024
+ro.build.date.utc=1706187824
+ro.build.description=qssi_64-user 14 UKQ1.230924.001 1706187824568 release-keys
+ro.build.display.id=UKQ1.230924.001
+ro.build.expect.baseband=MPSS.HI.6.0.c8-00099-PINEAPPLE_GEN_PACK-1.416497.1
+ro.build.expect.bootloader=13.2.8.8.CPH2581
+ro.build.fingerprint=OnePlus/CPH2581EEA/OP595DL1:14/UKQ1.230924.001/U.R4T3.16074b7-520_1:user/release-keys
+ro.build.flavor=qssi_64-user
+ro.build.host=dg02-pool06-kvm63
+ro.build.id=UKQ1.230924.001
+ro.build.tags=release-keys
+ro.build.type=user
+ro.build.user=android-build
+ro.build.version.incremental=U.R4T3.16074b7-520_1
+ro.build.version.release=14
+ro.build.version.sdk=34
+ro.build.version.security_patch=2024-01-05
+ro.kernel=5.15.123-android14-gpineapple
+ro.product.hardware=OnePlus 12
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 14; CPH2581) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+ro.product.vendor.board=pineapple
+ro.product.vendor.brand=oplus
+ro.product.vendor.device=OP595DL1
+ro.product.vendor.manufacturer=OnePlus
+ro.product.vendor.model=CPH2581
+ro.product.vendor.name=CPH2581EEA
+
+ro.profile.name=OnePlus 12 - Waffle A14
+ro.profile.source.url=https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile

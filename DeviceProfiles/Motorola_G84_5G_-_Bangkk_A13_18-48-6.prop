@@ -1,0 +1,33 @@
+# Device Profile: Motorola Moto G84 5G A13 (T3TC33.18-48-6)
+# Model: Motorola Moto G84 5G A13 (T3TC33.18-48-6)
+# Source URL: https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile
+# Properties count: 27
+
+device_model_name=Motorola Moto G84 5G A13 (T3TC33.18-48-6)
+ro.board.platform=mt6855
+ro.boot.hardware.sku=XT2347-1
+ro.build.date=Thu Sep 28 06:09:50 UTC 2023
+ro.build.date.utc=1695881390
+ro.build.description=bangkk_g-user 13 T3TC33.18-48-6 5dba7-8ff0b release-keys
+ro.build.display.id=T3TC33.18-48-6
+ro.build.expect.baseband=MOLY.NR16.R3.TC8.PR2.SP.V2.P44
+ro.build.expect.bootloader=MBM-3.0-bangkk_g-5dba7-230920
+ro.build.fingerprint=motorola/bangkk_g/bangkk:13/T3TC33.18-48-6/5dba7-8ff0b:user/release-keys
+ro.build.flavor=bangkk_g-user
+ro.build.host=ilclbld53
+ro.build.id=T3TC33.18-48-6
+ro.build.tags=release-keys
+ro.build.type=user
+ro.build.user=hudsoncm
+ro.build.version.incremental=5dba7-8ff0b
+ro.build.version.release=13
+ro.build.version.sdk=33
+ro.build.version.security_patch=2023-09-01
+ro.kernel=5.15.78
+ro.mot.build.guid=5dba7-8ff0b
+ro.product.hardware=bangkk
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 13; moto g84 5G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Mobile Safari/537.36
+ro.product.vendor.board=bangkk
+
+ro.profile.name=Motorola Moto G84 5G A13 (T3TC33.18-48-6)
+ro.profile.source.url=https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile

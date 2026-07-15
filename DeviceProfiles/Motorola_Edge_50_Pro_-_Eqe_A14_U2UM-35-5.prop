@@ -1,0 +1,33 @@
+# Device Profile: Motorola Edge 50 Pro A14 (U2UM34.27-35-5)
+# Model: Motorola Edge 50 Pro A14 (U2UM34.27-35-5)
+# Source URL: https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile
+# Properties count: 27
+
+device_model_name=Motorola Edge 50 Pro A14 (U2UM34.27-35-5)
+ro.board.platform=cretin
+ro.boot.hardware.sku=XT2403-1
+ro.build.date=Tue Feb 27 09:30:36 UTC 2024
+ro.build.date.utc=1709026236
+ro.build.description=eqe_ap-user 14 U2UM34.27-35-5 410ad release-keys
+ro.build.display.id=U2UM34.27-35-5
+ro.build.expect.baseband=M80_39.32.05.101.01R VANQUISH_EMEADSDS_CUST
+ro.build.expect.bootloader=MBM-3.0-eqe_ap-410ad-240220
+ro.build.fingerprint=motorola/eqe_ap/eqe:14/U2UM34.27-35-5/410ad-release:user/release-keys
+ro.build.flavor=eqe_ap-user
+ro.build.host=ilclbld71
+ro.build.id=U2UM34.27-35-5
+ro.build.tags=release-keys
+ro.build.type=user
+ro.build.user=hudsoncm
+ro.build.version.incremental=410ad-release
+ro.build.version.release=14
+ro.build.version.sdk=34
+ro.build.version.security_patch=2024-03-01
+ro.kernel=5.15.104
+ro.mot.build.guid=410ad-release
+ro.product.hardware=eqe
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 14; motorola edge 50 pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+ro.product.vendor.board=eqe
+
+ro.profile.name=Motorola Edge 50 Pro A14 (U2UM34.27-35-5)
+ro.profile.source.url=https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile

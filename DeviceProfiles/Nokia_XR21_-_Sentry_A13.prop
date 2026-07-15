@@ -1,0 +1,32 @@
+# Device Profile: Nokia XR21 A13
+# Model: Nokia XR21 A13
+# Source URL: https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile
+# Properties count: 26
+
+device_model_name=Nokia XR21 A13
+ro.boot.hardware.sku=Nokia XR21
+ro.build.date=Sat Jul 15 00:00:00 UTC 2023
+ro.build.date.utc=1689379200
+ro.build.description=SNT_sprout-user 13 TKQ1.220807.001 00WW_2_210 release-keys
+ro.build.display.id=TKQ1.220807.001
+ro.build.expect.baseband=00WW_2_210
+ro.build.expect.bootloader=00WW_2_210
+ro.build.fingerprint=Nokia/Sentry_00WW/SNT_sprout:13/TKQ1.220807.001/00WW_2_210:user/release-keys
+ro.build.flavor=SNT_sprout-user
+ro.build.host=BD-SW-BUILD
+ro.build.id=TKQ1.220807.001
+ro.build.tags=release-keys
+ro.build.type=user
+ro.build.user=android-build
+ro.build.version.incremental=00WW_2_210
+ro.build.version.release=13
+ro.build.version.sdk=33
+ro.build.version.security_patch=2023-07-05
+ro.kernel=5.4.147
+ro.product.hardware=Sentry
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 13; Nokia XR21) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Mobile Safari/537.36
+ro.product.vendor.board=Sentry
+ro.product.vendor.manufacturer=HMD Global
+
+ro.profile.name=Nokia XR21 A13
+ro.profile.source.url=https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile

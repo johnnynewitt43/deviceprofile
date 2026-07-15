@@ -1,0 +1,31 @@
+# Device Profile: Nothing Phone 1 Spacewar A14
+# Model: Nothing Phone 1 Spacewar A14
+# Source URL: https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile
+# Properties count: 25
+
+device_model_name=Nothing Phone 1 Spacewar A14
+ro.boot.hardware.sku=Spacewar
+ro.build.date=Thu Oct 31 18:18:22 CST 2024
+ro.build.date.utc=1730369902
+ro.build.description=qssi-user 14 UP1A.231005.007 2410311818 release-keys
+ro.build.display.id=U2.6-241031-1818
+ro.build.expect.baseband=2410311818
+ro.build.expect.bootloader=2410311818
+ro.build.fingerprint=Nothing/Spacewar/Spacewar:14/UP1A.231005.007/2410311818:user/release-keys
+ro.build.flavor=qssi-user
+ro.build.host=NTSV-J900D1VX
+ro.build.id=UP1A.231005.007
+ro.build.tags=release-keys
+ro.build.type=user
+ro.build.user=android-build
+ro.build.version.incremental=2410311818
+ro.build.version.release=14
+ro.build.version.sdk=34
+ro.build.version.security_patch=2024-11-01
+ro.kernel=lahaina
+ro.product.hardware=Spacewar
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 14; Nothing Phone (1)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+ro.product.vendor.board=lahaina
+
+ro.profile.name=Nothing Phone 1 Spacewar A14
+ro.profile.source.url=https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile
