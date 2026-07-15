@@ -1,0 +1,34 @@
+# Device Profile: POCO F6 Peridot A15
+# Model: POCO F6 Peridot A15
+# Source URL: https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile
+# Properties count: 28
+
+device_model_name=POCO F6 Peridot A15
+ro.boot.hardware.sku=peridot
+ro.build.date=Sat Feb 15 12:00:00 UTC 2025
+ro.build.date.utc=1739620800
+ro.build.description=peridot_global-user 15 AP3A.240905.015 OS2.0.206.0.VNPMIXM release-keys
+ro.build.display.id=AP3A.240905.015
+ro.build.expect.baseband=4.3.c8-00042-SDX72_GEN_PACK-1
+ro.build.expect.bootloader=unknown
+ro.build.fingerprint=POCO/peridot_global/peridot:15/AP3A.240905.015/OS2.0.206.0.VNPMIXM:user/release-keys
+ro.build.flavor=peridot_global-user
+ro.build.host=pangu-build-component-system-288104-k4mlr-cc21p-nnq77
+ro.build.id=AP3A.240905.015
+ro.build.tags=release-keys
+ro.build.type=user
+ro.build.user=android-build
+ro.build.version.incremental=OS2.0.206.0.VNPMIXM
+ro.build.version.release=15
+ro.build.version.sdk=35
+ro.build.version.security_patch=2025-02-01
+ro.kernel=6.1.57-android14-11
+ro.oem.key1=A6E6F2AAD5B6D2B1A7C4C1F0DE5
+ro.product.hardware=peridot
+ro.product.mod_device=peridot_global
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 15; 24069PC21G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Mobile Safari/537.36
+ro.product.vendor.board=pineapple
+ro.vendor.build.version.qcom=AU_LINUX_ANDROID_LA.VENDOR.14.3.0.r1-13300-lanai.0
+
+ro.profile.name=POCO F6 Peridot A15
+ro.profile.source.url=https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile

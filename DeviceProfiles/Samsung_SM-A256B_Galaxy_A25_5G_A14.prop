@@ -1,0 +1,40 @@
+# Device Profile: Samsung SM-A256B Galaxy A25 5G A14
+# Model: Samsung SM-A256B Galaxy A25 5G A14
+# Source URL: https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile
+# Properties count: 34
+
+device_model_name=Samsung SM-A256B Galaxy A25 5G A14
+ro.boot.hardware.sku=s5e8825
+ro.build.PDA=A256BXXU1AXC8
+ro.build.changelist=24488301
+ro.build.date=Tue Nov 21 20:20:28 KST 2023
+ro.build.date.utc=1700565628
+ro.build.description=a25xnaxx-user 14 UP1A.231005.007 A256BXXU1AXC8 release-keys
+ro.build.display.id=UP1A.231005.007.A256BXXU1AXC8
+ro.build.expect.baseband=A256BXXU1AXC8
+ro.build.expect.bootloader=A256BXXU1AXC8
+ro.build.fingerprint=samsung/a25xnaxx/a25x:14/UP1A.231005.007/A256BXXU1AXC8:user/release-keys
+ro.build.flavor=a25xnaxx-user
+ro.build.host=SWDK6705
+ro.build.id=UP1A.231005.007
+ro.build.product_code=SM-A256BZKDEUX
+ro.build.tags=release-keys
+ro.build.type=user
+ro.build.user=android-build
+ro.build.version.incremental=A256BXXU1AXC8
+ro.build.version.release=14
+ro.build.version.sdk=34
+ro.build.version.security_patch=2024-03-01
+ro.csc.sales_code=EUX
+ro.kernel=5.10.185-26640873-abA256BXXU1AXC8
+ro.product.hardware=SM-A256B
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 14; SM-A256B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+ro.product.vendor.board=Samsung
+ro.product.vendor.brand=Samsung
+ro.product.vendor.device=a25x
+ro.product.vendor.manufacturer=Samsung
+ro.product.vendor.model=SM-A256B
+ro.product.vendor.name=a25xnaxx
+
+ro.profile.name=Samsung SM-A256B Galaxy A25 5G A14
+ro.profile.source.url=https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile

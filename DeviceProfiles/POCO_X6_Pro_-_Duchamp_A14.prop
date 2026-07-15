@@ -1,0 +1,34 @@
+# Device Profile: POCO X6 Pro 5G Duchamp A14
+# Model: POCO X6 Pro 5G Duchamp A14
+# Source URL: https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile
+# Properties count: 28
+
+device_model_name=POCO X6 Pro 5G Duchamp A14
+ro.boot.hardware.sku=duchamp
+ro.build.date=Wed May 15 12:00:00 UTC 2024
+ro.build.date.utc=1715774400
+ro.build.description=duchamp_global-user 14 UP1A.230905.011 V816.0.10.0.UNLMIXM release-keys
+ro.build.display.id=UP1A.230905.011
+ro.build.expect.baseband=MOLY.NR16.R3.TC8.PR2.SP.V1.P75
+ro.build.expect.bootloader=unknown
+ro.build.fingerprint=POCO/duchamp_global/duchamp:14/UP1A.230905.011/V816.0.10.0.UNLMIXM:user/release-keys
+ro.build.flavor=duchamp_global-user
+ro.build.host=pangu-build-component-system-249325-b7lqv-plq86-flph9
+ro.build.id=UP1A.230905.011
+ro.build.tags=release-keys
+ro.build.type=user
+ro.build.user=android-build
+ro.build.version.incremental=V816.0.10.0.UNLMIXM
+ro.build.version.release=14
+ro.build.version.sdk=34
+ro.build.version.security_patch=2024-05-01
+ro.kernel=5.15.123-android13-8
+ro.mediatek.version.release=alps-mp-u0.mp1.rc-V2.75.1
+ro.oem.key1=A0FDDE0F32E71B0DE5A82D24A6B
+ro.product.hardware=duchamp
+ro.product.mod_device=duchamp_global
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 14; 23113RKC6G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+ro.product.vendor.board=duchamp
+
+ro.profile.name=POCO X6 Pro 5G Duchamp A14
+ro.profile.source.url=https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile

@@ -1,0 +1,41 @@
+# Device Profile: Realme 11 Pro RMX3771 A13
+# Model: Realme 11 Pro RMX3771 A13
+# Source URL: https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile
+# Properties count: 35
+
+device_model_name=Realme 11 Pro RMX3771 A13
+ro.boot.hardware.sku=mt6877
+ro.build.date=Fri Dec 15 15:20:28 CST 2023
+ro.build.date.utc=1702624828
+ro.build.description=sys_mssi_64_cn_armv82-user 13 SP1A.210812.016 R4T2.T.155ba24-24aa7 release-keys
+ro.build.display.id=RMX3771_13.1.0.549(EX01)
+ro.build.expect.baseband=M.7f7c74
+ro.build.expect.bootloader=mt6877
+ro.build.fingerprint=realme/RMX3771/RE58B8L1:13/SP1A.210812.016/R4T2.T.155ba24-24aa7:user/release-keys
+ro.build.flavor=sys_mssi_64_cn_armv82-user
+ro.build.host=ubuntu
+ro.build.id=SP1A.210812.016
+ro.build.tags=release-keys
+ro.build.type=user
+ro.build.user=android-build
+ro.build.version.incremental=R4T2.T.155ba24-24aa7
+ro.build.version.release=13
+ro.build.version.sdk=33
+ro.build.version.security_patch=2023-12-05
+ro.kernel=5.15
+ro.odm.build.fingerprint=realme/RMX3771/RE58B8L1:13/SP1A.210812.016/R4T2.T.155ba24-24aa7:user/release-keys
+ro.product.hardware=mt6877
+ro.product.odm.brand=realme
+ro.product.odm.device=RE58B8L1
+ro.product.odm.model=RMX3771
+ro.product.odm.name=RMX3771
+ro.product.system.brand=realme
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 13; RMX3771) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Mobile Safari/537.36
+ro.product.vendor.board=mt6877
+ro.product.vendor.brand=realme
+ro.product.vendor.device=RE58B8L1
+ro.product.vendor.model=RMX3771
+ro.product.vendor.name=RMX3771
+
+ro.profile.name=Realme 11 Pro RMX3771 A13
+ro.profile.source.url=https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile

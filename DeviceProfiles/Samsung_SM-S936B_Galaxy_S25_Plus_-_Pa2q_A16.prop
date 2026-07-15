@@ -1,0 +1,40 @@
+# Device Profile: Samsung SM-S936B Galaxy S25+ A16
+# Model: Samsung SM-S936B Galaxy S25+ A16
+# Source URL: https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile
+# Properties count: 34
+
+device_model_name=Samsung SM-S936B Galaxy S25+ A16
+ro.boot.hardware.sku=sun
+ro.build.PDA=S936BXXU9CZDP
+ro.build.changelist=33419270
+ro.build.date=Thu Apr 23 16:49:47 KST 2026
+ro.build.date.utc=1776930587
+ro.build.description=pa2qxxx-user 16 BP4A.251205.006 S936BXXU9CZDP release-keys
+ro.build.display.id=BP4A.251205.006.S936BXXU9CZDP
+ro.build.expect.baseband=S936BXXU9CZDP
+ro.build.expect.bootloader=S936BXXU9CZDP
+ro.build.fingerprint=samsung/pa2qxxx/qssi_64:16/BP4A.251205.006/S936BXXU9CZDP:user/release-keys
+ro.build.flavor=pa2qxxx-user
+ro.build.host=SWDK6606
+ro.build.id=BP4A.251205.006
+ro.build.product_code=SM-S936BZKDEUB
+ro.build.tags=release-keys
+ro.build.type=user
+ro.build.user=android-build
+ro.build.version.incremental=S936BXXU9CZDP
+ro.build.version.release=16
+ro.build.version.sdk=36
+ro.build.version.security_patch=2026-04-05
+ro.csc.sales_code=EUX
+ro.kernel=6.6.30-android16-8-33419270-abogkiS936BXXU9CZDP-4k
+ro.product.hardware=SM-S936B
+ro.product.system.device=qssi_64
+ro.product.system.manufacturer=samsung
+ro.product.system.model=SM-S936B
+ro.product.system.name=pa2qxxx
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 16; SM-S936B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+ro.product.vendor.board=Samsung
+ro.product.vendor.brand=Samsung
+
+ro.profile.name=Samsung SM-S936B Galaxy S25+ A16
+ro.profile.source.url=https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile

@@ -1,0 +1,38 @@
+# Device Profile: Pixel 9 - Tokay A15 AP4A
+# Model: Pixel 9 - Tokay A15 AP4A
+# Source URL: https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile
+# Properties count: 32
+
+device_model_name=Pixel 9 - Tokay A15 AP4A
+ro.boot.hardware.sku=zumapro
+ro.build.date=Thu Dec  5 00:00:00 UTC 2024
+ro.build.date.utc=1733356800
+ro.build.description=tokay-user 15 AP4A.241205.013 12621605 release-keys
+ro.build.display.id=AP4A.241205.013
+ro.build.expect.baseband=g5400c-240910-241106-B-12613159
+ro.build.expect.bootloader=ripcurrentpro-15.1-12475284
+ro.build.fingerprint=google/tokay/tokay:15/AP4A.241205.013/12621605:user/release-keys
+ro.build.flavor=tokay-user
+ro.build.host=r-eaf9838018e7e7ac-8rnv
+ro.build.id=AP4A.241205.013
+ro.build.tags=release-keys
+ro.build.type=user
+ro.build.user=android-build
+ro.build.version.incremental=12621605
+ro.build.version.release=15
+ro.build.version.sdk=35
+ro.build.version.security_patch=2024-12-05
+ro.kernel=5.15-android14-qpr4-9421-bb99d5300-5v34k2x7230
+ro.product.hardware=Pixel 9
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+ro.product.vendor.board=Google
+ro.product.vendor.brand=Google
+ro.product.vendor.device=Tokay
+ro.product.vendor.manufacturer=Google
+ro.product.vendor.model=Pixel 9
+ro.product.vendor.name=Tokay
+ro.vendor.build.date=Thu Dec  5 00:00:00 UTC 2024
+ro.vendor.build.date.utc=1733356800
+
+ro.profile.name=Pixel 9 - Tokay A15 AP4A
+ro.profile.source.url=https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile

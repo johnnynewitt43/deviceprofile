@@ -1,0 +1,44 @@
+# Device Profile: Samsung SM-F956B Galaxy Z Fold6 A15
+# Model: Samsung SM-F956B Galaxy Z Fold6 A15
+# Source URL: https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile
+# Properties count: 38
+
+device_model_name=Samsung SM-F956B Galaxy Z Fold6 A15
+ro.boot.hardware.sku=pineapple
+ro.build.PDA=F956BXXU2BYCK
+ro.build.changelist=31742905
+ro.build.date=Wed Apr 09 04:12:33 UTC 2025
+ro.build.date.utc=1744171953
+ro.build.description=q6qxxx-user 15 AP3A.240905.015.A2 F956BXXU2BYCK release-keys
+ro.build.display.id=AP3A.240905.015.A2.F956BXXU2BYCK
+ro.build.expect.baseband=F956BXXU2BYCK
+ro.build.expect.bootloader=F956BXXU2BYCK
+ro.build.fingerprint=samsung/q6qxxx/q6q:15/AP3A.240905.015.A2/F956BXXU2BYCK:user/release-keys
+ro.build.flavor=q6qxxx-user
+ro.build.host=21DK7B23
+ro.build.id=AP3A.240905.015.A2
+ro.build.product_code=SM-F956BZKGXAA
+ro.build.tags=release-keys
+ro.build.type=user
+ro.build.user=android-build
+ro.build.version.incremental=F956BXXU2BYCK
+ro.build.version.release=15
+ro.build.version.sdk=35
+ro.build.version.security_patch=2025-04-01
+ro.csc.sales_code=XAA
+ro.kernel=5.15.149-31742905-F956BXXU2BYCK
+ro.product.hardware=SM-F956B
+ro.product.system.device=q6q
+ro.product.system.manufacturer=samsung
+ro.product.system.model=SM-F956B
+ro.product.system.name=q6qxxx
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 15; SM-F956B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+ro.product.vendor.board=Samsung
+ro.product.vendor.brand=Samsung
+ro.product.vendor.device=q6q
+ro.product.vendor.manufacturer=Samsung
+ro.product.vendor.model=SM-F956B
+ro.product.vendor.name=q6qxxx
+
+ro.profile.name=Samsung SM-F956B Galaxy Z Fold6 A15
+ro.profile.source.url=https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile

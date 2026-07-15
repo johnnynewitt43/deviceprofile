@@ -1,0 +1,40 @@
+# Device Profile: Samsung SM-A356B Galaxy A35 5G A14
+# Model: Samsung SM-A356B Galaxy A35 5G A14
+# Source URL: https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile
+# Properties count: 34
+
+device_model_name=Samsung SM-A356B Galaxy A35 5G A14
+ro.boot.hardware.sku=s5e8835
+ro.build.PDA=A356BXXU4AXK4
+ro.build.changelist=25010781
+ro.build.date=Wed Jul 10 00:00:00 KST 2024
+ro.build.date.utc=1720537200
+ro.build.description=a35xnaxx-user 14 UP1A.231005.007 A356BXXU4AXK4 release-keys
+ro.build.display.id=UP1A.231005.007.A356BXXU4AXK4
+ro.build.expect.baseband=A356BXXU4AXK4
+ro.build.expect.bootloader=A356BXXU4AXK4
+ro.build.fingerprint=samsung/a35xnaxx/a35x:14/UP1A.231005.007/A356BXXU4AXK4:user/release-keys
+ro.build.flavor=a35xnaxx-user
+ro.build.host=21DJ6909
+ro.build.id=UP1A.231005.007
+ro.build.product_code=SM-A356BZKGEUX
+ro.build.tags=release-keys
+ro.build.type=user
+ro.build.user=android-build
+ro.build.version.incremental=A356BXXU4AXK4
+ro.build.version.release=14
+ro.build.version.sdk=34
+ro.build.version.security_patch=2024-07-01
+ro.csc.sales_code=EUX
+ro.kernel=5.10.198-27889903-abA356BXXU4AXK4
+ro.product.hardware=SM-A356B
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 14; SM-A356B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+ro.product.vendor.board=Samsung
+ro.product.vendor.brand=Samsung
+ro.product.vendor.device=a35x
+ro.product.vendor.manufacturer=Samsung
+ro.product.vendor.model=SM-A356B
+ro.product.vendor.name=a35xnaxx
+
+ro.profile.name=Samsung SM-A356B Galaxy A35 5G A14
+ro.profile.source.url=https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile

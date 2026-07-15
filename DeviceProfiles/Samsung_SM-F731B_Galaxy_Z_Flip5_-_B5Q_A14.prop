@@ -1,0 +1,44 @@
+# Device Profile: Samsung SM-F731B Galaxy Z Flip5 A14
+# Model: Samsung SM-F731B Galaxy Z Flip5 A14
+# Source URL: https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile
+# Properties count: 38
+
+device_model_name=Samsung SM-F731B Galaxy Z Flip5 A14
+ro.boot.hardware.sku=kalama
+ro.build.PDA=F731BXXS3DXI9
+ro.build.changelist=29543898
+ro.build.date=Fri Sep 27 13:00:06 KST 2024
+ro.build.date.utc=1727409606
+ro.build.description=b5qxxx-user 14 UP1A.231005.007 F731BXXS3DXI9 release-keys
+ro.build.display.id=UP1A.231005.007.F731BXXS3DXI9
+ro.build.expect.baseband=F731BXXS3DXI9
+ro.build.expect.bootloader=F731BXXS3DXI9
+ro.build.fingerprint=samsung/b5qxxx/b5q:14/UP1A.231005.007/F731BXXS3DXI9:user/release-keys
+ro.build.flavor=b5qxxx-user
+ro.build.host=21DK7A02
+ro.build.id=UP1A.231005.007
+ro.build.product_code=SM-F731BZAGXAA
+ro.build.tags=release-keys
+ro.build.type=user
+ro.build.user=android-build
+ro.build.version.incremental=F731BXXS3DXI9
+ro.build.version.release=14
+ro.build.version.sdk=34
+ro.build.version.security_patch=2024-10-01
+ro.csc.sales_code=XAA
+ro.kernel=5.15.137-29543898-F731BXXS3DXI9
+ro.product.hardware=SM-F731B
+ro.product.system.device=b5q
+ro.product.system.manufacturer=samsung
+ro.product.system.model=SM-F731B
+ro.product.system.name=b5qxxx
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 14; SM-F731B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+ro.product.vendor.board=Samsung
+ro.product.vendor.brand=Samsung
+ro.product.vendor.device=b5q
+ro.product.vendor.manufacturer=Samsung
+ro.product.vendor.model=SM-F731B
+ro.product.vendor.name=b5qxxx
+
+ro.profile.name=Samsung SM-F731B Galaxy Z Flip5 A14
+ro.profile.source.url=https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile

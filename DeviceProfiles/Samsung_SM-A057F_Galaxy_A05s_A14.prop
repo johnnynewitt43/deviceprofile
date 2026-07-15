@@ -1,0 +1,40 @@
+# Device Profile: Samsung SM-A057F Galaxy A05s A14
+# Model: Samsung SM-A057F Galaxy A05s A14
+# Source URL: https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile
+# Properties count: 34
+
+device_model_name=Samsung SM-A057F Galaxy A05s A14
+ro.boot.hardware.sku=SM6225
+ro.build.PDA=A057FXXS5CXH9
+ro.build.changelist=25720688
+ro.build.date=Fri Aug 30 11:53:19 KST 2024
+ro.build.date.utc=1724986399
+ro.build.description=a05snsdxx-user 14 UP1A.231005.007 A057FXXS5CXH9 release-keys
+ro.build.display.id=UP1A.231005.007.A057FXXS5CXH9
+ro.build.expect.baseband=A057FXXS5CXH9
+ro.build.expect.bootloader=A057FXXS5CXH9
+ro.build.fingerprint=samsung/a05snsdxx/qssi:14/UP1A.231005.007/A057FXXS5CXH9:user/release-keys
+ro.build.flavor=a05snsdxx-user
+ro.build.host=21DKG922
+ro.build.id=UP1A.231005.007
+ro.build.product_code=SM-A057FZKUEUX
+ro.build.tags=release-keys
+ro.build.type=user
+ro.build.user=android-build
+ro.build.version.incremental=A057FXXS5CXH9
+ro.build.version.release=14
+ro.build.version.sdk=34
+ro.build.version.security_patch=2024-08-01
+ro.csc.sales_code=EUX
+ro.kernel=5.15.74-27743029-abA057FXXS5CXH9
+ro.product.hardware=SM-A057F
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 14; SM-A057F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+ro.product.vendor.board=Samsung
+ro.product.vendor.brand=Samsung
+ro.product.vendor.device=qssi
+ro.product.vendor.manufacturer=Samsung
+ro.product.vendor.model=SM-A057F
+ro.product.vendor.name=a05snsdxx
+
+ro.profile.name=Samsung SM-A057F Galaxy A05s A14
+ro.profile.source.url=https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile

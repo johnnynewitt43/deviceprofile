@@ -1,0 +1,40 @@
+# Device Profile: Samsung SM-A546B Galaxy A54 5G A14
+# Model: Samsung SM-A546B Galaxy A54 5G A14
+# Source URL: https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile
+# Properties count: 34
+
+device_model_name=Samsung SM-A546B Galaxy A54 5G A14
+ro.boot.hardware.sku=s5e8835
+ro.build.PDA=A546BXXU5BWK4
+ro.build.changelist=23992304
+ro.build.date=Mon Nov 6 18:11:34 KST 2023
+ro.build.date.utc=1699261894
+ro.build.description=a54xnaxx-user 14 UP1A.231005.007 A546BXXU5BWK4 release-keys
+ro.build.display.id=UP1A.231005.007.A546BXXU5BWK4
+ro.build.expect.baseband=A546BXXU5BWK4
+ro.build.expect.bootloader=A546BXXU5BWK4
+ro.build.fingerprint=samsung/a54xnaxx/a54x:14/UP1A.231005.007/A546BXXU5BWK4:user/release-keys
+ro.build.flavor=a54xnaxx-user
+ro.build.host=SWDK6305
+ro.build.id=UP1A.231005.007
+ro.build.product_code=SM-A546BZKAEUX
+ro.build.tags=release-keys
+ro.build.type=user
+ro.build.user=android-build
+ro.build.version.incremental=A546BXXU5BWK4
+ro.build.version.release=14
+ro.build.version.sdk=34
+ro.build.version.security_patch=2023-11-01
+ro.csc.sales_code=EUX
+ro.kernel=5.10.190-26707963-abA546BXXU5BWK4
+ro.product.hardware=SM-A546B
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 14; SM-A546B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+ro.product.vendor.board=Samsung
+ro.product.vendor.brand=Samsung
+ro.product.vendor.device=a54x
+ro.product.vendor.manufacturer=Samsung
+ro.product.vendor.model=SM-A546B
+ro.product.vendor.name=a54xnaxx
+
+ro.profile.name=Samsung SM-A546B Galaxy A54 5G A14
+ro.profile.source.url=https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile

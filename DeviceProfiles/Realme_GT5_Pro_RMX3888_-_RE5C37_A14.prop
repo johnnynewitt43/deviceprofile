@@ -1,0 +1,41 @@
+# Device Profile: Realme GT5 Pro RMX3888 A14
+# Model: Realme GT5 Pro RMX3888 A14
+# Source URL: https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile
+# Properties count: 35
+
+device_model_name=Realme GT5 Pro RMX3888 A14
+ro.boot.hardware.sku=pineapple
+ro.build.date=Thu Dec 28 10:14:51 CST 2023
+ro.build.date.utc=1703729691
+ro.build.description=qssi-user 14 UKQ1.230924.001 U.18104b2-45e-7d31 release-keys
+ro.build.display.id=RMX3888_14.0.0.210(CN01)
+ro.build.expect.baseband=M.7f7c74
+ro.build.expect.bootloader=pineapple
+ro.build.fingerprint=realme/RMX3888/RE5C37:14/UKQ1.230924.001/U.18104b2-45e-7d31:user/release-keys
+ro.build.flavor=qssi-user
+ro.build.host=ubuntu
+ro.build.id=UKQ1.230924.001
+ro.build.tags=release-keys
+ro.build.type=user
+ro.build.user=android-build
+ro.build.version.incremental=U.18104b2-45e-7d31
+ro.build.version.release=14
+ro.build.version.sdk=34
+ro.build.version.security_patch=2023-12-05
+ro.kernel=5.15
+ro.odm.build.fingerprint=realme/RMX3888/RE5C37:14/UKQ1.230924.001/U.18104b2-45e-7d31:user/release-keys
+ro.product.hardware=pineapple
+ro.product.odm.brand=realme
+ro.product.odm.device=RE5C37
+ro.product.odm.model=RMX3888
+ro.product.odm.name=RMX3888
+ro.product.system.brand=realme
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 14; RMX3888) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+ro.product.vendor.board=pineapple
+ro.product.vendor.brand=realme
+ro.product.vendor.device=RE5C37
+ro.product.vendor.model=RMX3888
+ro.product.vendor.name=RMX3888
+
+ro.profile.name=Realme GT5 Pro RMX3888 A14
+ro.profile.source.url=https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile

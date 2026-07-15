@@ -1,0 +1,44 @@
+# Device Profile: Samsung SM-F741B Galaxy Z Flip6 A15
+# Model: Samsung SM-F741B Galaxy Z Flip6 A15
+# Source URL: https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile
+# Properties count: 38
+
+device_model_name=Samsung SM-F741B Galaxy Z Flip6 A15
+ro.boot.hardware.sku=pineapple
+ro.build.PDA=F741BXXU2BYCJ
+ro.build.changelist=31742901
+ro.build.date=Wed Apr 09 05:20:10 UTC 2025
+ro.build.date.utc=1744176010
+ro.build.description=b6qxxx-user 15 AP3A.240905.015.A2 F741BXXU2BYCJ release-keys
+ro.build.display.id=AP3A.240905.015.A2.F741BXXU2BYCJ
+ro.build.expect.baseband=F741BXXU2BYCJ
+ro.build.expect.bootloader=F741BXXU2BYCJ
+ro.build.fingerprint=samsung/b6qxxx/b6q:15/AP3A.240905.015.A2/F741BXXU2BYCJ:user/release-keys
+ro.build.flavor=b6qxxx-user
+ro.build.host=21DK7903
+ro.build.id=AP3A.240905.015.A2
+ro.build.product_code=SM-F741BLBGXAA
+ro.build.tags=release-keys
+ro.build.type=user
+ro.build.user=android-build
+ro.build.version.incremental=F741BXXU2BYCJ
+ro.build.version.release=15
+ro.build.version.sdk=35
+ro.build.version.security_patch=2025-04-01
+ro.csc.sales_code=XAA
+ro.kernel=5.15.149-31742901-F741BXXU2BYCJ
+ro.product.hardware=SM-F741B
+ro.product.system.device=b6q
+ro.product.system.manufacturer=samsung
+ro.product.system.model=SM-F741B
+ro.product.system.name=b6qxxx
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 15; SM-F741B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+ro.product.vendor.board=Samsung
+ro.product.vendor.brand=Samsung
+ro.product.vendor.device=b6q
+ro.product.vendor.manufacturer=Samsung
+ro.product.vendor.model=SM-F741B
+ro.product.vendor.name=b6qxxx
+
+ro.profile.name=Samsung SM-F741B Galaxy Z Flip6 A15
+ro.profile.source.url=https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile

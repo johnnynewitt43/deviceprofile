@@ -1,0 +1,40 @@
+# Device Profile: Samsung SM-A336B Galaxy A33 5G A13
+# Model: Samsung SM-A336B Galaxy A33 5G A13
+# Source URL: https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile
+# Properties count: 34
+
+device_model_name=Samsung SM-A336B Galaxy A33 5G A13
+ro.boot.hardware.sku=s5e8825
+ro.build.PDA=A336BXXU7CWF1
+ro.build.changelist=23904481
+ro.build.date=Fri Jun 21 00:00:00 KST 2024
+ro.build.date.utc=1718895600
+ro.build.description=a33xnaxx-user 13 TP1A.220624.014 A336BXXU7CWF1 release-keys
+ro.build.display.id=TP1A.220624.014.A336BXXU7CWF1
+ro.build.expect.baseband=A336BXXU7CWF1
+ro.build.expect.bootloader=A336BXXU7CWF1
+ro.build.fingerprint=samsung/a33xnaxx/a33x:13/TP1A.220624.014/A336BXXU7CWF1:user/release-keys
+ro.build.flavor=a33xnaxx-user
+ro.build.host=21DJ6909
+ro.build.id=TP1A.220624.014
+ro.build.product_code=SM-A336BZKGEUX
+ro.build.tags=release-keys
+ro.build.type=user
+ro.build.user=android-build
+ro.build.version.incremental=A336BXXU7CWF1
+ro.build.version.release=13
+ro.build.version.sdk=33
+ro.build.version.security_patch=2023-06-01
+ro.csc.sales_code=EUX
+ro.kernel=5.10.185-26411907-abA336BXXU7CWF1
+ro.product.hardware=SM-A336B
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 13; SM-A336B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+ro.product.vendor.board=Samsung
+ro.product.vendor.brand=Samsung
+ro.product.vendor.device=a33x
+ro.product.vendor.manufacturer=Samsung
+ro.product.vendor.model=SM-A336B
+ro.product.vendor.name=a33xnaxx
+
+ro.profile.name=Samsung SM-A336B Galaxy A33 5G A13
+ro.profile.source.url=https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile

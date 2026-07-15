@@ -1,0 +1,40 @@
+# Device Profile: Samsung SM-A145F Galaxy A14 A14
+# Model: Samsung SM-A145F Galaxy A14 A14
+# Source URL: https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile
+# Properties count: 34
+
+device_model_name=Samsung SM-A145F Galaxy A14 A14
+ro.boot.hardware.sku=s5e3830
+ro.build.PDA=A145FXXS5BXA1
+ro.build.changelist=24730082
+ro.build.date=Mon Jan 22 16:05:52 KST 2024
+ro.build.date.utc=1705907152
+ro.build.description=a14nsxx-user 14 UP1A.231005.007 A145FXXS5BXA1 release-keys
+ro.build.display.id=UP1A.231005.007.A145FXXS5BXA1
+ro.build.expect.baseband=A145FXXS5BXA1
+ro.build.expect.bootloader=A145FXXS5BXA1
+ro.build.fingerprint=samsung/a14nsxx/a14:14/UP1A.231005.007/A145FXXS5BXA1:user/release-keys
+ro.build.flavor=a14nsxx-user
+ro.build.host=21DKGB12
+ro.build.id=UP1A.231005.007
+ro.build.product_code=SM-A145FZKGEUX
+ro.build.tags=release-keys
+ro.build.type=user
+ro.build.user=android-build
+ro.build.version.incremental=A145FXXS5BXA1
+ro.build.version.release=14
+ro.build.version.sdk=34
+ro.build.version.security_patch=2024-02-01
+ro.csc.sales_code=EUX
+ro.kernel=4.19.191-26908234-abA145FXXS5BXA1
+ro.product.hardware=SM-A145F
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 14; SM-A145F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+ro.product.vendor.board=Samsung
+ro.product.vendor.brand=Samsung
+ro.product.vendor.device=a14
+ro.product.vendor.manufacturer=Samsung
+ro.product.vendor.model=SM-A145F
+ro.product.vendor.name=a14nsxx
+
+ro.profile.name=Samsung SM-A145F Galaxy A14 A14
+ro.profile.source.url=https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile
