@@ -1,0 +1,40 @@
+# Device Profile: Samsung Galaxy A04s - a04s A13
+# Model: Samsung Galaxy A04s - a04s A13
+# Source URL: https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile
+# Properties count: 34
+
+device_model_name=Samsung Galaxy A04s - a04s A13
+ro.boot.hardware.sku=SDM450
+ro.build.PDA=A047FXXU2CWBH
+ro.build.changelist=24760000
+ro.build.date=Mon Mar 20 10:00:00 KST 2023
+ro.build.date.utc=1679274000
+ro.build.description=a04s-user 13 TP1A.220624.014 A047FXXU2CWBH release-keys
+ro.build.display.id=TP1A.220624.014.A047FXXU2CWBH
+ro.build.expect.baseband=A047FXXU2CWBH
+ro.build.expect.bootloader=A047FXXU2CWBH
+ro.build.fingerprint=samsung/a04s/a04s:13/TP1A.220624.014/A047FXXU2CWBH:user/release-keys
+ro.build.flavor=a04s-user
+ro.build.host=21DKG905
+ro.build.id=TP1A.220624.014
+ro.build.product_code=SM-A047FZKDEUE
+ro.build.tags=release-keys
+ro.build.type=user
+ro.build.user=android-build
+ro.build.version.incremental=A047FXXU2CWBH
+ro.build.version.release=13
+ro.build.version.sdk=33
+ro.build.version.security_patch=2023-03-01
+ro.csc.sales_code=EUX
+ro.kernel=5.10
+ro.product.hardware=qcom
+ro.product.system.brand=samsung
+ro.product.system.device=a04s
+ro.product.system.manufacturer=samsung
+ro.product.system.model=SM-A047F
+ro.product.system.name=a04s
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 13; Samsung Galaxy A04s) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+ro.product.vendor.board=SDM450
+
+ro.profile.name=Samsung Galaxy A04s - a04s A13
+ro.profile.source.url=https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile

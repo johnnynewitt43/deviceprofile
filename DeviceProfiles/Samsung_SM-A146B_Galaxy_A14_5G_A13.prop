@@ -1,0 +1,40 @@
+# Device Profile: Samsung Galaxy A14 5G - a14x A13
+# Model: Samsung Galaxy A14 5G - a14x A13
+# Source URL: https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile
+# Properties count: 34
+
+device_model_name=Samsung Galaxy A14 5G - a14x A13
+ro.boot.hardware.sku=s5e8535
+ro.build.PDA=A146BXXU1AWA2
+ro.build.changelist=25010000
+ro.build.date=Tue Jan 10 10:00:00 KST 2023
+ro.build.date.utc=1673312400
+ro.build.description=a14xxx-user 13 TP1A.220624.014 A146BXXU1AWA2 release-keys
+ro.build.display.id=TP1A.220624.014.A146BXXU1AWA2
+ro.build.expect.baseband=A146BXXU1AWA2
+ro.build.expect.bootloader=A146BXXU1AWA2
+ro.build.fingerprint=samsung/a14xxx/a14x:13/TP1A.220624.014/A146BXXU1AWA2:user/release-keys
+ro.build.flavor=a14xxx-user
+ro.build.host=21DKG930
+ro.build.id=TP1A.220624.014
+ro.build.product_code=SM-A146BZKDEUE
+ro.build.tags=release-keys
+ro.build.type=user
+ro.build.user=android-build
+ro.build.version.incremental=A146BXXU1AWA2
+ro.build.version.release=13
+ro.build.version.sdk=33
+ro.build.version.security_patch=2023-01-01
+ro.csc.sales_code=EUX
+ro.kernel=5.10
+ro.product.hardware=s5e8535
+ro.product.system.brand=samsung
+ro.product.system.device=a14x
+ro.product.system.manufacturer=samsung
+ro.product.system.model=SM-A146B
+ro.product.system.name=a14xxx
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 13; Samsung Galaxy A14 5G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+ro.product.vendor.board=s5e8535
+
+ro.profile.name=Samsung Galaxy A14 5G - a14x A13
+ro.profile.source.url=https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile

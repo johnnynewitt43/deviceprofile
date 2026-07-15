@@ -1,0 +1,38 @@
+# Device Profile: Samsung Galaxy Z Flip4 - B4Q CWAC A13
+# Model: Samsung Galaxy Z Flip4 - B4Q CWAC A13
+# Source URL: https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile
+# Properties count: 32
+
+device_model_name=Samsung Galaxy Z Flip4 - B4Q CWAC A13
+ro.boot.hardware.sku=SM-F721B
+ro.build.PDA=F721BXXU1CWAC
+ro.build.changelist=25962113
+ro.build.date=Sat Apr 15 18:00:00 KST 2023
+ro.build.date.utc=1681581600
+ro.build.description=b4qxxx-user 13 TP1A.220624.014 F721BXXU1CWAC release-keys
+ro.build.display.id=TP1A.220624.014.F721BXXU1CWAC
+ro.build.expect.baseband=F721BXXU1CWAC
+ro.build.expect.bootloader=F721BXXU1CWAC
+ro.build.fingerprint=samsung/b4qxxx/b4q:13/TP1A.220624.014/F721BXXU1CWAC:user/release-keys
+ro.build.flavor=b4qxxx-user
+ro.build.host=SWDK6316
+ro.build.id=TP1A.220624.014
+ro.build.product_code=SM-F721BZAAEUX
+ro.build.tags=release-keys
+ro.build.type=user
+ro.build.user=android-build
+ro.build.version.incremental=F721BXXU1CWAC
+ro.build.version.release=13
+ro.build.version.sdk=33
+ro.build.version.security_patch=2023-04-01
+ro.csc.sales_code=EUX
+ro.kernel=5.10.101-android12-9
+ro.product.hardware=b4q
+ro.product.system.brand=samsung
+ro.product.system.device=b4q
+ro.product.system.name=b4qxxx
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 13; SM-F721B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Mobile Safari/537.36
+ro.product.vendor.board=Samsung
+
+ro.profile.name=Samsung Galaxy Z Flip4 - B4Q CWAC A13
+ro.profile.source.url=https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile

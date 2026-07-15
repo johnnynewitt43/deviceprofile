@@ -1,0 +1,40 @@
+# Device Profile: Samsung Galaxy A24 - a24 A13
+# Model: Samsung Galaxy A24 - a24 A13
+# Source URL: https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile
+# Properties count: 34
+
+device_model_name=Samsung Galaxy A24 - a24 A13
+ro.boot.hardware.sku=mt6789
+ro.build.PDA=A245FXXU2AWE6
+ro.build.changelist=25930677
+ro.build.date=Wed May 31 14:37:29 KST 2023
+ro.build.date.utc=1685511449
+ro.build.description=a24nsxx-user 13 TP1A.220624.014 A245FXXU2AWE6 release-keys
+ro.build.display.id=TP1A.220624.014.A245FXXU2AWE6
+ro.build.expect.baseband=A245FXXU2AWE6
+ro.build.expect.bootloader=A245FXXU2AWE6
+ro.build.fingerprint=samsung/a24nsxx/a24:13/TP1A.220624.014/A245FXXU2AWE6:user/release-keys
+ro.build.flavor=a24nsxx-user
+ro.build.host=21DKG922
+ro.build.id=TP1A.220624.014
+ro.build.product_code=SM-A245FZKDEUE
+ro.build.tags=release-keys
+ro.build.type=user
+ro.build.user=android-build
+ro.build.version.incremental=A245FXXU2AWE6
+ro.build.version.release=13
+ro.build.version.sdk=33
+ro.build.version.security_patch=2023-06-01
+ro.csc.sales_code=EUX
+ro.kernel=5.10
+ro.product.hardware=mt6789
+ro.product.system.brand=samsung
+ro.product.system.device=a24
+ro.product.system.manufacturer=samsung
+ro.product.system.model=SM-A245F
+ro.product.system.name=a24nsxx
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 13; Samsung Galaxy A24) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+ro.product.vendor.board=mt6789
+
+ro.profile.name=Samsung Galaxy A24 - a24 A13
+ro.profile.source.url=https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile

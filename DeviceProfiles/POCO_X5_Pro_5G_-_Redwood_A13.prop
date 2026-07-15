@@ -1,0 +1,31 @@
+# Device Profile: Xiaomi POCO X5 Pro 5G - Redwood A13
+# Model: Xiaomi POCO X5 Pro 5G - Redwood A13
+# Source URL: https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile
+# Properties count: 25
+
+device_model_name=Xiaomi POCO X5 Pro 5G - Redwood A13
+ro.boot.hardware.sku=redwood
+ro.build.date=Thu Aug 31 15:20:43 UTC 2023
+ro.build.date.utc=1693495243
+ro.build.description=redwood-user 13 RKQ1.211001.001 V14.0.3.0.TMSEUXM release-keys
+ro.build.display.id=13 V14.0.3.0.TMSEUXM
+ro.build.expect.baseband=M3_LNX_R1.0
+ro.build.expect.bootloader=unknown
+ro.build.fingerprint=Redmi/redwood/redwood:13/RKQ1.211001.001/V14.0.3.0.TMSEUXM:user/release-keys
+ro.build.flavor=missi_phone-user
+ro.build.host=pangu-build-component-system
+ro.build.id=RKQ1.211001.001
+ro.build.tags=release-keys
+ro.build.type=user
+ro.build.user=android-build
+ro.build.version.incremental=V14.0.3.0.TMSEUXM
+ro.build.version.release=13
+ro.build.version.sdk=33
+ro.build.version.security_patch=2023-09-01
+ro.kernel=5.4.233-qgki-g0c6efddd96c7
+ro.product.hardware=qcom
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 13; POCO X5 Pro 5G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+ro.product.vendor.board=Qualcomm
+
+ro.profile.name=Xiaomi POCO X5 Pro 5G - Redwood A13
+ro.profile.source.url=https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile

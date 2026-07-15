@@ -1,0 +1,31 @@
+# Device Profile: Redmi Note 12 4G NFC - Topaz A13
+# Model: Redmi Note 12 4G NFC - Topaz A13
+# Source URL: https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile
+# Properties count: 25
+
+device_model_name=Redmi Note 12 4G NFC - Topaz A13
+ro.boot.hardware.sku=23021RAAEG
+ro.build.date=Thu Nov 2 09:29:22 UTC 2023
+ro.build.date.utc=1698917362
+ro.build.description=topaz_global-user 13 TKQ1.221114.001 V14.0.8.0.TMGMIXM release-keys
+ro.build.display.id=TKQ1.221114.001 V14.0.8.0.TMGMIXM
+ro.build.expect.baseband=4.4.c2-00068-QSSI13-1
+ro.build.expect.bootloader=unknown
+ro.build.fingerprint=Redmi/topaz_global/topaz:13/TKQ1.221114.001/V14.0.8.0.TMGMIXM:user/release-keys
+ro.build.flavor=topaz_global-user
+ro.build.host=pangu-build-component-system-259487-l2mfd-2ttp8-6q4kv
+ro.build.id=TKQ1.221114.001
+ro.build.tags=release-keys
+ro.build.type=user
+ro.build.user=android-build
+ro.build.version.incremental=V14.0.8.0.TMGMIXM
+ro.build.version.release=13
+ro.build.version.sdk=33
+ro.build.version.security_patch=2023-11-01
+ro.kernel=4.19.157-perf-g0c6efddd96c7
+ro.product.hardware=bengal
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 13; 23021RAAEG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+ro.product.vendor.board=Xiaomi
+
+ro.profile.name=Redmi Note 12 4G NFC - Topaz A13
+ro.profile.source.url=https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile

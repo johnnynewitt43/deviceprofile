@@ -1,0 +1,31 @@
+# Device Profile: Realme 10 Pro+ - RMX3686 A13
+# Model: Realme 10 Pro+ - RMX3686 A13
+# Source URL: https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile
+# Properties count: 25
+
+device_model_name=Realme 10 Pro+ - RMX3686 A13
+ro.boot.hardware.sku=RMX3686
+ro.build.date=Fri Jan 20 11:00:00 UTC 2023
+ro.build.date.utc=1674212400
+ro.build.description=RE58A5L1-user 13 SP1A.210812.016 T.R4T2.15082c8-2fa44 release-keys
+ro.build.display.id=RMX3686_13.0.0.201(EX01)
+ro.build.expect.baseband=MOLY.NR15.R3.TC8.PR2.SP.V2.P43
+ro.build.expect.bootloader=unknown
+ro.build.fingerprint=realme/RMX3686/RE58A5L1:13/SP1A.210812.016/T.R4T2.15082c8-2fa44:user/release-keys
+ro.build.flavor=RE58A5L1-user
+ro.build.host=ubuntu
+ro.build.id=SP1A.210812.016
+ro.build.tags=release-keys
+ro.build.type=user
+ro.build.user=android-build
+ro.build.version.incremental=T.R4T2.15082c8-2fa44
+ro.build.version.release=13
+ro.build.version.sdk=33
+ro.build.version.security_patch=2023-01-05
+ro.kernel=5.10.101-android12-9
+ro.product.hardware=RMX3686
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 13; RMX3686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+ro.product.vendor.board=parrot
+
+ro.profile.name=Realme 10 Pro+ - RMX3686 A13
+ro.profile.source.url=https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile

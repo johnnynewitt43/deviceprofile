@@ -1,0 +1,32 @@
+# Device Profile: Google Pixel 4a - Sunfish S2 A13
+# Model: Google Pixel 4a - Sunfish S2 A13
+# Source URL: https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile
+# Properties count: 26
+
+device_model_name=Google Pixel 4a - Sunfish S2 A13
+ro.boot.hardware.sku=G025J
+ro.build.date=Thu Nov 14 10:07:56 UTC 2024
+ro.build.date.utc=1731578876
+ro.build.description=sunfish-user 13 TQ3A.230805.001.S2 12655424 release-keys
+ro.build.display.id=TQ3A.230805.001.S2
+ro.build.expect.baseband=g7150-00112-230505-B-10075601
+ro.build.expect.bootloader=s5-0.5-10252351
+ro.build.fingerprint=google/sunfish/sunfish:13/TQ3A.230805.001.S2/12655424:user/release-keys
+ro.build.flavor=sunfish-user
+ro.build.host=r-a7d3da3e7b5c9035-j1pq
+ro.build.id=TQ3A.230805.001.S2
+ro.build.tags=release-keys
+ro.build.type=user
+ro.build.user=android-build
+ro.build.version.incremental=12655424
+ro.build.version.release=13
+ro.build.version.sdk=33
+ro.build.version.security_patch=2023-08-05
+ro.kernel=4.19.157-perf-g0c6efddd96c7
+ro.product.hardware=sunfish
+ro.product.product.brand=Google
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 13; Pixel 4a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Mobile Safari/537.36
+ro.product.vendor.board=sunfish
+
+ro.profile.name=Google Pixel 4a - Sunfish S2 A13
+ro.profile.source.url=https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile

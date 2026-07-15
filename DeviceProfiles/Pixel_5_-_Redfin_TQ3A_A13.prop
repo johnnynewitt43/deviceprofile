@@ -1,0 +1,32 @@
+# Device Profile: Google Pixel 5 - Redfin TQ3A A13
+# Model: Google Pixel 5 - Redfin TQ3A A13
+# Source URL: https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile
+# Properties count: 26
+
+device_model_name=Google Pixel 5 - Redfin TQ3A A13
+ro.boot.hardware.sku=GD1YQ
+ro.build.date=Sat May 27 17:32:42 UTC 2023
+ro.build.date.utc=1685208762
+ro.build.description=redfin-user 13 TQ3A.230705.001 10216780 release-keys
+ro.build.display.id=TQ3A.230705.001
+ro.build.expect.baseband=g7250-00247.1-230113-B-9488784
+ro.build.expect.bootloader=r3-0.5-9737487
+ro.build.fingerprint=google/redfin/redfin:13/TQ3A.230705.001/10216780:user/release-keys
+ro.build.flavor=redfin-user
+ro.build.host=abfarm-release-rbe-64-2004-0025
+ro.build.id=TQ3A.230705.001
+ro.build.tags=release-keys
+ro.build.type=user
+ro.build.user=android-build
+ro.build.version.incremental=10216780
+ro.build.version.release=13
+ro.build.version.sdk=33
+ro.build.version.security_patch=2023-07-05
+ro.kernel=4.19.157-perf-g0c6efddd96c7
+ro.product.hardware=redfin
+ro.product.product.brand=Google
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 13; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+ro.product.vendor.board=redfin
+
+ro.profile.name=Google Pixel 5 - Redfin TQ3A A13
+ro.profile.source.url=https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile

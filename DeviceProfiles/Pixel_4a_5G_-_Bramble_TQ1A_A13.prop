@@ -1,0 +1,32 @@
+# Device Profile: Google Pixel 4a 5G - Bramble TQ1A A13
+# Model: Google Pixel 4a 5G - Bramble TQ1A A13
+# Source URL: https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile
+# Properties count: 26
+
+device_model_name=Google Pixel 4a 5G - Bramble TQ1A A13
+ro.boot.hardware.sku=G025E
+ro.build.date=Tue Nov 15 02:12:01 UTC 2022
+ro.build.date.utc=1668478321
+ro.build.description=bramble-user 13 TQ1A.230105.001 9292298 release-keys
+ro.build.display.id=TQ1A.230105.001
+ro.build.expect.baseband=g7250-00220-221017-B-9183951
+ro.build.expect.bootloader=b5-0.5-9150480
+ro.build.fingerprint=google/bramble/bramble:13/TQ1A.230105.001/9292298:user/release-keys
+ro.build.flavor=bramble-user
+ro.build.host=abfarm-release-2004-0144
+ro.build.id=TQ1A.230105.001
+ro.build.tags=release-keys
+ro.build.type=user
+ro.build.user=android-build
+ro.build.version.incremental=9292298
+ro.build.version.release=13
+ro.build.version.sdk=33
+ro.build.version.security_patch=2023-01-05
+ro.kernel=4.19.157-perf-g0c6efddd96c7
+ro.product.hardware=bramble
+ro.product.product.brand=Google
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 13; Pixel 4a (5G)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Mobile Safari/537.36
+ro.product.vendor.board=bramble
+
+ro.profile.name=Google Pixel 4a 5G - Bramble TQ1A A13
+ro.profile.source.url=https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile

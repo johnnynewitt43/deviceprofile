@@ -1,0 +1,31 @@
+# Device Profile: Redmi Note 11 Pro - Pissarro A13
+# Model: Redmi Note 11 Pro - Pissarro A13
+# Source URL: https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile
+# Properties count: 25
+
+device_model_name=Redmi Note 11 Pro - Pissarro A13
+ro.boot.hardware.sku=2201116TG
+ro.build.date=Mon Mar 6 14:13:24 UTC 2023
+ro.build.date.utc=1678112004
+ro.build.description=pissarro_global-user 13 TP1A.220624.014 V14.0.3.0.TKTTWXM release-keys
+ro.build.display.id=TP1A.220624.014 V14.0.3.0.TKTTWXM
+ro.build.expect.baseband=alps-mp-t0.mp1.tc8sp1-V1_xiaomi.t0mp1.vf.sp.64
+ro.build.expect.bootloader=unknown
+ro.build.fingerprint=Redmi/pissarro_global/pissarro:13/TP1A.220624.014/V14.0.3.0.TKTTWXM:user/release-keys
+ro.build.flavor=pissarro_global-user
+ro.build.host=pangu-build-component-system-208897-l2mfd-tld6t-7cdgm
+ro.build.id=TP1A.220624.014
+ro.build.tags=release-keys
+ro.build.type=user
+ro.build.user=android-build
+ro.build.version.incremental=V14.0.3.0.TKTTWXM
+ro.build.version.release=13
+ro.build.version.sdk=33
+ro.build.version.security_patch=2023-02-01
+ro.kernel=5.10.66-android13-4-g0c6efddd96c7
+ro.product.hardware=mt6877
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 13; 2201116TG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+ro.product.vendor.board=Xiaomi
+
+ro.profile.name=Redmi Note 11 Pro - Pissarro A13
+ro.profile.source.url=https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile

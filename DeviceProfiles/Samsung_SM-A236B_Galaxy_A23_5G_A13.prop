@@ -1,0 +1,40 @@
+# Device Profile: Samsung Galaxy A23 5G - a23xq A13
+# Model: Samsung Galaxy A23 5G - a23xq A13
+# Source URL: https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile
+# Properties count: 34
+
+device_model_name=Samsung Galaxy A23 5G - a23xq A13
+ro.boot.hardware.sku=holi
+ro.build.PDA=A236BXXU2BVK7
+ro.build.changelist=24950000
+ro.build.date=Fri Nov 25 10:00:00 KST 2022
+ro.build.date.utc=1669338000
+ro.build.description=a23xqnsxx-user 13 TP1A.220624.014 A236BXXU2BVK7 release-keys
+ro.build.display.id=TP1A.220624.014.A236BXXU2BVK7
+ro.build.expect.baseband=A236BXXU2BVK7
+ro.build.expect.bootloader=A236BXXU2BVK7
+ro.build.fingerprint=samsung/a23xqnsxx/a23xq:13/TP1A.220624.014/A236BXXU2BVK7:user/release-keys
+ro.build.flavor=a23xqnsxx-user
+ro.build.host=21DKG920
+ro.build.id=TP1A.220624.014
+ro.build.product_code=SM-A236BZKDEUE
+ro.build.tags=release-keys
+ro.build.type=user
+ro.build.user=android-build
+ro.build.version.incremental=A236BXXU2BVK7
+ro.build.version.release=13
+ro.build.version.sdk=33
+ro.build.version.security_patch=2022-11-01
+ro.csc.sales_code=EUX
+ro.kernel=5.10
+ro.product.hardware=qcom
+ro.product.system.brand=samsung
+ro.product.system.device=a23xq
+ro.product.system.manufacturer=samsung
+ro.product.system.model=SM-A236B
+ro.product.system.name=a23xqnsxx
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 13; Samsung Galaxy A23 5G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+ro.product.vendor.board=holi
+
+ro.profile.name=Samsung Galaxy A23 5G - a23xq A13
+ro.profile.source.url=https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile

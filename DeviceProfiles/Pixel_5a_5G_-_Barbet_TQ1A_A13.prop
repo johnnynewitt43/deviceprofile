@@ -1,0 +1,32 @@
+# Device Profile: Google Pixel 5a 5G - Barbet TQ1A A13
+# Model: Google Pixel 5a 5G - Barbet TQ1A A13
+# Source URL: https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile
+# Properties count: 26
+
+device_model_name=Google Pixel 5a 5G - Barbet TQ1A A13
+ro.boot.hardware.sku=G1F8F
+ro.build.date=Tue Nov 15 02:12:20 UTC 2022
+ro.build.date.utc=1668478340
+ro.build.description=barbet-user 13 TQ1A.230105.001 9292298 release-keys
+ro.build.display.id=TQ1A.230105.001
+ro.build.expect.baseband=g7250-00220-221017-B-9183951
+ro.build.expect.bootloader=b9-0.5-9150481
+ro.build.fingerprint=google/barbet/barbet:13/TQ1A.230105.001/9292298:user/release-keys
+ro.build.flavor=barbet-user
+ro.build.host=abfarm-release-2004-0140
+ro.build.id=TQ1A.230105.001
+ro.build.tags=release-keys
+ro.build.type=user
+ro.build.user=android-build
+ro.build.version.incremental=9292298
+ro.build.version.release=13
+ro.build.version.sdk=33
+ro.build.version.security_patch=2023-01-05
+ro.kernel=4.19.157-perf-g0c6efddd96c7
+ro.product.hardware=barbet
+ro.product.product.brand=Google
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 13; Pixel 5a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Mobile Safari/537.36
+ro.product.vendor.board=barbet
+
+ro.profile.name=Google Pixel 5a 5G - Barbet TQ1A A13
+ro.profile.source.url=https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile

@@ -1,0 +1,31 @@
+# Device Profile: Oppo A78 - CPH2565 A13
+# Model: Oppo A78 - CPH2565 A13
+# Source URL: https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile
+# Properties count: 25
+
+device_model_name=Oppo A78 - CPH2565 A13
+ro.boot.hardware.sku=CPH2565
+ro.build.date=Fri Sep 22 18:17:00 UTC 2023
+ro.build.date.utc=1695406620
+ro.build.description=CPH2565-user 13 TP1A.220905.001 1695406620 release-keys
+ro.build.display.id=CPH2565_11_13.1.1.526EX01
+ro.build.expect.baseband=Q_V1_P10,Q_V1_P10
+ro.build.expect.bootloader=unknown
+ro.build.fingerprint=oppo/CPH2565/OP5959L1:13/TP1A.220905.001/1695406620:user/release-keys
+ro.build.flavor=CPH2565-user
+ro.build.host=ubuntu
+ro.build.id=TP1A.220905.001
+ro.build.tags=release-keys
+ro.build.type=user
+ro.build.user=android-build
+ro.build.version.incremental=1695406620
+ro.build.version.release=13
+ro.build.version.sdk=33
+ro.build.version.security_patch=2023-08-05
+ro.kernel=4.19.157-perf+
+ro.product.hardware=CPH2565
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 13; CPH2565) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+ro.product.vendor.board=holi
+
+ro.profile.name=Oppo A78 - CPH2565 A13
+ro.profile.source.url=https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile

@@ -1,0 +1,40 @@
+# Device Profile: Samsung Galaxy M34 5G - m34x A13
+# Model: Samsung Galaxy M34 5G - m34x A13
+# Source URL: https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile
+# Properties count: 34
+
+device_model_name=Samsung Galaxy M34 5G - m34x A13
+ro.boot.hardware.sku=s5e8825
+ro.build.PDA=M346BXXU1AWG1
+ro.build.changelist=26100000
+ro.build.date=Sat Jul  1 10:00:00 KST 2023
+ro.build.date.utc=1688173200
+ro.build.description=m34xnsxx-user 13 TP1A.220624.014 M346BXXU1AWG1 release-keys
+ro.build.display.id=TP1A.220624.014.M346BXXU1AWG1
+ro.build.expect.baseband=M346BXXU1AWG1
+ro.build.expect.bootloader=M346BXXU1AWG1
+ro.build.fingerprint=samsung/m34xnsxx/m34x:13/TP1A.220624.014/M346BXXU1AWG1:user/release-keys
+ro.build.flavor=m34xnsxx-user
+ro.build.host=21DKG822
+ro.build.id=TP1A.220624.014
+ro.build.product_code=SM-M346BZKGINS
+ro.build.tags=release-keys
+ro.build.type=user
+ro.build.user=android-build
+ro.build.version.incremental=M346BXXU1AWG1
+ro.build.version.release=13
+ro.build.version.sdk=33
+ro.build.version.security_patch=2023-07-01
+ro.csc.sales_code=INS
+ro.kernel=5.10
+ro.product.hardware=s5e8825
+ro.product.system.brand=samsung
+ro.product.system.device=m34x
+ro.product.system.manufacturer=samsung
+ro.product.system.model=SM-M346B
+ro.product.system.name=m34xnsxx
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 13; Samsung Galaxy M34 5G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+ro.product.vendor.board=s5e8825
+
+ro.profile.name=Samsung Galaxy M34 5G - m34x A13
+ro.profile.source.url=https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile

@@ -1,0 +1,31 @@
+# Device Profile: OnePlus Nord CE 3 - Ziti A13
+# Model: OnePlus Nord CE 3 - Ziti A13
+# Source URL: https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile
+# Properties count: 25
+
+device_model_name=OnePlus Nord CE 3 - Ziti A13
+ro.boot.hardware.sku=CPH2569
+ro.build.date=Wed Jul 12 09:51:15 CST 2023
+ro.build.date.utc=1689126675
+ro.build.description=CPH2569-user 13 TP1A.220905.001 T.R4T2.123927d_1-1 release-keys
+ro.build.display.id=CPH2569_13.1.1.301(EX01)
+ro.build.expect.baseband=Q_V1_P13,Q_V1_P13
+ro.build.expect.bootloader=unknown
+ro.build.fingerprint=OnePlus/CPH2569/OP5953L1:13/TP1A.220905.001/T.R4T2.123927d_1-1:user/release-keys
+ro.build.flavor=CPH2569-user
+ro.build.host=ubuntu
+ro.build.id=TP1A.220905.001
+ro.build.tags=release-keys
+ro.build.type=user
+ro.build.user=android-build
+ro.build.version.incremental=T.R4T2.123927d_1-1
+ro.build.version.release=13
+ro.build.version.sdk=33
+ro.build.version.security_patch=2023-07-05
+ro.kernel=5.4.210-android12-9
+ro.product.hardware=OP5953L1
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 13; OnePlus Nord CE 3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+ro.product.vendor.board=holi
+
+ro.profile.name=OnePlus Nord CE 3 - Ziti A13
+ro.profile.source.url=https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile

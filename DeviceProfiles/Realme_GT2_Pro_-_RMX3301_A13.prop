@@ -1,0 +1,31 @@
+# Device Profile: Realme GT2 Pro - RMX3301 A13
+# Model: Realme GT2 Pro - RMX3301 A13
+# Source URL: https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile
+# Properties count: 25
+
+device_model_name=Realme GT2 Pro - RMX3301 A13
+ro.boot.hardware.sku=RMX3301
+ro.build.date=Tue Sep 20 18:00:00 UTC 2022
+ro.build.date.utc=1663696800
+ro.build.description=RED8ACL1-user 13 SKQ1.220519.001 S.202207192309 release-keys
+ro.build.display.id=RMX3301_13.0.0.100(EX01)
+ro.build.expect.baseband=MPSS.HI.5.4.C4-00113-SM8450_GEN_PACK-1
+ro.build.expect.bootloader=unknown
+ro.build.fingerprint=realme/RMX3301/RED8ACL1:13/SKQ1.220519.001/S.202207192309:user/release-keys
+ro.build.flavor=RED8ACL1-user
+ro.build.host=ubuntu
+ro.build.id=SKQ1.220519.001
+ro.build.tags=release-keys
+ro.build.type=user
+ro.build.user=android-build
+ro.build.version.incremental=S.202207192309
+ro.build.version.release=13
+ro.build.version.sdk=33
+ro.build.version.security_patch=2022-08-05
+ro.kernel=5.10.101-android13-perf
+ro.product.hardware=RMX3301
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 13; RMX3301) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+ro.product.vendor.board=taro
+
+ro.profile.name=Realme GT2 Pro - RMX3301 A13
+ro.profile.source.url=https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile

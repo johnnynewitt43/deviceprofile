@@ -1,0 +1,31 @@
+# Device Profile: OnePlus Nord 2T - CPH2401 A13
+# Model: OnePlus Nord 2T - CPH2401 A13
+# Source URL: https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile
+# Properties count: 25
+
+device_model_name=OnePlus Nord 2T - CPH2401 A13
+ro.boot.hardware.sku=CPH2401
+ro.build.date=Fri Mar 24 11:08:19 CST 2023
+ro.build.date.utc=1679627299
+ro.build.description=CPH2401-user 13 TP1A.220905.001 S.14492ff_1 release-keys
+ro.build.display.id=CPH2401_13.1.0.560(EX01)
+ro.build.expect.baseband=MOLY.NR15.R3.TC8.PR2.SP.V2.P77,MOLY.NR15.R3.TC8.PR2.SP.V2.P77
+ro.build.expect.bootloader=unknown
+ro.build.fingerprint=OnePlus/CPH2401/OP557AL1:13/TP1A.220905.001/S.14492ff_1:user/release-keys
+ro.build.flavor=CPH2401-user
+ro.build.host=ubuntu
+ro.build.id=TP1A.220905.001
+ro.build.tags=release-keys
+ro.build.type=user
+ro.build.user=android-build
+ro.build.version.incremental=S.14492ff_1
+ro.build.version.release=13
+ro.build.version.sdk=33
+ro.build.version.security_patch=2023-03-05
+ro.kernel=5.4.147-android12
+ro.product.hardware=OP557AL1
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 13; OnePlus Nord 2T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+ro.product.vendor.board=mt6893
+
+ro.profile.name=OnePlus Nord 2T - CPH2401 A13
+ro.profile.source.url=https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile

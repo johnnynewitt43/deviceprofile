@@ -1,0 +1,39 @@
+# Device Profile: Samsung Galaxy S21 FE 5G (SM-G990E) - R9s A13
+# Model: Samsung Galaxy S21 FE 5G (SM-G990E) - R9s A13
+# Source URL: https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile
+# Properties count: 33
+
+device_model_name=Samsung Galaxy S21 FE 5G (SM-G990E) - R9s A13
+ro.boot.hardware.sku=SM-G990E
+ro.build.PDA=G990EXXU3DVK4
+ro.build.changelist=25305647
+ro.build.date=Tue Nov 8 11:29:22 KST 2022
+ro.build.date.utc=1667874562
+ro.build.description=r9sxxx-user 13 TP1A.220624.014 G990EXXU3DVK4 release-keys
+ro.build.display.id=TP1A.220624.014.G990EXXU3DVK4
+ro.build.expect.baseband=G990EXXU3DVK4
+ro.build.expect.bootloader=G990EXXU3DVK4
+ro.build.fingerprint=samsung/r9sxxx/essi:13/TP1A.220624.014/G990EXXU3DVK4:user/release-keys
+ro.build.flavor=r9sxxx-user
+ro.build.host=21DK7908
+ro.build.id=TP1A.220624.014
+ro.build.product_code=SM-G990E
+ro.build.tags=release-keys
+ro.build.type=user
+ro.build.user=android-build
+ro.build.version.incremental=G990EXXU3DVK4
+ro.build.version.release=13
+ro.build.version.sdk=33
+ro.build.version.security_patch=2022-10-01
+ro.csc.sales_code=INS
+ro.kernel=5.4.147-android13-exynos
+ro.product.hardware=r9s
+ro.product.system.brand=samsung
+ro.product.system.device=essi
+ro.product.system.model=SM-G990E
+ro.product.system.name=r9sxxx
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 13; SM-G990E) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
+ro.product.vendor.board=Samsung
+
+ro.profile.name=Samsung Galaxy S21 FE 5G (SM-G990E) - R9s A13
+ro.profile.source.url=https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile

@@ -1,0 +1,31 @@
+# Device Profile: Oppo Find X5 Pro - CPH2305 A13
+# Model: Oppo Find X5 Pro - CPH2305 A13
+# Source URL: https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile
+# Properties count: 25
+
+device_model_name=Oppo Find X5 Pro - CPH2305 A13
+ro.boot.hardware.sku=CPH2305
+ro.build.date=Fri Feb 10 12:00:00 UTC 2023
+ro.build.date.utc=1676030400
+ro.build.description=CPH2305-user 13 TP1A.220905.001 1676030400 release-keys
+ro.build.display.id=CPH2305_11_C.37
+ro.build.expect.baseband=Q_V1_P17,Q_V1_P17
+ro.build.expect.bootloader=unknown
+ro.build.fingerprint=oppo/CPH2305/OP52D1L1:13/TP1A.220905.001/1676030400:user/release-keys
+ro.build.flavor=CPH2305-user
+ro.build.host=ubuntu
+ro.build.id=TP1A.220905.001
+ro.build.tags=release-keys
+ro.build.type=user
+ro.build.user=android-build
+ro.build.version.incremental=1676030400
+ro.build.version.release=13
+ro.build.version.sdk=33
+ro.build.version.security_patch=2023-01-05
+ro.kernel=5.10.101-android13-perf
+ro.product.hardware=CPH2305
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 13; CPH2305) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+ro.product.vendor.board=taro
+
+ro.profile.name=Oppo Find X5 Pro - CPH2305 A13
+ro.profile.source.url=https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile

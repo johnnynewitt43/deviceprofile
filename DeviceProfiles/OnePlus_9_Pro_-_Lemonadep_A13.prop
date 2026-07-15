@@ -1,0 +1,31 @@
+# Device Profile: OnePlus 9 Pro - Lemonadep A13
+# Model: OnePlus 9 Pro - Lemonadep A13
+# Source URL: https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile
+# Properties count: 25
+
+device_model_name=OnePlus 9 Pro - Lemonadep A13
+ro.boot.hardware.sku=LE2125
+ro.build.date=Wed Jul 5 17:57:35 CST 2023
+ro.build.date.utc=1688551055
+ro.build.description=OnePlus9Pro-user 13 TP1A.220905.001 R.159cc68-4eae-182baf release-keys
+ro.build.display.id=LE2125_13.1.0.581(EX01)
+ro.build.expect.baseband=Q_V1_P13,Q_V1_P13
+ro.build.expect.bootloader=unknown
+ro.build.fingerprint=OnePlus/OnePlus9Pro/OnePlus9Pro:13/TP1A.220905.001/R.159cc68-4eae-182baf:user/release-keys
+ro.build.flavor=OnePlus9Pro-user
+ro.build.host=ubuntu
+ro.build.id=TP1A.220905.001
+ro.build.tags=release-keys
+ro.build.type=user
+ro.build.user=android-build
+ro.build.version.incremental=R.159cc68-4eae-182baf
+ro.build.version.release=13
+ro.build.version.sdk=33
+ro.build.version.security_patch=2023-06-01
+ro.kernel=5.4.147-android12
+ro.product.hardware=OnePlus9Pro
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 13; OnePlus 9 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+ro.product.vendor.board=lahaina
+
+ro.profile.name=OnePlus 9 Pro - Lemonadep A13
+ro.profile.source.url=https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile

@@ -1,0 +1,31 @@
+# Device Profile: POCO F4 - Munch A13
+# Model: POCO F4 - Munch A13
+# Source URL: https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile
+# Properties count: 25
+
+device_model_name=POCO F4 - Munch A13
+ro.boot.hardware.sku=22021211RG
+ro.build.date=Wed Dec 6 01:34:37 UTC 2023
+ro.build.date.utc=1701826477
+ro.build.description=munch_global-user 13 TKQ1.220807.001 V14.0.5.0.TLMMIXM release-keys
+ro.build.display.id=TKQ1.220807.001 V14.0.5.0.TLMMIXM
+ro.build.expect.baseband=4.4.c1-00093-SM8250_GEN_PACK-1
+ro.build.expect.bootloader=unknown
+ro.build.fingerprint=Redmi/munch_global/munch:13/TKQ1.220807.001/V14.0.5.0.TLMMIXM:user/release-keys
+ro.build.flavor=munch_global-user
+ro.build.host=pangu-build-component-system-262716-l2mfd-6dttp-8q0kv
+ro.build.id=TKQ1.220807.001
+ro.build.tags=release-keys
+ro.build.type=user
+ro.build.user=android-build
+ro.build.version.incremental=V14.0.5.0.TLMMIXM
+ro.build.version.release=13
+ro.build.version.sdk=33
+ro.build.version.security_patch=2023-12-01
+ro.kernel=4.19.157-perf-g0c6efddd96c7
+ro.product.hardware=kona
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 13; 22021211RG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+ro.product.vendor.board=Xiaomi
+
+ro.profile.name=POCO F4 - Munch A13
+ro.profile.source.url=https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile

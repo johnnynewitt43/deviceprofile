@@ -1,0 +1,31 @@
+# Device Profile: Realme C55 - RMX3710 A13
+# Model: Realme C55 - RMX3710 A13
+# Source URL: https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile
+# Properties count: 25
+
+device_model_name=Realme C55 - RMX3710 A13
+ro.boot.hardware.sku=RMX3710
+ro.build.date=Mon Jan 8 10:00:00 UTC 2024
+ro.build.date.utc=1704708000
+ro.build.description=REE2ADL1-user 13 SP1A.210812.016 T.R4T2.15dd1ae_3e425 release-keys
+ro.build.display.id=RMX3710_13.0.0.500(EX01)
+ro.build.expect.baseband=Q_V1_P18,Q_V1_P18
+ro.build.expect.bootloader=unknown
+ro.build.fingerprint=realme/RMX3710/REE2ADL1:13/SP1A.210812.016/T.R4T2.15dd1ae_3e425:user/release-keys
+ro.build.flavor=REE2ADL1-user
+ro.build.host=ubuntu
+ro.build.id=SP1A.210812.016
+ro.build.tags=release-keys
+ro.build.type=user
+ro.build.user=android-build
+ro.build.version.incremental=T.R4T2.15dd1ae_3e425
+ro.build.version.release=13
+ro.build.version.sdk=33
+ro.build.version.security_patch=2024-01-05
+ro.kernel=4.19.191-perf+
+ro.product.hardware=RMX3710
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 13; RMX3710) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+ro.product.vendor.board=holi
+
+ro.profile.name=Realme C55 - RMX3710 A13
+ro.profile.source.url=https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile

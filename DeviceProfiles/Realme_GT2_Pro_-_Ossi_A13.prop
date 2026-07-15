@@ -1,0 +1,31 @@
+# Device Profile: Realme GT2 Pro - Ossi A13
+# Model: Realme GT2 Pro - Ossi A13
+# Source URL: https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile
+# Properties count: 25
+
+device_model_name=Realme GT2 Pro - Ossi A13
+ro.boot.hardware.sku=RMX3301
+ro.build.date=Tue Mar 14 19:45:27 UTC 2023
+ro.build.date.utc=1678823127
+ro.build.description=qssi-user 13 TP1A.220905.001 1678794327573 release-keys
+ro.build.display.id=RMX3301_13.1.0.200(EX01)
+ro.build.expect.baseband=MPSS.HI.5.4.C4-00113-SM8450_GEN_PACK-1
+ro.build.expect.bootloader=unknown
+ro.build.fingerprint=oplus/ossi/ossi:13/TP1A.220905.001/1678794327573:user/release-keys
+ro.build.flavor=qssi-user
+ro.build.host=dg02-pool03-kvm84
+ro.build.id=TP1A.220905.001
+ro.build.tags=release-keys
+ro.build.type=user
+ro.build.user=android-build
+ro.build.version.incremental=1678794327573
+ro.build.version.release=13
+ro.build.version.sdk=33
+ro.build.version.security_patch=2023-03-05
+ro.kernel=5.10.101-android13-perf
+ro.product.hardware=RMX3301
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 13; RMX3301) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+ro.product.vendor.board=taro
+
+ro.profile.name=Realme GT2 Pro - Ossi A13
+ro.profile.source.url=https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile
