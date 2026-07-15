@@ -1,0 +1,31 @@
+# Device Profile: Nothing Phone 1 - Spacewar NOS1.5 A13
+# Model: Nothing Phone 1 - Spacewar NOS1.5 A13
+# Source URL: https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile
+# Properties count: 25
+
+device_model_name=Nothing Phone 1 - Spacewar NOS1.5 A13
+ro.boot.hardware.sku=Spacewar
+ro.build.date=Fri Mar 10 16:50:00 UTC 2023
+ro.build.date.utc=1678467000
+ro.build.description=qssi-user 13 TKQ1.220915.002 2303101650 release-keys
+ro.build.display.id=Spacewar_T1.5-230310-1650
+ro.build.expect.baseband=SM7325
+ro.build.expect.bootloader=unknown
+ro.build.fingerprint=Nothing/Spacewar/Spacewar:13/TKQ1.220915.002/2303101650:user/release-keys
+ro.build.flavor=qssi-user
+ro.build.host=nothing-build
+ro.build.id=TKQ1.220915.002
+ro.build.tags=release-keys
+ro.build.type=user
+ro.build.user=android-build
+ro.build.version.incremental=2303101650
+ro.build.version.release=13
+ro.build.version.sdk=33
+ro.build.version.security_patch=2023-02-05
+ro.kernel=5.4.210-qgki-perf
+ro.product.hardware=Spacewar
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 13; A063) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+ro.product.vendor.board=Spacewar
+
+ro.profile.name=Nothing Phone 1 - Spacewar NOS1.5 A13
+ro.profile.source.url=https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile

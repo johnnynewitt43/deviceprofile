@@ -1,0 +1,31 @@
+# Device Profile: Asus ROG Phone 7 - CN AI2205 A13
+# Model: Asus ROG Phone 7 - CN AI2205 A13
+# Source URL: https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile
+# Properties count: 25
+
+device_model_name=Asus ROG Phone 7 - CN AI2205 A13
+ro.boot.hardware.sku=AI2205
+ro.build.date=Sat May 20 11:00:00 UTC 2023
+ro.build.date.utc=1684580400
+ro.build.description=CN_AI2205-user 13 TKQ1.220928.001 33.0820.0810.225-0 release-keys
+ro.build.display.id=TKQ1.220928.001.CN_Phone-33.0820.0810.225-0 release-keys
+ro.build.expect.baseband=M2.6.16.4.2-ASUS_1.1.95
+ro.build.expect.bootloader=AI2205-33.0820.0810.225
+ro.build.fingerprint=asus/CN_AI2205/ASUS_AI2205:13/TKQ1.220928.001/33.0820.0810.225-0:user/release-keys
+ro.build.flavor=CN_AI2205-user
+ro.build.host=aptl-jenkins
+ro.build.id=TKQ1.220928.001
+ro.build.tags=release-keys
+ro.build.type=user
+ro.build.user=android-build
+ro.build.version.incremental=33.0820.0810.225-0
+ro.build.version.release=13
+ro.build.version.sdk=33
+ro.build.version.security_patch=2023-04-05
+ro.kernel=5.10.101-android13-4-perf
+ro.product.hardware=AI2205
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 13; ASUS_AI2205) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+ro.product.vendor.board=kalama
+
+ro.profile.name=Asus ROG Phone 7 - CN AI2205 A13
+ro.profile.source.url=https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile

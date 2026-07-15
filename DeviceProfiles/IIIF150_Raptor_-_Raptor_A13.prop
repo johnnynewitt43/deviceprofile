@@ -1,0 +1,31 @@
+# Device Profile: IIIF150 Raptor - Raptor A13
+# Model: IIIF150 Raptor - Raptor A13
+# Source URL: https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile
+# Properties count: 25
+
+device_model_name=IIIF150 Raptor - Raptor A13
+ro.boot.hardware.sku=Raptor
+ro.build.date=Fri Jul 7 11:25:56 CST 2023
+ro.build.date.utc=1688700356
+ro.build.description=Raptor_EEA-user 13 TP1A.220624.014 1688699822 release-keys
+ro.build.display.id=Raptor
+ro.build.expect.baseband=mt6789
+ro.build.expect.bootloader=mt6789
+ro.build.fingerprint=IIIF150/Raptor_EEA/Raptor:13/TP1A.220624.014/1688699822:user/release-keys
+ro.build.flavor=sys_mssi_64_cn_armv82-user
+ro.build.host=s12
+ro.build.id=TP1A.220624.014
+ro.build.tags=release-keys
+ro.build.type=user
+ro.build.user=android-build
+ro.build.version.incremental=1688699822
+ro.build.version.release=13
+ro.build.version.sdk=33
+ro.build.version.security_patch=2023-06-05
+ro.kernel=4.19.191-android12-9-g0c6efddd96c7
+ro.product.hardware=mt6789
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 13; Raptor) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+ro.product.vendor.board=IIIF150
+
+ro.profile.name=IIIF150 Raptor - Raptor A13
+ro.profile.source.url=https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile

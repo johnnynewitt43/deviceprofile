@@ -1,0 +1,31 @@
+# Device Profile: Lenovo Legion Y700 2022 - TB-9707F A13
+# Model: Lenovo Legion Y700 2022 - TB-9707F A13
+# Source URL: https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile
+# Properties count: 25
+
+device_model_name=Lenovo Legion Y700 2022 - TB-9707F A13
+ro.boot.hardware.sku=TB-9707F
+ro.build.date=Wed Oct 18 20:00:00 UTC 2023
+ro.build.date.utc=1697659200
+ro.build.description=TB-9707F_PRC-user 13 TKQ1.221013.002 TB-9707F_CN_OPEN_USER_Q00024.0_T_ZUI_15.0.342_ST_231018 release-keys
+ro.build.display.id=TB-9707F_CN_OPEN_USER_Q00024.0_T_ZUI_15.0.342_ST_231018
+ro.build.expect.baseband=SM8250
+ro.build.expect.bootloader=unknown
+ro.build.fingerprint=Lenovo/TB-9707F_PRC/TB-9707F:13/TKQ1.221013.002/15.0.342_231018:user/release-keys
+ro.build.flavor=qssi-user
+ro.build.host=lenovo-build
+ro.build.id=TKQ1.221013.002
+ro.build.tags=release-keys
+ro.build.type=user
+ro.build.user=android-build
+ro.build.version.incremental=TB-9707F_CN_OPEN_USER_Q00024.0_T_ZUI_15.0.342_ST_231018
+ro.build.version.release=13
+ro.build.version.sdk=33
+ro.build.version.security_patch=2023-10-01
+ro.kernel=4.19.157-perf
+ro.product.hardware=TB-9707F
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 13; Lenovo TB-9707F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+ro.product.vendor.board=kona
+
+ro.profile.name=Lenovo Legion Y700 2022 - TB-9707F A13
+ro.profile.source.url=https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile

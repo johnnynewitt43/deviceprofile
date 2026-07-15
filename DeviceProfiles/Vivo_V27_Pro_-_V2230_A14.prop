@@ -1,0 +1,37 @@
+# Device Profile: Vivo V27 Pro A14
+# Model: Vivo V27 Pro A14
+# Source URL: https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile
+# Properties count: 31
+
+device_model_name=Vivo V27 Pro A14
+ro.boot.hardware.sku=mt6895
+ro.build.date=Tue May  7 11:47:47 CST 2024
+ro.build.date.utc=1715053667
+ro.build.description=sys_mssi_64_cn_nonab_armv82-user 14 UP1A.231005.007 eng.compil.20240507.115627 release-keys
+ro.build.display.id=UP1A.231005.007 release-keys
+ro.build.expect.baseband=V2230
+ro.build.expect.bootloader=unknown
+ro.build.fingerprint=vivo/V2230/V2230:14/UP1A.231005.007/compiler05071147:user/release-keys
+ro.build.flavor=V2230-user
+ro.build.host=dumpling
+ro.build.id=UP1A.231005.007
+ro.build.tags=release-keys
+ro.build.type=user
+ro.build.user=android-build
+ro.build.version.incremental=compiler05071147
+ro.build.version.release=14
+ro.build.version.sdk=34
+ro.build.version.security_patch=2024-05-01
+ro.kernel=5.15-vivo-mtk6895
+ro.product.hardware=V2230
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 14; Vivo V27 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+ro.product.vendor.board=mt6895
+ro.product.vendor.brand=vivo
+ro.product.vendor.device=V2230
+ro.product.vendor.manufacturer=vivo
+ro.product.vendor.model=V2230
+ro.product.vendor.name=V2230
+ro.vivo.product.platform=MTK6895
+
+ro.profile.name=Vivo V27 Pro A14
+ro.profile.source.url=https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile

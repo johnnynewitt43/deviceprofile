@@ -1,0 +1,37 @@
+# Device Profile: Vivo Y02t A13
+# Model: Vivo Y02t A13
+# Source URL: https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile
+# Properties count: 31
+
+device_model_name=Vivo Y02t A13
+ro.boot.hardware.sku=mt6765
+ro.build.date=Mon Nov  6 16:56:55 CST 2023
+ro.build.date.utc=1699261015
+ro.build.description=sys_mssi_64_cn-user 13 TP1A.220624.014 eng.compil.20231106.170216 release-keys
+ro.build.display.id=TP1A.220624.014 release-keys
+ro.build.expect.baseband=V2254
+ro.build.expect.bootloader=unknown
+ro.build.fingerprint=vivo/V2254/V2254:13/TP1A.220624.014/compiler11061656:user/release-keys
+ro.build.flavor=V2254-user
+ro.build.host=dumpling
+ro.build.id=TP1A.220624.014
+ro.build.tags=release-keys
+ro.build.type=user
+ro.build.user=android-build
+ro.build.version.incremental=compiler11061656
+ro.build.version.release=13
+ro.build.version.sdk=33
+ro.build.version.security_patch=2023-11-01
+ro.kernel=5.10-vivo-mtk6765
+ro.product.hardware=V2254
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 13; Vivo Y02t) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+ro.product.vendor.board=mt6765
+ro.product.vendor.brand=vivo
+ro.product.vendor.device=V2254
+ro.product.vendor.manufacturer=vivo
+ro.product.vendor.model=V2254
+ro.product.vendor.name=V2254
+ro.vivo.product.platform=MTK6765
+
+ro.profile.name=Vivo Y02t A13
+ro.profile.source.url=https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile

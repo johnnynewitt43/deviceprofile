@@ -1,0 +1,34 @@
+# Device Profile: Xiaomi 13 - Fuxi A13
+# Model: Xiaomi 13 - Fuxi A13
+# Source URL: https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile
+# Properties count: 28
+
+device_model_name=Xiaomi 13 - Fuxi A13
+ro.board.platform=kalama
+ro.boot.hardware.sku=SM8550
+ro.build.date=Wed Aug 02 13:53:34 UTC 2023
+ro.build.date.utc=1690984414
+ro.build.description=missi_phone_cn-user 13 TKQ1.220905.001 V14.0.31.0.TMCCNXM release-keys
+ro.build.display.id=TKQ1.220905.001
+ro.build.expect.baseband=MPSS.HI.3.0.c6-00027-SLAALLYM_PACK-1
+ro.build.expect.bootloader=unknown
+ro.build.fingerprint=Xiaomi/fuxi/fuxi:13/TKQ1.220905.001/V14.0.31.0.TMCCNXM:user/release-keys
+ro.build.flavor=missi_phone_cn-user
+ro.build.host=pangu-build-component-system
+ro.build.id=TKQ1.220905.001
+ro.build.tags=release-keys
+ro.build.type=user
+ro.build.user=android-build
+ro.build.version.incremental=V14.0.31.0.TMCCNXM
+ro.build.version.release=13
+ro.build.version.sdk=33
+ro.build.version.security_patch=2023-08-01
+ro.kernel=5.15.78-android13-8-g
+ro.product.hardware=Fuxi
+ro.product.mod_device=fuxi
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 13; 2211133C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Mobile Safari/537.36
+ro.product.vendor.board=Xiaomi
+ro.vendor.build.version.qcom=SM8550
+
+ro.profile.name=Xiaomi 13 - Fuxi A13
+ro.profile.source.url=https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile

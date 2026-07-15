@@ -1,0 +1,34 @@
+# Device Profile: Xiaomi 14 - Houji A14
+# Model: Xiaomi 14 - Houji A14
+# Source URL: https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile
+# Properties count: 28
+
+device_model_name=Xiaomi 14 - Houji A14
+ro.board.platform=pineapple
+ro.boot.hardware.sku=SM8650
+ro.build.date=Fri Jun 28 01:59:03 UTC 2024
+ro.build.date.utc=1719539943
+ro.build.description=missi_phone_global_only64-user 14 UKQ1.230804.001 V816.0.12.0.UNCMIXM release-keys
+ro.build.display.id=UKQ1.230804.001
+ro.build.expect.baseband=MPSS.HI.4.0.c9-00013-SLAALLYM_PACK-1
+ro.build.expect.bootloader=unknown
+ro.build.fingerprint=Xiaomi/houji_global/houji:14/UKQ1.230804.001/V816.0.12.0.UNCMIXM:user/release-keys
+ro.build.flavor=missi_phone_global_only64-user
+ro.build.host=pangu-build-component-system
+ro.build.id=UKQ1.230804.001
+ro.build.tags=release-keys
+ro.build.type=user
+ro.build.user=android-build
+ro.build.version.incremental=V816.0.12.0.UNCMIXM
+ro.build.version.release=14
+ro.build.version.sdk=34
+ro.build.version.security_patch=2024-06-01
+ro.kernel=5.15.149-android14-11-g
+ro.product.hardware=Houji
+ro.product.mod_device=houji_global
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 14; 23127PN0CG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+ro.product.vendor.board=Xiaomi
+ro.vendor.build.version.qcom=SM8650
+
+ro.profile.name=Xiaomi 14 - Houji A14
+ro.profile.source.url=https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile

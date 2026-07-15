@@ -1,0 +1,31 @@
+# Device Profile: Nokia C32 - Mockingbird MR A13
+# Model: Nokia C32 - Mockingbird MR A13
+# Source URL: https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile
+# Properties count: 25
+
+device_model_name=Nokia C32 - Mockingbird MR A13
+ro.boot.hardware.sku=TA-1534
+ro.build.date=Thu Jun 15 12:00:00 UTC 2023
+ro.build.date.utc=1686830400
+ro.build.description=Mockingbird_00WW-user 13 TP1A.220624.014 00WW_1_230 release-keys
+ro.build.display.id=00WW_1_230
+ro.build.expect.baseband=00WW_1_230
+ro.build.expect.bootloader=1.0
+ro.build.fingerprint=Nokia/Mockingbird_00WW/MKDA:13/TP1A.220624.014/00WW_1_230:user/release-keys
+ro.build.flavor=Mockingbird_00WW-user
+ro.build.host=HMDGlobal
+ro.build.id=TP1A.220624.014
+ro.build.tags=release-keys
+ro.build.type=user
+ro.build.user=android-build
+ro.build.version.incremental=00WW_1_230
+ro.build.version.release=13
+ro.build.version.sdk=33
+ro.build.version.security_patch=2023-06-01
+ro.kernel=4.19.191-perf
+ro.product.hardware=MKDA
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 13; Nokia C32) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+ro.product.vendor.board=MKDA
+
+ro.profile.name=Nokia C32 - Mockingbird MR A13
+ro.profile.source.url=https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile

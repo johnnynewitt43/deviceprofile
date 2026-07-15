@@ -1,0 +1,31 @@
+# Device Profile: Honor 70 - FNE-NX9 (C636) A13
+# Model: Honor 70 - FNE-NX9 (C636) A13
+# Source URL: https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile
+# Properties count: 25
+
+device_model_name=Honor 70 - FNE-NX9 (C636) A13
+ro.boot.hardware.sku=FNE-NX9
+ro.build.date=Tue Aug 1 10:00:00 UTC 2023
+ro.build.date.utc=1690884000
+ro.build.description=FNE-N29-user 13 HONORFNE-N29 7.1.0.298C636E221R2P2 release-keys
+ro.build.display.id=FNE-N29 7.1.0.298(C636E221R2P2)
+ro.build.expect.baseband=21C20_2.0.176.08,21C20_2.0.176.08
+ro.build.expect.bootloader=unknown
+ro.build.fingerprint=HONOR/FNE-N29/HNFNE:13/HONORFNE-N29/7.1.0.298C636E221R2P2:user/release-keys
+ro.build.flavor=FNE-N29-user
+ro.build.host=magicos-compiler
+ro.build.id=HONORFNE-N29
+ro.build.tags=release-keys
+ro.build.type=user
+ro.build.user=android-build
+ro.build.version.incremental=7.1.0.298C636E221R2P2
+ro.build.version.release=13
+ro.build.version.sdk=33
+ro.build.version.security_patch=2023-08-01
+ro.kernel=5.10.110-android13-perf
+ro.product.hardware=HNFNE
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 13; Honor 70) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+ro.product.vendor.board=HONOR
+
+ro.profile.name=Honor 70 - FNE-NX9 (C636) A13
+ro.profile.source.url=https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile

@@ -1,0 +1,37 @@
+# Device Profile: iQOO Neo 8 A13
+# Model: iQOO Neo 8 A13
+# Source URL: https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile
+# Properties count: 31
+
+device_model_name=iQOO Neo 8 A13
+ro.boot.hardware.sku=kalama
+ro.build.date=Fri Jan 13 20:55:28 CST 2023
+ro.build.date.utc=1673614528
+ro.build.description=qssi-user 13 TP1A.220624.014 eng.compil.20230113.205528 release-keys
+ro.build.display.id=TP1A.220624.014 release-keys
+ro.build.expect.baseband=V2254A
+ro.build.expect.bootloader=unknown
+ro.build.fingerprint=vivo/PD2254/PD2254:13/TP1A.220624.014/compiler01132055:user/release-keys
+ro.build.flavor=PD2254-user
+ro.build.host=dumpling
+ro.build.id=TP1A.220624.014
+ro.build.tags=release-keys
+ro.build.type=user
+ro.build.user=android-build
+ro.build.version.incremental=compiler01132055
+ro.build.version.release=13
+ro.build.version.sdk=33
+ro.build.version.security_patch=2022-12-01
+ro.kernel=5.10-vivo-sm8550
+ro.product.hardware=PD2254
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 13; iQOO Neo 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+ro.product.vendor.board=kalama
+ro.product.vendor.brand=vivo
+ro.product.vendor.device=PD2254
+ro.product.vendor.manufacturer=vivo
+ro.product.vendor.model=V2254A
+ro.product.vendor.name=PD2254
+ro.vivo.product.platform=SM8550
+
+ro.profile.name=iQOO Neo 8 A13
+ro.profile.source.url=https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile

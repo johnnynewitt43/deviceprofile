@@ -1,0 +1,31 @@
+# Device Profile: Motorola Edge 30 Ultra - Eqs A13
+# Model: Motorola Edge 30 Ultra - Eqs A13
+# Source URL: https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile
+# Properties count: 25
+
+device_model_name=Motorola Edge 30 Ultra - Eqs A13
+ro.boot.hardware.sku=XT2241-2
+ro.build.date=Tue Jun 6 17:45:25 UTC 2023
+ro.build.date.utc=1686073525
+ro.build.description=eqs_g-user 13 T1SQ33M.15-11-137-10 d8d2b release-keys
+ro.build.display.id=T1SQ33M.15-11-137-10
+ro.build.expect.baseband=M1_MODEM_1.0_R.36.11
+ro.build.expect.bootloader=MBM-3.0-eqs_retail-b3c4d5e-230601
+ro.build.fingerprint=motorola/eqs_g/msi:13/T1SQ33M.15-11-137-10/d8d2b:user/release-keys
+ro.build.flavor=eqs_g-user
+ro.build.host=gcbuilds-def-t2d-standard-60-243-v5u9li
+ro.build.id=T1SQ33M.15-11-137-10
+ro.build.tags=release-keys
+ro.build.type=user
+ro.build.user=hudsoncm
+ro.build.version.incremental=d8d2b
+ro.build.version.release=13
+ro.build.version.sdk=33
+ro.build.version.security_patch=2023-06-01
+ro.kernel=5.10.149-android13-g0c6efddd96c7
+ro.product.hardware=eqs
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 13; motorola edge 30 ultra) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+ro.product.vendor.board=taro
+
+ro.profile.name=Motorola Edge 30 Ultra - Eqs A13
+ro.profile.source.url=https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile

@@ -1,0 +1,31 @@
+# Device Profile: Lenovo Xiaoxin Pad Pro 2021 - TB-J716F A13
+# Model: Lenovo Xiaoxin Pad Pro 2021 - TB-J716F A13
+# Source URL: https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile
+# Properties count: 25
+
+device_model_name=Lenovo Xiaoxin Pad Pro 2021 - TB-J716F A13
+ro.boot.hardware.sku=J716F
+ro.build.date=Thu Dec 21 20:00:32 UTC 2023
+ro.build.date.utc=1703188832
+ro.build.description=LenovoTB-J716F_PRC-user 13 TKQ1.221013.002 TB-J716F_CN_OPEN_USER_Q00126_T_ZUI_15.0.423_ST_231222 release-keys
+ro.build.display.id=TB-J716F_CN_OPEN_USER_Q00126_T_ZUI_15.0.423_ST_231222
+ro.build.expect.baseband=SM8250
+ro.build.expect.bootloader=unknown
+ro.build.fingerprint=Lenovo/LenovoTB-J716F_PRC/J716F:13/TKQ1.221013.002/15.0.423_231222:user/release-keys
+ro.build.flavor=qssi-user
+ro.build.host=lenovo-build
+ro.build.id=TKQ1.221013.002
+ro.build.tags=release-keys
+ro.build.type=user
+ro.build.user=android-build
+ro.build.version.incremental=TB-J716F_CN_OPEN_USER_Q00126_T_ZUI_15.0.423_ST_231222
+ro.build.version.release=13
+ro.build.version.sdk=33
+ro.build.version.security_patch=2023-11-01
+ro.kernel=4.19.157-perf
+ro.product.hardware=J716F
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 13; Lenovo TB-J716F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+ro.product.vendor.board=kona
+
+ro.profile.name=Lenovo Xiaoxin Pad Pro 2021 - TB-J716F A13
+ro.profile.source.url=https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile

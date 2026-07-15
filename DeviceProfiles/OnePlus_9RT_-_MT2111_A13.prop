@@ -1,0 +1,31 @@
+# Device Profile: OnePlus 9RT - MT2111 A13
+# Model: OnePlus 9RT - MT2111 A13
+# Source URL: https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile
+# Properties count: 25
+
+device_model_name=OnePlus 9RT - MT2111 A13
+ro.boot.hardware.sku=MT2111
+ro.build.date=Sat Jul 15 16:41:22 CST 2023
+ro.build.date.utc=1689410482
+ro.build.description=MT2111_IND-user 13 TP1A.220905.001 R.df3fd4-1-4 release-keys
+ro.build.display.id=MT2111_13.1.0.590(EX01)
+ro.build.expect.baseband=Q_V1_P13,Q_V1_P13
+ro.build.expect.bootloader=unknown
+ro.build.fingerprint=OnePlus/MT2111_IND/OP5155L1:13/TP1A.220905.001/R.df3fd4-1-4:user/release-keys
+ro.build.flavor=MT2111_IND-user
+ro.build.host=ubuntu
+ro.build.id=TP1A.220905.001
+ro.build.tags=release-keys
+ro.build.type=user
+ro.build.user=android-build
+ro.build.version.incremental=R.df3fd4-1-4
+ro.build.version.release=13
+ro.build.version.sdk=33
+ro.build.version.security_patch=2023-07-05
+ro.kernel=5.4.147-android12
+ro.product.hardware=OP5155L1
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 13; OnePlus 9RT 5G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+ro.product.vendor.board=lahaina
+
+ro.profile.name=OnePlus 9RT - MT2111 A13
+ro.profile.source.url=https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile

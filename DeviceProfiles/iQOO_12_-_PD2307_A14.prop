@@ -1,0 +1,37 @@
+# Device Profile: iQOO 12 A14
+# Model: iQOO 12 A14
+# Source URL: https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile
+# Properties count: 31
+
+device_model_name=iQOO 12 A14
+ro.boot.hardware.sku=pineapple
+ro.build.date=Thu Oct 10 00:11:53 CST 2024
+ro.build.date.utc=1728490313
+ro.build.description=qssi-user 14 UP1A.231005.007 eng.compil.20241010.001153 release-keys
+ro.build.display.id=PD2307_A_14.0.23.5.W10.V000L1
+ro.build.expect.baseband=V2307A
+ro.build.expect.bootloader=unknown
+ro.build.fingerprint=vivo/PD2307/PD2307:14/UP1A.231005.007/compiler10100011:user/release-keys
+ro.build.flavor=PD2307-user
+ro.build.host=dumpling
+ro.build.id=UP1A.231005.007
+ro.build.tags=release-keys
+ro.build.type=user
+ro.build.user=android-build
+ro.build.version.incremental=compiler10100011
+ro.build.version.release=14
+ro.build.version.sdk=34
+ro.build.version.security_patch=2024-09-01
+ro.kernel=5.15-vivo-sm8650
+ro.product.hardware=PD2307
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 14; iQOO 12) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+ro.product.vendor.board=pineapple
+ro.product.vendor.brand=vivo
+ro.product.vendor.device=PD2307
+ro.product.vendor.manufacturer=vivo
+ro.product.vendor.model=V2307A
+ro.product.vendor.name=PD2307
+ro.vivo.product.platform=SM8650
+
+ro.profile.name=iQOO 12 A14
+ro.profile.source.url=https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile

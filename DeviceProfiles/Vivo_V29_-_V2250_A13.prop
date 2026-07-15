@@ -1,0 +1,37 @@
+# Device Profile: Vivo V29 A13
+# Model: Vivo V29 A13
+# Source URL: https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile
+# Properties count: 31
+
+device_model_name=Vivo V29 A13
+ro.boot.hardware.sku=lahaina
+ro.build.date=Thu Dec 14 17:12:21 CST 2023
+ro.build.date.utc=1702545141
+ro.build.description=qssi-user 13 TP1A.220624.014 eng.compil.20231214.171221 release-keys
+ro.build.display.id=TP1A.220624.014 release-keys
+ro.build.expect.baseband=V2250
+ro.build.expect.bootloader=unknown
+ro.build.fingerprint=vivo/V2250_EEA/V2250:13/TP1A.220624.014/compiler12141712:user/release-keys
+ro.build.flavor=V2250-user
+ro.build.host=dumpling
+ro.build.id=TP1A.220624.014
+ro.build.tags=release-keys
+ro.build.type=user
+ro.build.user=android-build
+ro.build.version.incremental=compiler12141712
+ro.build.version.release=13
+ro.build.version.sdk=33
+ro.build.version.security_patch=2023-12-01
+ro.kernel=5.10-vivo-sm7325
+ro.product.hardware=V2250
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 13; Vivo V29) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+ro.product.vendor.board=lahaina
+ro.product.vendor.brand=vivo
+ro.product.vendor.device=V2250
+ro.product.vendor.manufacturer=vivo
+ro.product.vendor.model=V2250
+ro.product.vendor.name=V2250
+ro.vivo.product.platform=SM7325
+
+ro.profile.name=Vivo V29 A13
+ro.profile.source.url=https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile

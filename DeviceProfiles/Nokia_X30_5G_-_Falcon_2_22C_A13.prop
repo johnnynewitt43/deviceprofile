@@ -1,0 +1,31 @@
+# Device Profile: Nokia X30 5G - Falcon 2_22C A13
+# Model: Nokia X30 5G - Falcon 2_22C A13
+# Source URL: https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile
+# Properties count: 25
+
+device_model_name=Nokia X30 5G - Falcon 2_22C A13
+ro.boot.hardware.sku=TA-1450
+ro.build.date=Sat May 20 12:00:00 UTC 2023
+ro.build.date.utc=1684584000
+ro.build.description=Falcon_00WW-user 13 TKQ1.220807.001 00WW_2_22C release-keys
+ro.build.display.id=00WW_2_22C
+ro.build.expect.baseband=00WW_2_22C
+ro.build.expect.bootloader=1.0
+ro.build.fingerprint=Nokia/Falcon_00WW/FCN_sprout:13/TKQ1.220807.001/00WW_2_22C:user/release-keys
+ro.build.flavor=Falcon_00WW-user
+ro.build.host=HMDGlobal
+ro.build.id=TKQ1.220807.001
+ro.build.tags=release-keys
+ro.build.type=user
+ro.build.user=android-build
+ro.build.version.incremental=00WW_2_22C
+ro.build.version.release=13
+ro.build.version.sdk=33
+ro.build.version.security_patch=2023-05-01
+ro.kernel=5.4.210-perf
+ro.product.hardware=FCN_sprout
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 13; Nokia X30 5G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+ro.product.vendor.board=FCN_sprout
+
+ro.profile.name=Nokia X30 5G - Falcon 2_22C A13
+ro.profile.source.url=https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile

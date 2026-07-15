@@ -1,0 +1,31 @@
+# Device Profile: Honor X7a - RKY-LX3 A13
+# Model: Honor X7a - RKY-LX3 A13
+# Source URL: https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile
+# Properties count: 25
+
+device_model_name=Honor X7a - RKY-LX3 A13
+ro.boot.hardware.sku=RKY-LX3
+ro.build.date=Wed May 10 08:15:00 UTC 2023
+ro.build.date.utc=1683706500
+ro.build.description=RKY-LX3-user 13 HONORRKY-LX3 7.1.0.138C431E5R3P1 release-keys
+ro.build.display.id=RKY-LX3 7.1.0.138(C431E5R3P1)
+ro.build.expect.baseband=MOLY.LR13.R1.TC8.PR2.SP.V6.P29
+ro.build.expect.bootloader=unknown
+ro.build.fingerprint=HONOR/RKY-LX3/HNRKY:13/HONORRKY-LX3/7.1.0.138C431E5R3P1:user/release-keys
+ro.build.flavor=RKY-LX3-user
+ro.build.host=magicos-compiler
+ro.build.id=HONORRKY-LX3
+ro.build.tags=release-keys
+ro.build.type=user
+ro.build.user=android-build
+ro.build.version.incremental=7.1.0.138C431E5R3P1
+ro.build.version.release=13
+ro.build.version.sdk=33
+ro.build.version.security_patch=2023-05-01
+ro.kernel=4.19.191-android13-perf
+ro.product.hardware=HNRKY
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 13; Honor X7a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+ro.product.vendor.board=HONOR
+
+ro.profile.name=Honor X7a - RKY-LX3 A13
+ro.profile.source.url=https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile

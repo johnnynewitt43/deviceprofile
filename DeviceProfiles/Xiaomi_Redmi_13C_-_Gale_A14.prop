@@ -1,0 +1,34 @@
+# Device Profile: Xiaomi Redmi 13C Gale A14
+# Model: Xiaomi Redmi 13C Gale A14
+# Source URL: https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile
+# Properties count: 28
+
+device_model_name=Xiaomi Redmi 13C Gale A14
+ro.boot.hardware.sku=gale
+ro.build.date=Thu May 30 12:00:00 UTC 2024
+ro.build.date.utc=1717070400
+ro.build.description=gale_global-user 14 UP1A.230905.011 OS1.0.5.0.UGPMIXM release-keys
+ro.build.display.id=UP1A.230905.011
+ro.build.expect.baseband=MOLY.LR13.R1.TC8.PR2.SP.V1.P29
+ro.build.expect.bootloader=unknown
+ro.build.fingerprint=Redmi/gale_global/gale:14/UP1A.230905.011/OS1.0.5.0.UGPMIXM:user/release-keys
+ro.build.flavor=gale_global-user
+ro.build.host=pangu-build-component-system-252190-h6mlt-cc41r-ppq52
+ro.build.id=UP1A.230905.011
+ro.build.tags=release-keys
+ro.build.type=user
+ro.build.user=android-build
+ro.build.version.incremental=OS1.0.5.0.UGPMIXM
+ro.build.version.release=14
+ro.build.version.sdk=34
+ro.build.version.security_patch=2024-05-01
+ro.kernel=4.19.191-android12-9
+ro.mediatek.version.release=alps-mp-t0.mp1.rc-V1.14
+ro.oem.key1=A5DBF3C0E9A1B22D6E4F1A0DE71
+ro.product.hardware=gale
+ro.product.mod_device=gale_global
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 14; 23108RN04Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+ro.product.vendor.board=gale
+
+ro.profile.name=Xiaomi Redmi 13C Gale A14
+ro.profile.source.url=https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile

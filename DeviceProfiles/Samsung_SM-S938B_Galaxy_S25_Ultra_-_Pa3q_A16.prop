@@ -1,0 +1,40 @@
+# Device Profile: Samsung SM-S938B Galaxy S25 Ultra A16
+# Model: Samsung SM-S938B Galaxy S25 Ultra A16
+# Source URL: https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile
+# Properties count: 34
+
+device_model_name=Samsung SM-S938B Galaxy S25 Ultra A16
+ro.boot.hardware.sku=sun
+ro.build.PDA=S938BXXU9CZDP
+ro.build.changelist=33419270
+ro.build.date=Thu Apr 23 16:49:00 KST 2026
+ro.build.date.utc=1776930540
+ro.build.description=pa3qxxx-user 16 BP4A.251205.006 S938BXXU9CZDP release-keys
+ro.build.display.id=BP4A.251205.006.S938BXXU9CZDP
+ro.build.expect.baseband=S938BXXU9CZDP
+ro.build.expect.bootloader=S938BXXU9CZDP
+ro.build.fingerprint=samsung/pa3qxxx/qssi_64:16/BP4A.251205.006/S938BXXU9CZDP:user/release-keys
+ro.build.flavor=pa3qxxx-user
+ro.build.host=SWDMC218
+ro.build.id=BP4A.251205.006
+ro.build.product_code=SM-S938BZKGEUB
+ro.build.tags=release-keys
+ro.build.type=user
+ro.build.user=android-build
+ro.build.version.incremental=S938BXXU9CZDP
+ro.build.version.release=16
+ro.build.version.sdk=36
+ro.build.version.security_patch=2026-04-05
+ro.csc.sales_code=EUX
+ro.kernel=6.6.30-android16-8-33419270-abogkiS938BXXU9CZDP-4k
+ro.product.hardware=SM-S938B
+ro.product.system.device=qssi_64
+ro.product.system.manufacturer=samsung
+ro.product.system.model=SM-S938B
+ro.product.system.name=pa3qxxx
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 16; SM-S938B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+ro.product.vendor.board=Samsung
+ro.product.vendor.brand=Samsung
+
+ro.profile.name=Samsung SM-S938B Galaxy S25 Ultra A16
+ro.profile.source.url=https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile

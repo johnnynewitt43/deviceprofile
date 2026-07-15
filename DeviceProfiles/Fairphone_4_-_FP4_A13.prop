@@ -1,0 +1,31 @@
+# Device Profile: Fairphone 4 - FP4 A13
+# Model: Fairphone 4 - FP4 A13
+# Source URL: https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile
+# Properties count: 25
+
+device_model_name=Fairphone 4 - FP4 A13
+ro.boot.hardware.sku=FP4
+ro.build.date=Wed Mar 13 14:43:20 CST 2024
+ro.build.date.utc=1710312200
+ro.build.description=qssi-user 13 TKQ1.230127.002 TP2D release-keys
+ro.build.display.id=FP4.TP2D.C.0112.20240313
+ro.build.expect.baseband=Q_V1_P12,Q_V1_P12
+ro.build.expect.bootloader=lito
+ro.build.fingerprint=Fairphone/FP4eea/FP4:13/TKQ1.230127.002/TP2D:user/release-keys
+ro.build.flavor=qssi-user
+ro.build.host=8d71c10583c1
+ro.build.id=TKQ1.230127.002
+ro.build.tags=release-keys
+ro.build.type=user
+ro.build.user=android-build
+ro.build.version.incremental=TP2D
+ro.build.version.release=13
+ro.build.version.sdk=33
+ro.build.version.security_patch=2024-03-05
+ro.kernel=4.19.157-perf-gc0c6efddd96c7
+ro.product.hardware=FP4
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 13; Fairphone 4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+ro.product.vendor.board=Fairphone
+
+ro.profile.name=Fairphone 4 - FP4 A13
+ro.profile.source.url=https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile

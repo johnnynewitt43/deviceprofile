@@ -1,0 +1,31 @@
+# Device Profile: Motorola G32 - Devon A13
+# Model: Motorola G32 - Devon A13
+# Source URL: https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile
+# Properties count: 25
+
+device_model_name=Motorola G32 - Devon A13
+ro.boot.hardware.sku=XT2235-2
+ro.build.date=Fri Oct 20 01:59:03 UTC 2023
+ro.build.date.utc=1697767143
+ro.build.description=devon_g-user 13 T2SN33M.73-22-3 b531e release-keys
+ro.build.display.id=T2SN33M.73-22-3
+ro.build.expect.baseband=M1_MODEM_1.0_R.18.07
+ro.build.expect.bootloader=MBM-3.0-devon_retail-d1e2f3a-231020
+ro.build.fingerprint=motorola/devon_g/devon:13/T2SN33M.73-22-3/b531e:user/release-keys
+ro.build.flavor=devon_g-user
+ro.build.host=gcbuilds-def-t2d-standard-60-248-uyqm9q
+ro.build.id=T2SN33M.73-22-3
+ro.build.tags=release-keys
+ro.build.type=user
+ro.build.user=hudsoncm
+ro.build.version.incremental=b531e
+ro.build.version.release=13
+ro.build.version.sdk=33
+ro.build.version.security_patch=2023-10-01
+ro.kernel=4.19.191-android13-g0c6efddd96c7
+ro.product.hardware=devon
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 13; moto g32) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+ro.product.vendor.board=bengal
+
+ro.profile.name=Motorola G32 - Devon A13
+ro.profile.source.url=https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile

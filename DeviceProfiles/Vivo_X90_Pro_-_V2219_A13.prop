@@ -1,0 +1,37 @@
+# Device Profile: Vivo X90 Pro A13
+# Model: Vivo X90 Pro A13
+# Source URL: https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile
+# Properties count: 31
+
+device_model_name=Vivo X90 Pro A13
+ro.boot.hardware.sku=mt6985
+ro.build.date=Wed Dec 28 01:52:24 CST 2022
+ro.build.date.utc=1672163544
+ro.build.description=sys_mssi_64_cn_armv82-user 13 TP1A.220624.014 eng.compil.20221228.015547 release-keys
+ro.build.display.id=TP1A.220624.014 release-keys
+ro.build.expect.baseband=V2219
+ro.build.expect.bootloader=unknown
+ro.build.fingerprint=vivo/V2219/V2219:13/TP1A.220624.014/compiler12280152:user/release-keys
+ro.build.flavor=V2219-user
+ro.build.host=dumpling
+ro.build.id=TP1A.220624.014
+ro.build.tags=release-keys
+ro.build.type=user
+ro.build.user=android-build
+ro.build.version.incremental=compiler12280152
+ro.build.version.release=13
+ro.build.version.sdk=33
+ro.build.version.security_patch=2022-11-01
+ro.kernel=5.10-vivo-mtk6985
+ro.product.hardware=V2219
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 13; Vivo X90 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+ro.product.vendor.board=mt6985
+ro.product.vendor.brand=vivo
+ro.product.vendor.device=V2219
+ro.product.vendor.manufacturer=vivo
+ro.product.vendor.model=V2219
+ro.product.vendor.name=V2219
+ro.vivo.product.platform=MTK6985
+
+ro.profile.name=Vivo X90 Pro A13
+ro.profile.source.url=https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile

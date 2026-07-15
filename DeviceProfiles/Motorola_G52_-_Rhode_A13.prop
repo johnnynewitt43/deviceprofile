@@ -1,0 +1,31 @@
+# Device Profile: Motorola G52 - Rhode A13
+# Model: Motorola G52 - Rhode A13
+# Source URL: https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile
+# Properties count: 25
+
+device_model_name=Motorola G52 - Rhode A13
+ro.boot.hardware.sku=XT2221-1
+ro.build.date=Mon Oct 23 22:17:17 UTC 2023
+ro.build.date.utc=1698099437
+ro.build.description=rhode_g-user 13 T2SR33M.72-22-4 70d224 release-keys
+ro.build.display.id=T2SR33M.72-22-4
+ro.build.expect.baseband=M1_MODEM_1.0_R.18.09
+ro.build.expect.bootloader=MBM-3.0-rhode_retail-f7a8b9c-231020
+ro.build.fingerprint=motorola/rhode_g/rhode:13/T2SR33M.72-22-4/70d224:user/release-keys
+ro.build.flavor=rhode_g-user
+ro.build.host=gcbuilds-def-t2d-standard-60-248-8g33qs
+ro.build.id=T2SR33M.72-22-4
+ro.build.tags=release-keys
+ro.build.type=user
+ro.build.user=hudsoncm
+ro.build.version.incremental=70d224
+ro.build.version.release=13
+ro.build.version.sdk=33
+ro.build.version.security_patch=2023-10-01
+ro.kernel=5.4.161-android13-g0c6efddd96c7
+ro.product.hardware=rhode
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 13; moto g52) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+ro.product.vendor.board=holi
+
+ro.profile.name=Motorola G52 - Rhode A13
+ro.profile.source.url=https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile

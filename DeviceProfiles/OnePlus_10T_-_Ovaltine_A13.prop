@@ -1,0 +1,31 @@
+# Device Profile: OnePlus 10T - Ovaltine A13
+# Model: OnePlus 10T - Ovaltine A13
+# Source URL: https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile
+# Properties count: 25
+
+device_model_name=OnePlus 10T - Ovaltine A13
+ro.boot.hardware.sku=CPH2415
+ro.build.date=Mon Nov 21 22:14:37 CST 2022
+ro.build.date.utc=1669040077
+ro.build.description=CPH2415-user 13 TP1A.220905.001 S.be8a47_f166-8a1a release-keys
+ro.build.display.id=CPH2415_13.1.0.512(EX01)
+ro.build.expect.baseband=Q_V1_P13,Q_V1_P13
+ro.build.expect.bootloader=unknown
+ro.build.fingerprint=OnePlus/CPH2415/OP5552L1:13/TP1A.220905.001/S.be8a47_f166-8a1a:user/release-keys
+ro.build.flavor=CPH2415-user
+ro.build.host=ubuntu
+ro.build.id=TP1A.220905.001
+ro.build.tags=release-keys
+ro.build.type=user
+ro.build.user=android-build
+ro.build.version.incremental=S.be8a47_f166-8a1a
+ro.build.version.release=13
+ro.build.version.sdk=33
+ro.build.version.security_patch=2022-11-01
+ro.kernel=5.10.101-android12-9
+ro.product.hardware=OP5552L1
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 13; OnePlus 10T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+ro.product.vendor.board=taro
+
+ro.profile.name=OnePlus 10T - Ovaltine A13
+ro.profile.source.url=https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile

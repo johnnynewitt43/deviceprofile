@@ -1,0 +1,31 @@
+# Device Profile: Infinix Zero 5G 2023 - X6815D A13
+# Model: Infinix Zero 5G 2023 - X6815D A13
+# Source URL: https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile
+# Properties count: 25
+
+device_model_name=Infinix Zero 5G 2023 - X6815D A13
+ro.boot.hardware.sku=X6815D
+ro.build.date=Fri Jul 14 19:05:44 CST 2023
+ro.build.date.utc=1689332744
+ro.build.description=sys_tssi_64_armv82_infinix-user 13 TP1A.220624.014 379072 release-keys
+ro.build.display.id=INFINIX-X6815D-230714V199
+ro.build.expect.baseband=mt6895
+ro.build.expect.bootloader=mt6895
+ro.build.fingerprint=Infinix/X6815D-GL/Infinix-X6815D:13/TP1A.220624.014/230714V199:user/release-keys
+ro.build.flavor=sys_tssi_64_armv82_infinix-user
+ro.build.host=buildsrv-237
+ro.build.id=TP1A.220624.014
+ro.build.tags=release-keys
+ro.build.type=user
+ro.build.user=android-build
+ro.build.version.incremental=230714V199
+ro.build.version.release=13
+ro.build.version.sdk=33
+ro.build.version.security_patch=2023-06-05
+ro.kernel=5.10.101-android12-9-g0c6efddd96c7
+ro.product.hardware=mt6895
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 13; Infinix X6815D) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+ro.product.vendor.board=Infinix
+
+ro.profile.name=Infinix Zero 5G 2023 - X6815D A13
+ro.profile.source.url=https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile

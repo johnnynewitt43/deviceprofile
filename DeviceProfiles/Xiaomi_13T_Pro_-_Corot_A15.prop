@@ -1,0 +1,37 @@
+# Device Profile: Xiaomi 13T Pro - Corot A15
+# Model: Xiaomi 13T Pro - Corot A15
+# Source URL: https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile
+# Properties count: 31
+
+device_model_name=Xiaomi 13T Pro - Corot A15
+ro.boot.hardware.sku=mt6985
+ro.build.date=Sun Sep 15 11:31:11 UTC 2024
+ro.build.date.utc=1726399871
+ro.build.description=missi-user 15 AP3A.240617.008 V816.1.3.0.VMLMIXM.BETA release-keys
+ro.build.display.id=AP3A.240617.008
+ro.build.expect.baseband=MOLY.NR17.R1.MP3.PR2.SP.V1.P41
+ro.build.expect.bootloader=unknown
+ro.build.fingerprint=Xiaomi/corot/corot:15/AP3A.240617.008/V816.1.3.0.VMLMIXM.BETA:user/release-keys
+ro.build.flavor=missi-user
+ro.build.host=pangu-build-component-system
+ro.build.id=AP3A.240617.008
+ro.build.tags=release-keys
+ro.build.type=user
+ro.build.user=android-build
+ro.build.version.incremental=V816.1.3.0.VMLMIXM.BETA
+ro.build.version.release=15
+ro.build.version.sdk=35
+ro.build.version.security_patch=2024-09-05
+ro.hardware.wlan.chip=mt799x
+ro.hardware.wlan.vendor=mediatek
+ro.kernel=5.15.94-android13-8-g
+ro.mediatek.version.branch=alps-mp-v0.mssi1
+ro.mediatek.version.release=alps-mp-v0.mp1.tc8sp1-V1
+ro.product.hardware=Corot
+ro.product.mod_device=corot
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 15; 23078PND5G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
+ro.product.vendor.board=Xiaomi
+ro.vendor.mediatek.version.release=alps-mp-v0.mp1.tc8sp1-V1
+
+ro.profile.name=Xiaomi 13T Pro - Corot A15
+ro.profile.source.url=https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile

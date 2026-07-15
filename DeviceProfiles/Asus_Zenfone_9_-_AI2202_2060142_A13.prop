@@ -1,0 +1,31 @@
+# Device Profile: Asus Zenfone 9 - AI2202 (2060.142) A13
+# Model: Asus Zenfone 9 - AI2202 (2060.142) A13
+# Source URL: https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile
+# Properties count: 25
+
+device_model_name=Asus Zenfone 9 - AI2202 (2060.142) A13
+ro.boot.hardware.sku=AI2202
+ro.build.date=Wed May 24 03:00:00 UTC 2023
+ro.build.date.utc=1684897200
+ro.build.description=WW_AI2202-user 13 TKQ1.220807.001 33.0804.2060.142 release-keys
+ro.build.display.id=TKQ1.220807.001.WW_Phone-33.0804.2060.142 release-keys
+ro.build.expect.baseband=M2.13.33.33-ASUS_1.1.1
+ro.build.expect.bootloader=AI2202-33.0804.2060.142
+ro.build.fingerprint=asus/WW_AI2202/ASUS_AI2202:13/TKQ1.220807.001/33.0804.2060.142:user/release-keys
+ro.build.flavor=WW_AI2202-user
+ro.build.host=aptl-jenkins
+ro.build.id=TKQ1.220807.001
+ro.build.tags=release-keys
+ro.build.type=user
+ro.build.user=android-build
+ro.build.version.incremental=33.0804.2060.142
+ro.build.version.release=13
+ro.build.version.sdk=33
+ro.build.version.security_patch=2023-05-05
+ro.kernel=5.10.101-android13-4-perf
+ro.product.hardware=AI2202
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 13; ASUS_AI2202) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+ro.product.vendor.board=taro
+
+ro.profile.name=Asus Zenfone 9 - AI2202 (2060.142) A13
+ro.profile.source.url=https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile

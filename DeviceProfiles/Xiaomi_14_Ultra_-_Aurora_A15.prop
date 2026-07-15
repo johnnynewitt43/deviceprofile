@@ -1,0 +1,34 @@
+# Device Profile: Xiaomi 14 Ultra - Aurora A15
+# Model: Xiaomi 14 Ultra - Aurora A15
+# Source URL: https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile
+# Properties count: 28
+
+device_model_name=Xiaomi 14 Ultra - Aurora A15
+ro.board.platform=pineapple
+ro.boot.hardware.sku=SM8650
+ro.build.date=Thu Oct 30 22:12:04 UTC 2025
+ro.build.date.utc=1761862324
+ro.build.description=missi-user 15 AQ3A.240627.003 OS2.0.207.0.VNAMIXM release-keys
+ro.build.display.id=AQ3A.240627.003
+ro.build.expect.baseband=MPSS.HI.4.0.c9-00013-SLAALLYM_PACK-1
+ro.build.expect.bootloader=unknown
+ro.build.fingerprint=Xiaomi/aurora_global/aurora:15/AQ3A.240627.003/OS2.0.207.0.VNAMIXM:user/release-keys
+ro.build.flavor=missi-user
+ro.build.host=pangu-build-component-system
+ro.build.id=AQ3A.240627.003
+ro.build.tags=release-keys
+ro.build.type=user
+ro.build.user=android-build
+ro.build.version.incremental=OS2.0.207.0.VNAMIXM
+ro.build.version.release=15
+ro.build.version.sdk=35
+ro.build.version.security_patch=2025-10-01
+ro.kernel=5.15.167-android14-11-g
+ro.product.hardware=Aurora
+ro.product.mod_device=aurora_global
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 15; 24030PN60G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+ro.product.vendor.board=Xiaomi
+ro.vendor.build.version.qcom=SM8650
+
+ro.profile.name=Xiaomi 14 Ultra - Aurora A15
+ro.profile.source.url=https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile

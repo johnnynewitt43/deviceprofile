@@ -1,0 +1,31 @@
+# Device Profile: OnePlus 10 Pro - NE2213 A13
+# Model: OnePlus 10 Pro - NE2213 A13
+# Source URL: https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile
+# Properties count: 25
+
+device_model_name=OnePlus 10 Pro - NE2213 A13
+ro.boot.hardware.sku=NE2213
+ro.build.date=Mon Jan 9 18:32:04 CST 2023
+ro.build.date.utc=1673260324
+ro.build.description=NE2213EEA-user 13 SKQ1.221119.001 S.ffbc55_1-31d9 release-keys
+ro.build.display.id=NE2213_13.1.0.513(EX01)
+ro.build.expect.baseband=Q_V1_P13,Q_V1_P13
+ro.build.expect.bootloader=unknown
+ro.build.fingerprint=OnePlus/NE2213EEA/OP516FL1:13/SKQ1.221119.001/S.ffbc55_1-31d9:user/release-keys
+ro.build.flavor=NE2213EEA-user
+ro.build.host=ubuntu
+ro.build.id=SKQ1.221119.001
+ro.build.tags=release-keys
+ro.build.type=user
+ro.build.user=android-build
+ro.build.version.incremental=S.ffbc55_1-31d9
+ro.build.version.release=13
+ro.build.version.sdk=33
+ro.build.version.security_patch=2022-12-01
+ro.kernel=5.10.101-android12-9
+ro.product.hardware=OP516FL1
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 13; OnePlus 10 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+ro.product.vendor.board=taro
+
+ro.profile.name=OnePlus 10 Pro - NE2213 A13
+ro.profile.source.url=https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile

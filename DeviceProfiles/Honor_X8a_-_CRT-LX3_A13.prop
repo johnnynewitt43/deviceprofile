@@ -1,0 +1,31 @@
+# Device Profile: Honor X8a - CRT-LX3 A13
+# Model: Honor X8a - CRT-LX3 A13
+# Source URL: https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile
+# Properties count: 25
+
+device_model_name=Honor X8a - CRT-LX3 A13
+ro.boot.hardware.sku=CRT-LX3
+ro.build.date=Tue Sep 12 16:05:00 UTC 2023
+ro.build.date.utc=1694534700
+ro.build.description=CRT-LX3-user 13 HONORCRT-LX3 7.1.0.152C431E4R3P2 release-keys
+ro.build.display.id=CRT-LX3 7.1.0.152(C431E4R3P2)
+ro.build.expect.baseband=MOLY.LR13.R1.TC8.PR2.SP.V2.P41
+ro.build.expect.bootloader=unknown
+ro.build.fingerprint=HONOR/CRT-LX3/HNCRT:13/HONORCRT-LX3/7.1.0.152C431E4R3P2:user/release-keys
+ro.build.flavor=CRT-LX3-user
+ro.build.host=magicos-compiler
+ro.build.id=HONORCRT-LX3
+ro.build.tags=release-keys
+ro.build.type=user
+ro.build.user=android-build
+ro.build.version.incremental=7.1.0.152C431E4R3P2
+ro.build.version.release=13
+ro.build.version.sdk=33
+ro.build.version.security_patch=2023-09-01
+ro.kernel=4.19.191-android13-perf
+ro.product.hardware=HNCRT
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 13; Honor X8a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+ro.product.vendor.board=HONOR
+
+ro.profile.name=Honor X8a - CRT-LX3 A13
+ro.profile.source.url=https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile

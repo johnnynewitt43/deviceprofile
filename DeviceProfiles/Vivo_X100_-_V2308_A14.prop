@@ -1,0 +1,37 @@
+# Device Profile: Vivo X100 V2308 A14
+# Model: Vivo X100 V2308 A14
+# Source URL: https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile
+# Properties count: 31
+
+device_model_name=Vivo X100 V2308 A14
+ro.boot.hardware.sku=mt6989
+ro.build.date=Tue Jan 23 21:29:27 CST 2024
+ro.build.date.utc=1706016567
+ro.build.description=sys_mssi_64_cn_armv82-user 14 UP1A.231005.007 eng.compil.20240123.213647 release-keys
+ro.build.display.id=UP1A.231005.007 release-keys
+ro.build.expect.baseband=V2308
+ro.build.expect.bootloader=unknown
+ro.build.fingerprint=vivo/V2308T/V2308:14/UP1A.231005.007/compiler01232129:user/release-keys
+ro.build.flavor=V2308-user
+ro.build.host=dumpling
+ro.build.id=UP1A.231005.007
+ro.build.tags=release-keys
+ro.build.type=user
+ro.build.user=android-build
+ro.build.version.incremental=compiler01232129
+ro.build.version.release=14
+ro.build.version.sdk=34
+ro.build.version.security_patch=2024-01-01
+ro.kernel=5.15-vivo-mtk6989
+ro.product.hardware=V2308
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 14; Vivo X100) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+ro.product.vendor.board=mt6989
+ro.product.vendor.brand=vivo
+ro.product.vendor.device=V2308
+ro.product.vendor.manufacturer=vivo
+ro.product.vendor.model=V2308
+ro.product.vendor.name=V2308
+ro.vivo.product.platform=MTK6989
+
+ro.profile.name=Vivo X100 V2308 A14
+ro.profile.source.url=https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile

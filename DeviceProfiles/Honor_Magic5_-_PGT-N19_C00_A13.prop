@@ -1,0 +1,31 @@
+# Device Profile: Honor Magic5 - PGT-N19 C00 A13
+# Model: Honor Magic5 - PGT-N19 C00 A13
+# Source URL: https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile
+# Properties count: 25
+
+device_model_name=Honor Magic5 - PGT-N19 C00 A13
+ro.boot.hardware.sku=PGT-N19
+ro.build.date=Tue Aug 22 14:30:00 UTC 2023
+ro.build.date.utc=1692714600
+ro.build.description=PGT-N19-user 13 HONORPGT-N19 7.1.0.196C00E3R2P2 release-keys
+ro.build.display.id=PGT-N19 7.1.0.196(C00E3R2P2)
+ro.build.expect.baseband=21C60_2.0.176.15,21C60_2.0.176.15
+ro.build.expect.bootloader=unknown
+ro.build.fingerprint=HONOR/PGT-N19/HNPGT:13/HONORPGT-N19/7.1.0.196C00E3R2P2:user/release-keys
+ro.build.flavor=PGT-N19-user
+ro.build.host=magicos-compiler
+ro.build.id=HONORPGT-N19
+ro.build.tags=release-keys
+ro.build.type=user
+ro.build.user=android-build
+ro.build.version.incremental=7.1.0.196C00E3R2P2
+ro.build.version.release=13
+ro.build.version.sdk=33
+ro.build.version.security_patch=2023-08-01
+ro.kernel=5.10.149-android13-perf
+ro.product.hardware=HNPGT
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 13; Honor Magic5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+ro.product.vendor.board=HONOR
+
+ro.profile.name=Honor Magic5 - PGT-N19 C00 A13
+ro.profile.source.url=https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile

@@ -1,0 +1,34 @@
+# Device Profile: Xiaomi 15 - Dada A15
+# Model: Xiaomi 15 - Dada A15
+# Source URL: https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile
+# Properties count: 28
+
+device_model_name=Xiaomi 15 - Dada A15
+ro.board.platform=sun
+ro.boot.hardware.sku=SM8750
+ro.build.date=Mon Feb 24 15:58:50 UTC 2025
+ro.build.date.utc=1740383930
+ro.build.description=missi-user 15 AQ3A.240812.002 OS2.0.103.0.VOCINXM release-keys
+ro.build.display.id=AQ3A.240812.002
+ro.build.expect.baseband=MPSS.HI.5.0-00007-SUNMAAAAAAAM-1
+ro.build.expect.bootloader=unknown
+ro.build.fingerprint=Xiaomi/dada_global/dada:15/AQ3A.240812.002/OS2.0.103.0.VOCINXM:user/release-keys
+ro.build.flavor=missi-user
+ro.build.host=pangu-build-component-system
+ro.build.id=AQ3A.240812.002
+ro.build.tags=release-keys
+ro.build.type=user
+ro.build.user=android-build
+ro.build.version.incremental=OS2.0.103.0.VOCINXM
+ro.build.version.release=15
+ro.build.version.sdk=35
+ro.build.version.security_patch=2025-02-01
+ro.kernel=6.6.30-android15-8-g
+ro.product.hardware=Dada
+ro.product.mod_device=dada_global
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 15; 24129PN74G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
+ro.product.vendor.board=Xiaomi
+ro.vendor.build.version.qcom=SM8750
+
+ro.profile.name=Xiaomi 15 - Dada A15
+ro.profile.source.url=https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile

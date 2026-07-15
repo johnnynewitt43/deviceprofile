@@ -1,0 +1,37 @@
+# Device Profile: iQOO 11 A13
+# Model: iQOO 11 A13
+# Source URL: https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile
+# Properties count: 31
+
+device_model_name=iQOO 11 A13
+ro.boot.hardware.sku=kalama
+ro.build.date=Tue Dec  6 09:07:13 CST 2022
+ro.build.date.utc=1670288833
+ro.build.description=qssi-user 13 TP1A.220624.014 eng.compil.20221206.090713 release-keys
+ro.build.display.id=TP1A.220624.014 release-keys
+ro.build.expect.baseband=V2243A
+ro.build.expect.bootloader=unknown
+ro.build.fingerprint=vivo/PD2243/PD2243:13/TP1A.220624.014/compiler12060907:user/release-keys
+ro.build.flavor=PD2243-user
+ro.build.host=dumpling
+ro.build.id=TP1A.220624.014
+ro.build.tags=release-keys
+ro.build.type=user
+ro.build.user=android-build
+ro.build.version.incremental=compiler12060907
+ro.build.version.release=13
+ro.build.version.sdk=33
+ro.build.version.security_patch=2022-11-01
+ro.kernel=5.10-vivo-sm8550
+ro.product.hardware=PD2243
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 13; iQOO 11) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+ro.product.vendor.board=kalama
+ro.product.vendor.brand=vivo
+ro.product.vendor.device=PD2243
+ro.product.vendor.manufacturer=vivo
+ro.product.vendor.model=V2243A
+ro.product.vendor.name=PD2243
+ro.vivo.product.platform=SM8550
+
+ro.profile.name=iQOO 11 A13
+ro.profile.source.url=https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile

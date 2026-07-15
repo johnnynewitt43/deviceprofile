@@ -1,0 +1,31 @@
+# Device Profile: Nubia Red Magic 8 Pro - NX729J A13
+# Model: Nubia Red Magic 8 Pro - NX729J A13
+# Source URL: https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile
+# Properties count: 25
+
+device_model_name=Nubia Red Magic 8 Pro - NX729J A13
+ro.boot.hardware.sku=NX729J
+ro.build.date=Mon Feb 6 18:28:37 UTC 2023
+ro.build.date.utc=1675708117
+ro.build.description=qssi-user 13 TKQ1.221013.002 eng.nubia.20230206.183426 release-keys
+ro.build.display.id=TKQ1.221013.002
+ro.build.expect.baseband=kalama
+ro.build.expect.bootloader=kalama
+ro.build.fingerprint=nubia/NX729J/NX729J:13/TKQ1.221013.002/eng.nubia.20230206.183426:user/release-keys
+ro.build.flavor=qssi-user
+ro.build.host=swlab-1t219
+ro.build.id=TKQ1.221013.002
+ro.build.tags=release-keys
+ro.build.type=user
+ro.build.user=android-build
+ro.build.version.incremental=eng.nubia.20230206.183426
+ro.build.version.release=13
+ro.build.version.sdk=33
+ro.build.version.security_patch=2023-01-01
+ro.kernel=5.15.41-android13-8-g0c6efddd96c7
+ro.product.hardware=kalama
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 13; NX729J) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+ro.product.vendor.board=nubia
+
+ro.profile.name=Nubia Red Magic 8 Pro - NX729J A13
+ro.profile.source.url=https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile
