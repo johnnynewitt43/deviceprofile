@@ -1,0 +1,31 @@
+# Device Profile: Sony Xperia 5 IV - PDX224 A13
+# Model: Sony Xperia 5 IV - PDX224 A13
+# Source URL: https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile
+# Properties count: 25
+
+device_model_name=Sony Xperia 5 IV - PDX224 A13
+ro.boot.hardware.sku=XQ-CQ54
+ro.build.date=Wed Dec 14 12:00:00 UTC 2022
+ro.build.date.utc=1671019200
+ro.build.description=XQ-CQ54-user 13 TKQ1.221114.001 64.1.A.0.857 release-keys
+ro.build.display.id=64.1.A.0.857
+ro.build.expect.baseband=64.1.A.0.857
+ro.build.expect.bootloader=1.0.0
+ro.build.fingerprint=Sony/XQ-CQ54/pdx224:13/TKQ1.221114.001/64.1.A.0.857:user/release-keys
+ro.build.flavor=XQ-CQ54-user
+ro.build.host=BuildHost
+ro.build.id=TKQ1.221114.001
+ro.build.tags=release-keys
+ro.build.type=user
+ro.build.user=android-build
+ro.build.version.incremental=64.1.A.0.857
+ro.build.version.release=13
+ro.build.version.sdk=33
+ro.build.version.security_patch=2022-12-01
+ro.kernel=5.10.101-perf
+ro.product.hardware=pdx224
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 13; XQ-CQ54) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+ro.product.vendor.board=nagara
+
+ro.profile.name=Sony Xperia 5 IV - PDX224 A13
+ro.profile.source.url=https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile

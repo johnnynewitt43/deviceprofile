@@ -1,0 +1,31 @@
+# Device Profile: Xiaomi Redmi 10C - Fog A13
+# Model: Xiaomi Redmi 10C - Fog A13
+# Source URL: https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile
+# Properties count: 25
+
+device_model_name=Xiaomi Redmi 10C - Fog A13
+ro.boot.hardware.sku=fog
+ro.build.date=Tue Jul 11 03:05:18 UTC 2023
+ro.build.date.utc=1689044718
+ro.build.description=fog-user 13 TKQ1.221114.001 V14.0.3.0.TGEMIXM release-keys
+ro.build.display.id=13 V14.0.3.0.TGEMIXM
+ro.build.expect.baseband=M3_LNX_R1.0
+ro.build.expect.bootloader=unknown
+ro.build.fingerprint=Redmi/fog/fog:13/TKQ1.221114.001/V14.0.3.0.TGEMIXM:user/release-keys
+ro.build.flavor=missi_phone-user
+ro.build.host=pangu-build-component-system
+ro.build.id=TKQ1.221114.001
+ro.build.tags=release-keys
+ro.build.type=user
+ro.build.user=android-build
+ro.build.version.incremental=V14.0.3.0.TGEMIXM
+ro.build.version.release=13
+ro.build.version.sdk=33
+ro.build.version.security_patch=2023-07-01
+ro.kernel=4.19.157-perf-g0c6efddd96c7
+ro.product.hardware=qcom
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 13; Redmi 10C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+ro.product.vendor.board=Qualcomm
+
+ro.profile.name=Xiaomi Redmi 10C - Fog A13
+ro.profile.source.url=https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile

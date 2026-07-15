@@ -1,0 +1,31 @@
+# Device Profile: Vivo X90 Pro - PD2242F A13
+# Model: Vivo X90 Pro - PD2242F A13
+# Source URL: https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile
+# Properties count: 25
+
+device_model_name=Vivo X90 Pro - PD2242F A13
+ro.boot.hardware.sku=PD2242F
+ro.build.date=Mon Jan 2 20:14:33 UTC 2023
+ro.build.date.utc=1672690473
+ro.build.description=PD2242F_EX-user 13 TP1A.220624.014 compiler01021833 release-keys
+ro.build.display.id=PD2242F_EX_A_13.1.11.3
+ro.build.expect.baseband=MOLY.NR16.R3.TC8.PR2.SP.V2.P89
+ro.build.expect.bootloader=unknown
+ro.build.fingerprint=vivo/PD2242F_EX/PD2242F:13/TP1A.220624.014/compiler01021833:user/release-keys
+ro.build.flavor=PD2242F_EX-user
+ro.build.host=vivo-build
+ro.build.id=TP1A.220624.014
+ro.build.tags=release-keys
+ro.build.type=user
+ro.build.user=android-build
+ro.build.version.incremental=compiler01021833
+ro.build.version.release=13
+ro.build.version.sdk=33
+ro.build.version.security_patch=2022-12-01
+ro.kernel=5.10.149-android13-vivo
+ro.product.hardware=PD2242F
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 13; V2219) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+ro.product.vendor.board=mt6985
+
+ro.profile.name=Vivo X90 Pro - PD2242F A13
+ro.profile.source.url=https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile

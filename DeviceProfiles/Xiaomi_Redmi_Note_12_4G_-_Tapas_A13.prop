@@ -1,0 +1,31 @@
+# Device Profile: Xiaomi Redmi Note 12 4G - Tapas A13
+# Model: Xiaomi Redmi Note 12 4G - Tapas A13
+# Source URL: https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile
+# Properties count: 25
+
+device_model_name=Xiaomi Redmi Note 12 4G - Tapas A13
+ro.boot.hardware.sku=tapas
+ro.build.date=Mon Jul 10 14:36:16 UTC 2023
+ro.build.date.utc=1688999776
+ro.build.description=tapas-user 13 TKQ1.221114.001 V14.0.12.0.TMTMIXM release-keys
+ro.build.display.id=13 V14.0.12.0.TMTMIXM
+ro.build.expect.baseband=M3_LNX_R1.0
+ro.build.expect.bootloader=unknown
+ro.build.fingerprint=Redmi/tapas/tapas:13/TKQ1.221114.001/V14.0.12.0.TMTMIXM:user/release-keys
+ro.build.flavor=missi_phone-user
+ro.build.host=pangu-build-component-system
+ro.build.id=TKQ1.221114.001
+ro.build.tags=release-keys
+ro.build.type=user
+ro.build.user=android-build
+ro.build.version.incremental=V14.0.12.0.TMTMIXM
+ro.build.version.release=13
+ro.build.version.sdk=33
+ro.build.version.security_patch=2023-06-01
+ro.kernel=4.19.157-perf-g0c6efddd96c7
+ro.product.hardware=qcom
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 13; Redmi Note 12 4G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+ro.product.vendor.board=Qualcomm
+
+ro.profile.name=Xiaomi Redmi Note 12 4G - Tapas A13
+ro.profile.source.url=https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile

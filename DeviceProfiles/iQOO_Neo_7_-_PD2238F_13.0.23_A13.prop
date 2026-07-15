@@ -1,0 +1,31 @@
+# Device Profile: iQOO Neo 7 - PD2238F 13.0.23 A13
+# Model: iQOO Neo 7 - PD2238F 13.0.23 A13
+# Source URL: https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile
+# Properties count: 25
+
+device_model_name=iQOO Neo 7 - PD2238F 13.0.23 A13
+ro.boot.hardware.sku=PD2238F
+ro.build.date=Fri Nov 3 18:12:09 UTC 2023
+ro.build.date.utc=1699035129
+ro.build.description=PD2238F_EX-user 13 TP1A.220624.014 compiler11031812 release-keys
+ro.build.display.id=PD2238F_EX_A_13.0.23.0
+ro.build.expect.baseband=MOLY.NR17.R1.TC8.PR1.SP.V2.P28
+ro.build.expect.bootloader=unknown
+ro.build.fingerprint=vivo/PD2238F_EX/PD2238F:13/TP1A.220624.014/compiler11031812:user/release-keys
+ro.build.flavor=PD2238F_EX-user
+ro.build.host=vivo-build
+ro.build.id=TP1A.220624.014
+ro.build.tags=release-keys
+ro.build.type=user
+ro.build.user=android-build
+ro.build.version.incremental=compiler11031812
+ro.build.version.release=13
+ro.build.version.sdk=33
+ro.build.version.security_patch=2023-10-01
+ro.kernel=5.10.149-android13-vivo
+ro.product.hardware=PD2238F
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 13; I2223) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+ro.product.vendor.board=mt6895
+
+ro.profile.name=iQOO Neo 7 - PD2238F 13.0.23 A13
+ro.profile.source.url=https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile

@@ -1,0 +1,31 @@
+# Device Profile: Vivo Y100 - V2239 A13
+# Model: Vivo Y100 - V2239 A13
+# Source URL: https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile
+# Properties count: 25
+
+device_model_name=Vivo Y100 - V2239 A13
+ro.boot.hardware.sku=PD2257F
+ro.build.date=Thu Mar 2 18:41:52 UTC 2023
+ro.build.date.utc=1677782512
+ro.build.description=PD2257F_EX-user 13 TP1A.220624.014 compiler03021841 release-keys
+ro.build.display.id=PD2257F_EX_A_13.0.5.0
+ro.build.expect.baseband=MOLY.NR16.R2.TC8.PR1.SP.V1.P66
+ro.build.expect.bootloader=unknown
+ro.build.fingerprint=vivo/PD2257F_EX/PD2257F:13/TP1A.220624.014/compiler03021841:user/release-keys
+ro.build.flavor=PD2257F_EX-user
+ro.build.host=vivo-build
+ro.build.id=TP1A.220624.014
+ro.build.tags=release-keys
+ro.build.type=user
+ro.build.user=android-build
+ro.build.version.incremental=compiler03021841
+ro.build.version.release=13
+ro.build.version.sdk=33
+ro.build.version.security_patch=2023-02-01
+ro.kernel=5.4.147-android13-vivo
+ro.product.hardware=PD2257F
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 13; V2239) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+ro.product.vendor.board=mt6877
+
+ro.profile.name=Vivo Y100 - V2239 A13
+ro.profile.source.url=https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile

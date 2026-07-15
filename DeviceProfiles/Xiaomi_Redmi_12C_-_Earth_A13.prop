@@ -1,0 +1,31 @@
+# Device Profile: Xiaomi Redmi 12C - Earth A13
+# Model: Xiaomi Redmi 12C - Earth A13
+# Source URL: https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile
+# Properties count: 25
+
+device_model_name=Xiaomi Redmi 12C - Earth A13
+ro.boot.hardware.sku=earth
+ro.build.date=Thu May 11 16:05:12 UTC 2023
+ro.build.date.utc=1683821112
+ro.build.description=earth-user 13 TP1A.220624.014 V14.0.1.0.TCVCNXM release-keys
+ro.build.display.id=13 V14.0.1.0.TCVCNXM
+ro.build.expect.baseband=MOLY.NR15.R3.TC8SP1
+ro.build.expect.bootloader=unknown
+ro.build.fingerprint=Redmi/earth/earth:13/TP1A.220624.014/V14.0.1.0.TCVCNXM:user/release-keys
+ro.build.flavor=missi_phone-user
+ro.build.host=pangu-build-component-system
+ro.build.id=TP1A.220624.014
+ro.build.tags=release-keys
+ro.build.type=user
+ro.build.user=android-build
+ro.build.version.incremental=V14.0.1.0.TCVCNXM
+ro.build.version.release=13
+ro.build.version.sdk=33
+ro.build.version.security_patch=2023-05-01
+ro.kernel=4.19.191-perf-g0c6efddd96c7
+ro.product.hardware=mt6768
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 13; Redmi 12C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+ro.product.vendor.board=k68v1_64
+
+ro.profile.name=Xiaomi Redmi 12C - Earth A13
+ro.profile.source.url=https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile

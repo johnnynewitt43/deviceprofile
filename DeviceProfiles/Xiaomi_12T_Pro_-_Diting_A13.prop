@@ -1,0 +1,31 @@
+# Device Profile: Xiaomi 12T Pro - Diting A13
+# Model: Xiaomi 12T Pro - Diting A13
+# Source URL: https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile
+# Properties count: 25
+
+device_model_name=Xiaomi 12T Pro - Diting A13
+ro.boot.hardware.sku=22081212UG
+ro.build.date=Mon Mar 27 15:51:28 UTC 2023
+ro.build.date.utc=1679932288
+ro.build.description=diting_global-user 13 TKQ1.220829.002 V14.0.2.0.TLFMIXM release-keys
+ro.build.display.id=TKQ1.220829.002 V14.0.2.0.TLFMIXM
+ro.build.expect.baseband=4.4.c4-00050-SM8450_GEN_PACK-1
+ro.build.expect.bootloader=unknown
+ro.build.fingerprint=Xiaomi/diting_global/diting:13/TKQ1.220829.002/V14.0.2.0.TLFMIXM:user/release-keys
+ro.build.flavor=diting_global-user
+ro.build.host=pangu-build-component-system-220929-l2mfd-nlq7t-2sbdb
+ro.build.id=TKQ1.220829.002
+ro.build.tags=release-keys
+ro.build.type=user
+ro.build.user=android-build
+ro.build.version.incremental=V14.0.2.0.TLFMIXM
+ro.build.version.release=13
+ro.build.version.sdk=33
+ro.build.version.security_patch=2023-04-01
+ro.kernel=5.10.101-android13-4-g0c6efddd96c7
+ro.product.hardware=taro
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 13; 22081212UG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+ro.product.vendor.board=Xiaomi
+
+ro.profile.name=Xiaomi 12T Pro - Diting A13
+ro.profile.source.url=https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile

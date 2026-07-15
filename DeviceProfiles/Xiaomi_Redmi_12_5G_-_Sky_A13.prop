@@ -1,0 +1,31 @@
+# Device Profile: Xiaomi Redmi 12 5G - Sky A13
+# Model: Xiaomi Redmi 12 5G - Sky A13
+# Source URL: https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile
+# Properties count: 25
+
+device_model_name=Xiaomi Redmi 12 5G - Sky A13
+ro.boot.hardware.sku=sky
+ro.build.date=Wed Sep  6 11:12:52 UTC 2023
+ro.build.date.utc=1693998772
+ro.build.description=sky-user 13 TKQ1.221114.001 V14.0.2.0.TMWMIXM release-keys
+ro.build.display.id=13 V14.0.2.0.TMWMIXM
+ro.build.expect.baseband=M3_LNX_R1.0
+ro.build.expect.bootloader=unknown
+ro.build.fingerprint=Redmi/sky/sky:13/TKQ1.221114.001/V14.0.2.0.TMWMIXM:user/release-keys
+ro.build.flavor=missi_phone-user
+ro.build.host=pangu-build-component-system
+ro.build.id=TKQ1.221114.001
+ro.build.tags=release-keys
+ro.build.type=user
+ro.build.user=android-build
+ro.build.version.incremental=V14.0.2.0.TMWMIXM
+ro.build.version.release=13
+ro.build.version.sdk=33
+ro.build.version.security_patch=2023-09-01
+ro.kernel=5.15.78-android13-8-g0c6efddd96c7
+ro.product.hardware=qcom
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 13; Redmi 12 5G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+ro.product.vendor.board=Qualcomm
+
+ro.profile.name=Xiaomi Redmi 12 5G - Sky A13
+ro.profile.source.url=https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile

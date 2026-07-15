@@ -1,0 +1,31 @@
+# Device Profile: Sony Xperia 5 V - PDX237 A13
+# Model: Sony Xperia 5 V - PDX237 A13
+# Source URL: https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile
+# Properties count: 25
+
+device_model_name=Sony Xperia 5 V - PDX237 A13
+ro.boot.hardware.sku=XQ-DE54
+ro.build.date=Thu Sep 28 12:00:00 UTC 2023
+ro.build.date.utc=1695902400
+ro.build.description=XQ-DE54-user 13 TKQ1.221114.001 67.0.A.6.60 release-keys
+ro.build.display.id=67.0.A.6.60
+ro.build.expect.baseband=67.0.A.6.60
+ro.build.expect.bootloader=1.0.0
+ro.build.fingerprint=Sony/XQ-DE54/pdx237:13/TKQ1.221114.001/67.0.A.6.60:user/release-keys
+ro.build.flavor=XQ-DE54-user
+ro.build.host=BuildHost
+ro.build.id=TKQ1.221114.001
+ro.build.tags=release-keys
+ro.build.type=user
+ro.build.user=android-build
+ro.build.version.incremental=67.0.A.6.60
+ro.build.version.release=13
+ro.build.version.sdk=33
+ro.build.version.security_patch=2023-09-01
+ro.kernel=5.15.94-perf
+ro.product.hardware=pdx237
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 13; XQ-DE54) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+ro.product.vendor.board=kalama
+
+ro.profile.name=Sony Xperia 5 V - PDX237 A13
+ro.profile.source.url=https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile

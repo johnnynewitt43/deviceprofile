@@ -1,0 +1,31 @@
+# Device Profile: Vivo T2 5G - V2270 A13
+# Model: Vivo T2 5G - V2270 A13
+# Source URL: https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile
+# Properties count: 25
+
+device_model_name=Vivo T2 5G - V2270 A13
+ro.boot.hardware.sku=PD2251F
+ro.build.date=Mon Jun 12 20:08:15 UTC 2023
+ro.build.date.utc=1686600495
+ro.build.description=PD2251F_EX-user 13 TP1A.220624.014 compiler06122008 release-keys
+ro.build.display.id=PD2251F_EX_A_13.0.9.2
+ro.build.expect.baseband=Q_V1_P17,Q_V1_P17
+ro.build.expect.bootloader=unknown
+ro.build.fingerprint=vivo/PD2251F_EX/PD2251F:13/TP1A.220624.014/compiler06122008:user/release-keys
+ro.build.flavor=PD2251F_EX-user
+ro.build.host=vivo-build
+ro.build.id=TP1A.220624.014
+ro.build.tags=release-keys
+ro.build.type=user
+ro.build.user=android-build
+ro.build.version.incremental=compiler06122008
+ro.build.version.release=13
+ro.build.version.sdk=33
+ro.build.version.security_patch=2023-06-01
+ro.kernel=5.4.161-android13-qgki-vivo
+ro.product.hardware=PD2251F
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 13; V2270) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+ro.product.vendor.board=holi
+
+ro.profile.name=Vivo T2 5G - V2270 A13
+ro.profile.source.url=https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile

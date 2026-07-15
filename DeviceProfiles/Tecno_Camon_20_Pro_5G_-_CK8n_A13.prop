@@ -1,0 +1,31 @@
+# Device Profile: TECNO Camon 20 Pro 5G - CK8n A13
+# Model: TECNO Camon 20 Pro 5G - CK8n A13
+# Source URL: https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile
+# Properties count: 25
+
+device_model_name=TECNO Camon 20 Pro 5G - CK8n A13
+ro.boot.hardware.sku=CK8n
+ro.build.date=Thu Aug 17 14:21:07 CST 2023
+ro.build.date.utc=1692253267
+ro.build.description=sys_tssi_64_armv82_tecno-user 13 TP1A.220624.014 406597 release-keys
+ro.build.display.id=TECNO-CK8n-230817V2112
+ro.build.expect.baseband=mt6893
+ro.build.expect.bootloader=mt6893
+ro.build.fingerprint=TECNO/CK8n-GL/TECNO-CK8n:13/TP1A.220624.014/230817V2112:user/release-keys
+ro.build.flavor=sys_tssi_64_armv82_tecno-user
+ro.build.host=buildsrv-n96
+ro.build.id=TP1A.220624.014
+ro.build.tags=release-keys
+ro.build.type=user
+ro.build.user=android-build
+ro.build.version.incremental=230817V2112
+ro.build.version.release=13
+ro.build.version.sdk=33
+ro.build.version.security_patch=2023-07-05
+ro.kernel=5.10.101-android12-9-g0c6efddd96c7
+ro.product.hardware=mt6893
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 13; TECNO CK8n) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+ro.product.vendor.board=TECNO
+
+ro.profile.name=TECNO Camon 20 Pro 5G - CK8n A13
+ro.profile.source.url=https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile

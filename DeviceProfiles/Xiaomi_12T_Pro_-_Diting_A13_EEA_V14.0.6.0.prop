@@ -1,0 +1,31 @@
+# Device Profile: Xiaomi 12T Pro - Diting A13 (EEA)
+# Model: Xiaomi 12T Pro - Diting A13 (EEA)
+# Source URL: https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile
+# Properties count: 25
+
+device_model_name=Xiaomi 12T Pro - Diting A13 (EEA)
+ro.boot.hardware.sku=22081212UG
+ro.build.date=Fri Jan 13 03:41:23 UTC 2023
+ro.build.date.utc=1673581283
+ro.build.description=diting_eea-user 13 TKQ1.220829.002 V14.0.6.0.TLFEUXM release-keys
+ro.build.display.id=TKQ1.220829.002 V14.0.6.0.TLFEUXM
+ro.build.expect.baseband=4.4.c4-00050-SM8450_GEN_PACK-1
+ro.build.expect.bootloader=unknown
+ro.build.fingerprint=Xiaomi/diting_eea/diting:13/TKQ1.220829.002/V14.0.6.0.TLFEUXM:user/release-keys
+ro.build.flavor=diting_eea-user
+ro.build.host=pangu-build-component-system-202767-l2mfd-nlq7t-2sbdb
+ro.build.id=TKQ1.220829.002
+ro.build.tags=release-keys
+ro.build.type=user
+ro.build.user=android-build
+ro.build.version.incremental=V14.0.6.0.TLFEUXM
+ro.build.version.release=13
+ro.build.version.sdk=33
+ro.build.version.security_patch=2022-12-01
+ro.kernel=5.10.101-android13-4-g0c6efddd96c7
+ro.product.hardware=taro
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 13; 22081212UG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+ro.product.vendor.board=Xiaomi
+
+ro.profile.name=Xiaomi 12T Pro - Diting A13 (EEA)
+ro.profile.source.url=https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile

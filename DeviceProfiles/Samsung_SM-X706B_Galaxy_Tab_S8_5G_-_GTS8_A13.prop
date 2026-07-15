@@ -1,0 +1,39 @@
+# Device Profile: Samsung Galaxy Tab S8 5G - GTS8 A13
+# Model: Samsung Galaxy Tab S8 5G - GTS8 A13
+# Source URL: https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile
+# Properties count: 33
+
+device_model_name=Samsung Galaxy Tab S8 5G - GTS8 A13
+ro.boot.hardware.sku=SM-X706B
+ro.build.PDA=X706BXXU3BWB4
+ro.build.changelist=25321044
+ro.build.characteristics=tablet
+ro.build.date=Mon Feb 20 18:00:00 KST 2023
+ro.build.date.utc=1676916000
+ro.build.description=gts8xxx-user 13 TP1A.220624.014 X706BXXU3BWB4 release-keys
+ro.build.display.id=TP1A.220624.014.X706BXXU3BWB4
+ro.build.expect.baseband=X706BXXU3BWB4
+ro.build.expect.bootloader=X706BXXU3BWB4
+ro.build.fingerprint=samsung/gts8xxx/gts8:13/TP1A.220624.014/X706BXXU3BWB4:user/release-keys
+ro.build.flavor=gts8xxx-user
+ro.build.host=SWDK6316
+ro.build.id=TP1A.220624.014
+ro.build.product_code=SM-X706BZAAEUB
+ro.build.tags=release-keys
+ro.build.type=user
+ro.build.user=android-build
+ro.build.version.incremental=X706BXXU3BWB4
+ro.build.version.release=13
+ro.build.version.sdk=33
+ro.build.version.security_patch=2023-02-01
+ro.csc.sales_code=EUX
+ro.kernel=5.10.101-android12-9
+ro.product.hardware=gts8
+ro.product.system.brand=samsung
+ro.product.system.device=gts8
+ro.product.system.name=gts8xxx
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 13; SM-X706B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
+ro.product.vendor.board=Samsung
+
+ro.profile.name=Samsung Galaxy Tab S8 5G - GTS8 A13
+ro.profile.source.url=https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile

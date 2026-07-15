@@ -1,0 +1,31 @@
+# Device Profile: Vivo V27 - V2246 A13
+# Model: Vivo V27 - V2246 A13
+# Source URL: https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile
+# Properties count: 25
+
+device_model_name=Vivo V27 - V2246 A13
+ro.boot.hardware.sku=PD2269F
+ro.build.date=Thu May 18 19:22:07 UTC 2023
+ro.build.date.utc=1684437727
+ro.build.description=PD2269F_EX-user 13 TP1A.220624.014 compiler05181822 release-keys
+ro.build.display.id=PD2269F_EX_A_13.0.8.16
+ro.build.expect.baseband=MOLY.NR17.R1.TC8.PR1.SP.V1.P42
+ro.build.expect.bootloader=unknown
+ro.build.fingerprint=vivo/PD2269F_EX/PD2269F:13/TP1A.220624.014/compiler05181822:user/release-keys
+ro.build.flavor=PD2269F_EX-user
+ro.build.host=vivo-build
+ro.build.id=TP1A.220624.014
+ro.build.tags=release-keys
+ro.build.type=user
+ro.build.user=android-build
+ro.build.version.incremental=compiler05181822
+ro.build.version.release=13
+ro.build.version.sdk=33
+ro.build.version.security_patch=2023-05-01
+ro.kernel=5.15.41-android13-vivo
+ro.product.hardware=PD2269F
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 13; V2246) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+ro.product.vendor.board=mt6886
+
+ro.profile.name=Vivo V27 - V2246 A13
+ro.profile.source.url=https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile

@@ -1,0 +1,31 @@
+# Device Profile: Sony Xperia 10 IV - PDX225 A13
+# Model: Sony Xperia 10 IV - PDX225 A13
+# Source URL: https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile
+# Properties count: 25
+
+device_model_name=Sony Xperia 10 IV - PDX225 A13
+ro.boot.hardware.sku=XQ-CC54
+ro.build.date=Thu Dec 8 12:00:00 UTC 2022
+ro.build.date.utc=1670500800
+ro.build.description=XQ-CC54-user 13 TKQ1.221114.001 65.1.A.4.8 release-keys
+ro.build.display.id=65.1.A.4.8
+ro.build.expect.baseband=65.1.A.4.8
+ro.build.expect.bootloader=1.0.0
+ro.build.fingerprint=Sony/XQ-CC54/pdx225:13/TKQ1.221114.001/65.1.A.4.8:user/release-keys
+ro.build.flavor=XQ-CC54-user
+ro.build.host=BuildHost
+ro.build.id=TKQ1.221114.001
+ro.build.tags=release-keys
+ro.build.type=user
+ro.build.user=android-build
+ro.build.version.incremental=65.1.A.4.8
+ro.build.version.release=13
+ro.build.version.sdk=33
+ro.build.version.security_patch=2022-12-01
+ro.kernel=5.4.147-perf
+ro.product.hardware=pdx225
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 13; XQ-CC54) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+ro.product.vendor.board=holi
+
+ro.profile.name=Sony Xperia 10 IV - PDX225 A13
+ro.profile.source.url=https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile

@@ -1,0 +1,31 @@
+# Device Profile: Xiaomi 13 Pro - Nuwa A13
+# Model: Xiaomi 13 Pro - Nuwa A13
+# Source URL: https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile
+# Properties count: 25
+
+device_model_name=Xiaomi 13 Pro - Nuwa A13
+ro.boot.hardware.sku=2210132G
+ro.build.date=Sat Aug 5 10:20:15 UTC 2023
+ro.build.date.utc=1691230815
+ro.build.description=nuwa_global-user 13 TKQ1.220905.001 V14.0.9.0.TMBMIXM release-keys
+ro.build.display.id=TKQ1.220905.001 V14.0.9.0.TMBMIXM
+ro.build.expect.baseband=4.4.c8-00062-SM8550_GEN_PACK-1
+ro.build.expect.bootloader=unknown
+ro.build.fingerprint=Xiaomi/nuwa_global/nuwa:13/TKQ1.220905.001/V14.0.9.0.TMBMIXM:user/release-keys
+ro.build.flavor=nuwa_global-user
+ro.build.host=pangu-build-component-system-267168-l2mfd-cdt7q-mjmb0
+ro.build.id=TKQ1.220905.001
+ro.build.tags=release-keys
+ro.build.type=user
+ro.build.user=android-build
+ro.build.version.incremental=V14.0.9.0.TMBMIXM
+ro.build.version.release=13
+ro.build.version.sdk=33
+ro.build.version.security_patch=2023-08-01
+ro.kernel=5.15.78-android13-8-g0c6efddd96c7
+ro.product.hardware=kalama
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 13; 2210132G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+ro.product.vendor.board=Xiaomi
+
+ro.profile.name=Xiaomi 13 Pro - Nuwa A13
+ro.profile.source.url=https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile

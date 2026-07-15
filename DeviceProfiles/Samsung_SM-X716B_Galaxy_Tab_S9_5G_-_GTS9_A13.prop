@@ -1,0 +1,39 @@
+# Device Profile: Samsung Galaxy Tab S9 5G - GTS9 A13
+# Model: Samsung Galaxy Tab S9 5G - GTS9 A13
+# Source URL: https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile
+# Properties count: 33
+
+device_model_name=Samsung Galaxy Tab S9 5G - GTS9 A13
+ro.boot.hardware.sku=SM-X716B
+ro.build.PDA=X716BXXU1AWG1
+ro.build.changelist=27441005
+ro.build.characteristics=tablet
+ro.build.date=Tue Jul 25 18:00:00 KST 2023
+ro.build.date.utc=1690308000
+ro.build.description=gts9xxx-user 13 TP1A.220624.014 X716BXXU1AWG1 release-keys
+ro.build.display.id=TP1A.220624.014.X716BXXU1AWG1
+ro.build.expect.baseband=X716BXXU1AWG1
+ro.build.expect.bootloader=X716BXXU1AWG1
+ro.build.fingerprint=samsung/gts9xxx/gts9:13/TP1A.220624.014/X716BXXU1AWG1:user/release-keys
+ro.build.flavor=gts9xxx-user
+ro.build.host=SWDK6316
+ro.build.id=TP1A.220624.014
+ro.build.product_code=SM-X716BZAAEUB
+ro.build.tags=release-keys
+ro.build.type=user
+ro.build.user=android-build
+ro.build.version.incremental=X716BXXU1AWG1
+ro.build.version.release=13
+ro.build.version.sdk=33
+ro.build.version.security_patch=2023-07-01
+ro.csc.sales_code=EUX
+ro.kernel=5.15.94-android13-4
+ro.product.hardware=gts9
+ro.product.system.brand=samsung
+ro.product.system.device=gts9
+ro.product.system.name=gts9xxx
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 13; SM-X716B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+ro.product.vendor.board=Samsung
+
+ro.profile.name=Samsung Galaxy Tab S9 5G - GTS9 A13
+ro.profile.source.url=https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile

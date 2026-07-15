@@ -1,0 +1,31 @@
+# Device Profile: iQOO 11 - I2210 A13
+# Model: iQOO 11 - I2210 A13
+# Source URL: https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile
+# Properties count: 25
+
+device_model_name=iQOO 11 - I2210 A13
+ro.boot.hardware.sku=PD2243F
+ro.build.date=Sat Mar 25 17:33:20 UTC 2023
+ro.build.date.utc=1679765600
+ro.build.description=PD2243F_EX-user 13 TP1A.220624.014 compiler03251733 release-keys
+ro.build.display.id=PD2243F_EX_A_13.0.8.9
+ro.build.expect.baseband=LA.VENDOR.13.2.0.r1-03600-KAILUA-SM8550
+ro.build.expect.bootloader=unknown
+ro.build.fingerprint=vivo/PD2243F_EX/PD2243F:13/TP1A.220624.014/compiler03251733:user/release-keys
+ro.build.flavor=PD2243F_EX-user
+ro.build.host=vivo-build
+ro.build.id=TP1A.220624.014
+ro.build.tags=release-keys
+ro.build.type=user
+ro.build.user=android-build
+ro.build.version.incremental=compiler03251733
+ro.build.version.release=13
+ro.build.version.sdk=33
+ro.build.version.security_patch=2023-03-01
+ro.kernel=5.15.78-android13-qgki-vivo
+ro.product.hardware=PD2243F
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 13; I2210) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+ro.product.vendor.board=kalama
+
+ro.profile.name=iQOO 11 - I2210 A13
+ro.profile.source.url=https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile

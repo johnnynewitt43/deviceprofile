@@ -1,0 +1,39 @@
+# Device Profile: Samsung Galaxy S23 Ultra (SM-S918B) - Dm3q AWHR A13
+# Model: Samsung Galaxy S23 Ultra (SM-S918B) - Dm3q AWHR A13
+# Source URL: https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile
+# Properties count: 33
+
+device_model_name=Samsung Galaxy S23 Ultra (SM-S918B) - Dm3q AWHR A13
+ro.boot.hardware.sku=SM-S918B
+ro.build.PDA=S918BXXS3AWHR
+ro.build.changelist=27100863
+ro.build.date=Thu Aug 31 14:30:46 KST 2023
+ro.build.date.utc=1693459846
+ro.build.description=dm3qxxx-user 13 TP1A.220624.014 S918BXXS3AWHR release-keys
+ro.build.display.id=TP1A.220624.014.S918BXXS3AWHR
+ro.build.expect.baseband=S918BXXS3AWHR
+ro.build.expect.bootloader=S918BXXS3AWHR
+ro.build.fingerprint=samsung/dm3qxxx/qssi:13/TP1A.220624.014/S918BXXS3AWHR:user/release-keys
+ro.build.flavor=dm3qxxx-user
+ro.build.host=SWDK6915
+ro.build.id=TP1A.220624.014
+ro.build.product_code=SM-S918B
+ro.build.tags=release-keys
+ro.build.type=user
+ro.build.user=android-build
+ro.build.version.incremental=S918BXXS3AWHR
+ro.build.version.release=13
+ro.build.version.sdk=33
+ro.build.version.security_patch=2023-09-01
+ro.csc.sales_code=DBT
+ro.kernel=5.15.41-android13-qgki
+ro.product.hardware=dm3q
+ro.product.system.brand=samsung
+ro.product.system.device=qssi
+ro.product.system.model=SM-S918B
+ro.product.system.name=dm3qxxx
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 13; SM-S918B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36
+ro.product.vendor.board=Samsung
+
+ro.profile.name=Samsung Galaxy S23 Ultra (SM-S918B) - Dm3q AWHR A13
+ro.profile.source.url=https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile
