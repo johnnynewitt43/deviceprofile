@@ -1,0 +1,40 @@
+# Device Profile: Samsung SM-S901B Galaxy S22 A14
+# Model: Samsung SM-S901B Galaxy S22 A14
+# Source URL: https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile
+# Properties count: 32
+
+device_model_name=Samsung SM-S901B Galaxy S22 A14
+ro.boot.hardware.sku=s5e9925
+ro.build.PDA=S901BXXU6DWK4
+ro.build.changelist=44271144
+ro.build.date=Mon Nov 20 03:44:10 UTC 2023
+ro.build.date.utc=1700451850
+ro.build.description=r0qxxx-user 14 UP1A.231005.007 S901BXXU6DWK4 release-keys
+ro.build.display.id=UP1A.231005.007.S901BXXU6DWK4
+ro.build.expect.baseband=S901BXXU6DWK4
+ro.build.expect.bootloader=S901BXXU6DWK4
+ro.build.fingerprint=samsung/r0qxxx/r0q:14/UP1A.231005.007/S901BXXU6DWK4:user/release-keys
+ro.build.flavor=r0qxxx-user
+ro.build.host=SWDG4917
+ro.build.id=UP1A.231005.007
+ro.build.product_code=SM-S901BZKDEUB
+ro.build.tags=release-keys
+ro.build.type=user
+ro.build.user=android-build
+ro.build.version.incremental=S901BXXU6DWK4
+ro.build.version.release=14
+ro.build.version.sdk=34
+ro.build.version.security_patch=2023-11-01
+ro.csc.sales_code=EUX
+ro.kernel=5.10.157-259502-S901BXXU6DWK4
+ro.product.hardware=SM-S901B
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 14; SM-S901B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+ro.product.vendor.board=Samsung
+ro.product.vendor.brand=Samsung
+ro.product.vendor.device=r0q
+ro.product.vendor.manufacturer=Samsung
+ro.product.vendor.model=SM-S901B
+ro.product.vendor.name=r0qxxx
+
+ro.profile.name=Samsung SM-S901B Galaxy S22 A14
+ro.profile.source.url=https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile

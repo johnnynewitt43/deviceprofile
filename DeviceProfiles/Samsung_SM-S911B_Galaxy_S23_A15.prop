@@ -1,0 +1,40 @@
+# Device Profile: Samsung SM-S911B Galaxy S23 A15
+# Model: Samsung SM-S911B Galaxy S23 A15
+# Source URL: https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile
+# Properties count: 32
+
+device_model_name=Samsung SM-S911B Galaxy S23 A15
+ro.boot.hardware.sku=SM8550
+ro.build.PDA=S911BXXU8DYD9
+ro.build.changelist=67771144202
+ro.build.date=Wed Apr 16 07:11:05 UTC 2025
+ro.build.date.utc=1744787465
+ro.build.description=dm1qxxx-user 15 AP3A.240905.015.A2 S911BXXU8DYD9 release-keys
+ro.build.display.id=AP3A.240905.015.A2.S911BXXU8DYD9
+ro.build.expect.baseband=S911BXXU8DYD9
+ro.build.expect.bootloader=S911BXXU8DYD9
+ro.build.fingerprint=samsung/dm1qxxx/dm1q:15/AP3A.240905.015.A2/S911BXXU8DYD9:user/release-keys
+ro.build.flavor=dm1qxxx-user
+ro.build.host=21DJFC15
+ro.build.id=AP3A.240905.015.A2
+ro.build.product_code=SM-S911BZKDEUB
+ro.build.tags=release-keys
+ro.build.type=user
+ro.build.user=android-build
+ro.build.version.incremental=S911BXXU8DYD9
+ro.build.version.release=15
+ro.build.version.sdk=35
+ro.build.version.security_patch=2025-04-01
+ro.csc.sales_code=EUX
+ro.kernel=5.15.149-259502-S911BXXU8DYD9
+ro.product.hardware=SM-S911B
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 15; SM-S911B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+ro.product.vendor.board=Samsung
+ro.product.vendor.brand=Samsung
+ro.product.vendor.device=dm1q
+ro.product.vendor.manufacturer=Samsung
+ro.product.vendor.model=SM-S911B
+ro.product.vendor.name=dm1qxxx
+
+ro.profile.name=Samsung SM-S911B Galaxy S23 A15
+ro.profile.source.url=https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile

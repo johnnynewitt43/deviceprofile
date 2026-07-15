@@ -1,0 +1,35 @@
+# Device Profile: Redmi Note 14 Pro 5G A14
+# Model: Redmi Note 14 Pro 5G A14
+# Source URL: https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile
+# Properties count: 29
+
+device_model_name=Redmi Note 14 Pro 5G A14
+ro.boot.hardware.sku=mt6878
+ro.build.date=Sat Dec  7 04:00:00 UTC 2024
+ro.build.date.utc=1733544000
+ro.build.description=malachite_global-user 14 UP1A.231005.007 OS1.0.7.0.UOOMIXM release-keys
+ro.build.display.id=UP1A.231005.007
+ro.build.expect.baseband=OS1.0.7.0.UOOMIXM
+ro.build.expect.bootloader=OS1.0.7.0.UOOMIXM
+ro.build.fingerprint=Redmi/malachite_global/malachite:14/UP1A.231005.007/OS1.0.7.0.UOOMIXM:user/release-keys
+ro.build.flavor=malachite_global-user
+ro.build.host=pangu-build-component-system
+ro.build.id=UP1A.231005.007
+ro.build.tags=release-keys
+ro.build.type=user
+ro.build.user=android-build
+ro.build.version.incremental=OS1.0.7.0.UOOMIXM
+ro.build.version.release=14
+ro.build.version.sdk=34
+ro.build.version.security_patch=2024-12-01
+ro.kernel=5.15.123-android14-malachite
+ro.mediatek.version.branch=alps-mp-u0.mp1
+ro.mediatek.version.release=alps-mp-u0.mp1-V2.19_xiaomi.mt6878.u0mp1_P28
+ro.oem.key1=malachite_x
+ro.product.hardware=malachite
+ro.product.mod_device=malachite_global
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 14; 24090RA29G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+ro.product.vendor.board=Xiaomi
+
+ro.profile.name=Redmi Note 14 Pro 5G A14
+ro.profile.source.url=https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile

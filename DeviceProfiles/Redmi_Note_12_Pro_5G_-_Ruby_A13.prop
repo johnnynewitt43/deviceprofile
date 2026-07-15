@@ -1,0 +1,35 @@
+# Device Profile: Redmi Note 12 Pro 5G A13
+# Model: Redmi Note 12 Pro 5G A13
+# Source URL: https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile
+# Properties count: 29
+
+device_model_name=Redmi Note 12 Pro 5G A13
+ro.boot.hardware.sku=mt6877
+ro.build.date=Thu Nov 16 09:22:49 UTC 2023
+ro.build.date.utc=1700126569
+ro.build.description=ruby_global-user 13 TP1A.220624.014 V14.0.6.0.TMOMIXM release-keys
+ro.build.display.id=TP1A.220624.014
+ro.build.expect.baseband=V14.0.6.0.TMOMIXM
+ro.build.expect.bootloader=V14.0.6.0.TMOMIXM
+ro.build.fingerprint=Redmi/ruby_global/ruby:13/TP1A.220624.014/V14.0.6.0.TMOMIXM:user/release-keys
+ro.build.flavor=ruby_global-user
+ro.build.host=pangu-build-component-system
+ro.build.id=TP1A.220624.014
+ro.build.tags=release-keys
+ro.build.type=user
+ro.build.user=android-build
+ro.build.version.incremental=V14.0.6.0.TMOMIXM
+ro.build.version.release=13
+ro.build.version.sdk=33
+ro.build.version.security_patch=2023-11-01
+ro.kernel=5.10.149-android13-ruby
+ro.mediatek.version.branch=alps-mp-s0.mp1.tc8sp-cs1
+ro.mediatek.version.release=alps-mp-s0.mp1.tc8sp-cs1-V1.0.13_xiaomi.s0mp1.k6877v1.64.k419_P38
+ro.oem.key1=ruby_x
+ro.product.hardware=ruby
+ro.product.mod_device=ruby_global
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 13; 22101316G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+ro.product.vendor.board=Xiaomi
+
+ro.profile.name=Redmi Note 12 Pro 5G A13
+ro.profile.source.url=https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile

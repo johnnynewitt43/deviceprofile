@@ -1,0 +1,33 @@
+# Device Profile: Redmi Note 13 Pro 5G A14
+# Model: Redmi Note 13 Pro 5G A14
+# Source URL: https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile
+# Properties count: 27
+
+device_model_name=Redmi Note 13 Pro 5G A14
+ro.boot.hardware.sku=parrot
+ro.build.date=Fri Oct 11 03:06:04 UTC 2024
+ro.build.date.utc=1728615964
+ro.build.description=garnet_global-user 14 UKQ1.231003.002 V816.0.15.0.UNRMIXM release-keys
+ro.build.display.id=UKQ1.231003.002
+ro.build.expect.baseband=V816.0.15.0.UNRMIXM
+ro.build.expect.bootloader=V816.0.15.0.UNRMIXM
+ro.build.fingerprint=Redmi/garnet_global/garnet:14/UKQ1.231003.002/V816.0.15.0.UNRMIXM:user/release-keys
+ro.build.flavor=garnet_global-user
+ro.build.host=pangu-build-component-system
+ro.build.id=UKQ1.231003.002
+ro.build.tags=release-keys
+ro.build.type=user
+ro.build.user=android-build
+ro.build.version.incremental=V816.0.15.0.UNRMIXM
+ro.build.version.release=14
+ro.build.version.sdk=34
+ro.build.version.security_patch=2024-10-01
+ro.kernel=5.15.123-android14-parrot
+ro.oem.key1=garnet_x
+ro.product.hardware=garnet
+ro.product.mod_device=garnet_global
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 14; 2312DRA50G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+ro.product.vendor.board=Xiaomi
+
+ro.profile.name=Redmi Note 13 Pro 5G A14
+ro.profile.source.url=https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile

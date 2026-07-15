@@ -1,0 +1,40 @@
+# Device Profile: Samsung SM-S908B Galaxy S22 Ultra A14
+# Model: Samsung SM-S908B Galaxy S22 Ultra A14
+# Source URL: https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile
+# Properties count: 32
+
+device_model_name=Samsung SM-S908B Galaxy S22 Ultra A14
+ro.boot.hardware.sku=s5e9925
+ro.build.PDA=S908BXXSDEXKA
+ro.build.changelist=55831144
+ro.build.date=Wed Nov 20 04:33:20 UTC 2024
+ro.build.date.utc=1732077200
+ro.build.description=b0qxxx-user 14 UP1A.231005.007 S908BXXSDEXKA release-keys
+ro.build.display.id=UP1A.231005.007.S908BXXSDEXKA
+ro.build.expect.baseband=S908BXXSDEXKA
+ro.build.expect.bootloader=S908BXXSDEXKA
+ro.build.fingerprint=samsung/b0qxxx/b0q:14/UP1A.231005.007/S908BXXSDEXKA:user/release-keys
+ro.build.flavor=b0qxxx-user
+ro.build.host=SWDG4917
+ro.build.id=UP1A.231005.007
+ro.build.product_code=SM-S908BZKGEUB
+ro.build.tags=release-keys
+ro.build.type=user
+ro.build.user=android-build
+ro.build.version.incremental=S908BXXSDEXKA
+ro.build.version.release=14
+ro.build.version.sdk=34
+ro.build.version.security_patch=2024-11-01
+ro.csc.sales_code=EUX
+ro.kernel=5.10.157-259502-S908BXXSDEXKA
+ro.product.hardware=SM-S908B
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 14; SM-S908B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+ro.product.vendor.board=Samsung
+ro.product.vendor.brand=Samsung
+ro.product.vendor.device=b0q
+ro.product.vendor.manufacturer=Samsung
+ro.product.vendor.model=SM-S908B
+ro.product.vendor.name=b0qxxx
+
+ro.profile.name=Samsung SM-S908B Galaxy S22 Ultra A14
+ro.profile.source.url=https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile

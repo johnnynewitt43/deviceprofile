@@ -1,0 +1,33 @@
+# Device Profile: Redmi Note 13 A14
+# Model: Redmi Note 13 A14
+# Source URL: https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile
+# Properties count: 27
+
+device_model_name=Redmi Note 13 A14
+ro.boot.hardware.sku=bengal
+ro.build.date=Tue Sep  3 07:23:41 UTC 2024
+ro.build.date.utc=1725348221
+ro.build.description=sapphire_global-user 14 UKQ1.231207.002 V816.0.7.0.UNGMIXM release-keys
+ro.build.display.id=UKQ1.231207.002
+ro.build.expect.baseband=V816.0.7.0.UNGMIXM
+ro.build.expect.bootloader=V816.0.7.0.UNGMIXM
+ro.build.fingerprint=Redmi/sapphire_global/sapphire:14/UKQ1.231207.002/V816.0.7.0.UNGMIXM:user/release-keys
+ro.build.flavor=sapphire_global-user
+ro.build.host=pangu-build-component-system
+ro.build.id=UKQ1.231207.002
+ro.build.tags=release-keys
+ro.build.type=user
+ro.build.user=android-build
+ro.build.version.incremental=V816.0.7.0.UNGMIXM
+ro.build.version.release=14
+ro.build.version.sdk=34
+ro.build.version.security_patch=2024-09-01
+ro.kernel=4.19.157-perf-sapphire
+ro.oem.key1=sapphire_x
+ro.product.hardware=sapphire
+ro.product.mod_device=sapphire_global
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 14; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+ro.product.vendor.board=Xiaomi
+
+ro.profile.name=Redmi Note 13 A14
+ro.profile.source.url=https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile

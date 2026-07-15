@@ -1,0 +1,33 @@
+# Device Profile: Redmi Note 12 A13
+# Model: Redmi Note 12 A13
+# Source URL: https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile
+# Properties count: 27
+
+device_model_name=Redmi Note 12 A13
+ro.boot.hardware.sku=bengal
+ro.build.date=Thu Sep  7 07:23:35 UTC 2023
+ro.build.date.utc=1694071415
+ro.build.description=topaz_global-user 13 TKQ1.221114.001 V14.0.7.0.TMGMIXM release-keys
+ro.build.display.id=TKQ1.221114.001
+ro.build.expect.baseband=V14.0.7.0.TMGMIXM
+ro.build.expect.bootloader=V14.0.7.0.TMGMIXM
+ro.build.fingerprint=Redmi/topaz_global/topaz:13/TKQ1.221114.001/V14.0.7.0.TMGMIXM:user/release-keys
+ro.build.flavor=topaz_global-user
+ro.build.host=pangu-build-component-system
+ro.build.id=TKQ1.221114.001
+ro.build.tags=release-keys
+ro.build.type=user
+ro.build.user=android-build
+ro.build.version.incremental=V14.0.7.0.TMGMIXM
+ro.build.version.release=13
+ro.build.version.sdk=33
+ro.build.version.security_patch=2023-09-01
+ro.kernel=4.19.157-perf-topaz
+ro.oem.key1=topaz_x
+ro.product.hardware=topaz
+ro.product.mod_device=topaz_global
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 13; 23021RAAEG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+ro.product.vendor.board=Xiaomi
+
+ro.profile.name=Redmi Note 12 A13
+ro.profile.source.url=https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile
